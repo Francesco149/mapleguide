@@ -11,6 +11,10 @@ the game is designed around the base spawn timer of 7 seconds and base mob count
 
 ** wild totem
 can be purchased for reward points in GMS, lowers spawn time by 40% and increases mob count by 50%. if you leave the map after casting, the effect will go a way. a cast lasts 2 minutes.
+
+the price is currently 1800 reward points for a coupon which, once used, gives you a totem equip that expires 2 hours after using the coupon. equipping it will give you a Wild Totem skill in your beginner skill tab that you can keybind and use.
+
+you can get up to rougly 17 totems per month: 15 from reward points, 2 from daily gifts. occasionally events will give out more.
 ** fury totem
 this is what wild totem used to be called. the transition to fury totem was supposed to lower its spawn rate but it ended up rouding to the same spawn cycle. I am not sure if the mob count ended up being the same.
 ** kishin
@@ -26,9 +30,11 @@ the history of kishin nerfs goes something like this:
 ** frenzy totem
 lower spawn time by 75% and increases the mob count by 70%. the effect stays even if you leave the map after casting. a cast lasts 10 minutes.
 
-it used to be obtainable from gacha things such as the marvel machine and philosopher books
+it used to be obtainable from gacha things such as the marvel machine and philosopher books. this was only ever available in non-reboot.
 
-this is no longer available in GMS, but many frenzy totems remain in the game and are being traded around (usually in the black market). some people also sell frenzy totem service, which is the meta to farm or grind exp on regions that have frenzy
+this is no longer available in GMS, but many frenzy totems remain in the game and are being traded around (usually in the black market). some people also sell frenzy totem service, which is the meta to farm or grind exp on regions that have frenzy.
+
+a frenzy totem works essentially like a wild totem, in that it's an equip and it gives you a skill in the beginner tab. however unlike a wild totem, it is a permanent equip.
 ** spawn cycles rounding
 you can watch [[https://www.youtube.com/watch?v=CNddTLz3KQg][this video]] for more details, but the spawn time ends up rounding up or down to multiples of 1080ms.
 
