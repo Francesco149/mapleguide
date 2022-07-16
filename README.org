@@ -1,0 +1,140 @@
+this is a general guide for brand new and returning players that aims to explain all the important systems in the game. *this is a work in progress*
+
+* spawn enhancers
+the game is designed around the base spawn timer of 7 seconds and base mob count. however, regions outside of korea have introduced ways to speed up the spawn timer and increase the mob count. this decision is highly controversial as it can create balance issues and mess with the economy, since the game is actively being developed and balanced around base spawn.
+
+- KMS never had any spawn enhancers. this is the reference, upstream version of the game
+- after the 2022 kishin nerf, MSEA doesn't have any spawn enhancers
+- GMS has frenzy (but it's unobtainable) and wild totems and used to have kishin
+- TMS has frenzy totem and it's obtainable
+- Kanna and Kishin originally come from JMS. since I don't play JMS and don't know japanese I don't know that the current situation is in JMS with spawn enhancers
+
+** wild totem
+can be purchased for reward points in GMS, lowers spawn time by 40% and increases mob count by 50%. if you leave the map after casting, the effect will go a way. a cast lasts 2 minutes.
+** fury totem
+this is what wild totem used to be called. the transition to fury totem was supposed to lower its spawn rate but it ended up rouding to the same spawn cycle. I am not sure if the mob count ended up being the same.
+** kishin
+kishin is a kanna skill that used to increase spawn rate. kishin pre-dates wild and frenzy totem. it used to be better than frenzy spawn and got nerfed over many years. in 2022, GMS and MSEA nerfed kishin to no longer increase the spawn rate. I'm not sure if any region still has spawn increasing kishin, maybe JMS?
+
+the history of kishin nerfs goes something like this:
+
+- better than current frenzy
+- worse than frenzy
+- lower spawn rate even further
+- add a cooldown to prevent people for afk key weighting to kishin maps. 100% uptime was achievable by proccing nightghost when you hit mobs to lower kishin cooldown. it was still possible to have a kishin mule with a combination of sticky keys, key jamming and intentionally nerfing your damage so you could hit mobs without killing them
+- remove the spawn increase effect entirely and change the skill to a exp passive
+** frenzy totem
+lower spawn time by 75% and increases the mob count by 70%. the effect stays even if you leave the map after casting. a cast lasts 10 minutes.
+
+it used to be obtainable from gacha things such as the marvel machine and philosopher books
+
+this is no longer available in GMS, but many frenzy totems remain in the game and are being traded around (usually in the black market). some people also sell frenzy totem service, which is the meta to farm or grind exp on regions that have frenzy
+** spawn cycles rounding
+you can watch [[https://www.youtube.com/watch?v=CNddTLz3KQg][this video]] for more details, but the spawn time ends up rounding up or down to multiples of 1080ms.
+
+here's what the rounded spawn cycles end up being (credits to [[https://www.youtube.com/watch?v=CNddTLz3KQg&lc=Ugz7QND6wRtjchc3yjB4AaABAg][this comment]]):
+
+| base spawn                                                 | 7560ms  |
+| wild totem                                                 | 4320ms  |
+| v214 kishin                                                | 4320ms  |
+| fury totem                                                 | 4320ms  |
+| first kishin nerf                                          | 3240ms  |
+| double case glitched kishin                                | 2160ms? |
+| current frenzy totem                                       | 2160ms  |
+| pre-frenzy kishin                                          | 1080ms  |
+| release day frenzy                                         | 1080ms  |
+| stacking kishin and frenzy (it was possible at some point) | 0ms     |
+
+* meso farming
+grinding is a popular way to get meso. you have to grind for levels for hundreds of hours, so setting yourself up to farm meso along the way is a good idea as you will get better value for your time rather than just pure EXP. besides meso, you will also get useful or valuable drops such as: nodestones, droplets, honor, cubic blades, unrelenting flames, familiars. some people even go as far to intentionally slow their leveling down so they can meso farm longer before they outlevel a map.
+** sources of meso obtained
+the cap for meso obtained is 100% from equip potentials. inner ability, monster life, legion grid, use coupons, class passive (shadower) go above this cap. this means that shadowers can achieve 20% higher meso obtained than any other class thanks to their passive.
+*** inner ability
+| rare      |   3-5% |
+| epic      |  8-10% |
+| unique    | 13-15% |
+| legendary | 18-20% |
+*** potentials
+on Face Accessory, Eye Accessory, Ring, Earring, Pendant at legendary
+| item level | drop rate |
+|       0-30 |       10% |
+|      31-70 |       15% |
+|        71+ |       20% |
+
+event rings are a free way to get a legendary meso/drop accessory. they can be obtained during events, usually by coin capping. the reason they are a free legendary potential is that there are event ring meister/purple cubes that you can buy in event shops, usually for coins, as well as occasional legendary event ring potential scrolls.
+*** bonus potentials (non-reboot only)
+on everything except weapon, secondary, emblem at legendary
+| item level | drop rate |
+|       0-20 |        2% |
+|      21-50 |        3% |
+|      51-90 |        4% |
+|        91+ |        5% |
+*** monster life (non-reboot only)
+| toy              | 1-7% |
+| moon bunny thief |   4% |
+*** use/cash items
+| legion's wealth                                               | 50%                                 |
+| wealth acquisition potion                                     | multiplies your meso by 1.2         |
+| twin coupon / cash 2x drop coupon (only some non-kms regions) | multiplies your meso and drops by 2 |
+*** legion grid
+the phantom legion piece gives 1-5% meso
+|   level | meso |
+|   60-99 |   1% |
+|  99-139 |   2% |
+| 140-199 |   3% |
+| 200-249 |   4% |
+|    250+ |   5% |
+** meso drop rate
+a lot of people fail to take the meso drop rate into account. mobs have a 60% base chance to drop meso bags. this means that if you have at least 67% drop rate you can guarantee that meso bags always drop because ~0.6 * 0.67 ~= 1~ .
+if you don't have enough drop rate you will not get your full meso rates.
+** sources of meso drop rate
+*** inner ability
+| rare      |   3-5% |
+| epic      |  8-10% |
+| unique    | 13-15% |
+| legendary | 18-20% |
+*** potentials
+on Face Accessory, Eye Accessory, Ring, Earring, Pendant at legendary
+| item level | drop rate |
+|       0-30 |       10% |
+|      31-70 |       15% |
+|        71+ |       20% |
+
+event rings are a free way to get a legendary meso/drop accessory. they can be obtained during events, usually by coin capping. the reason they are a free legendary potential is that there are event ring meister/purple cubes that you can buy in event shops, usually for coins, as well as occasional legendary event ring potential scrolls.
+*** bonus potentials (non-reboot only)
+on everything except weapon, secondary, emblem at legendary
+| item level | drop rate |
+|       0-20 |        2% |
+|      21-50 |        3% |
+|      51-90 |        4% |
+|        91+ |        5% |
+*** monster life (non-reboot only)
+| erda  | 1-7% drop rate in arcane river |
+| seruf |                             2% |
+*** familiars (only some non-KMS regions)
+NOTE: familiar drop rate does NOT affect meso drop rate. you need it to be meso drop rate specifically.
+| tier   | line                                                      |
+| common | Increase Item Drop and Meso Drop by a small amount (20%)  |
+| common | Increase Meso Drop by a small amount (30%)                |
+| epic   | Increases Meso Drop Rate by a large amount (100%)         |
+| epic   | Increases Meso Drop Rate (60%)                            |
+| unique | Increases Item and Meso Drop Rate by a large amount (60%) |
+*** use/cash items
+| legion's luck                                                 |                                 50% |
+| 2x drop coupon                                                |                                100% |
+| wealth acquisition potion                                     |                                 20% |
+| twin coupon / cash 2x drop coupon (only some non-kms regions) | multiplies your meso and drops by 2 |
+** cheap setup for non-reboot
+since meso/drop items can be expensive, it's ideal to avoid buying meso/drop items whenever possible. this setup will put you at 118-120% meso (161-164% with the wealth potion) and 67-79% drop (when the wealth potion is active)
+
+| meso on inner ability 1st line       | 18-20% meso                              |
+| drop on inner ability 2nd line       | 13-15% drop                              |
+| 4 event rings with meso potential    | 80% meso                                 |
+| cheapest meso accessory you can find | 20% meso                                 |
+| cheapest drop accessory you can find | 20% drop                                 |
+| decent holy symbol                   | 14-24% drop                              |
+| wealth acquisition potion            | 20% drop and multiplies your meso by 1.2 |
+
+if you are on GMS or any region with familiars, you can replace the drop accessory with a common familiar that has "Increase Meso Drop by a small amount" or better, but keep in mind that if you farm a lot you will have to keep extracting familiar cards to buy familiar essence which can be annoying and if you're not farming in a map that drops familiars then you will have to spend meso to buy them from the auction house, or you just can't if you're in reboot.
+
+if your region has cash 2x drop coupons that double your meso (twin coupons in MSEA), remember to use them
