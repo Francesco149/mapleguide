@@ -50,6 +50,25 @@ here's what the rounded spawn cycles end up being (credits to [[https://www.yout
 | pre-frenzy kishin                                          | 1080ms  |
 | release day frenzy                                         | 1080ms  |
 | stacking kishin and frenzy (it was possible at some point) | 0ms     |
+** pros and cons of spawn enhancers
+*** pros
+- faster exp
+- can do lazier rotations in smaller maps where you don't need to move as much. some people prefer lazy training like this
+- more meso, more drops
+- faster coin capping during events
+- faster dailies
+- fixed meso sinks such as starforce could be cheaper (in practice they are not, see cons)
+- more supply of items that drop from mobs: this is only a pro if you're trying to self-farm things for yourself. if you're trying to sell the items, it just means that you're gonna sell more of them for a lower price, which is the same value for your time as without spawn enhancers.
+*** cons
+- fixed meso rewards such as ursus and boss crystals are balanced around no spawn enhancers. with spawn enhancers, meso farming generates way more meso than intended and those fixed meso sources become a lot worse relative to everything else. this make non-mesofarm sources of meso way worse than they're supposed to be, which is bad for new players who are not necessarily ready to meso farm or who simply don't want to farm
+- increasing the supply of meso de-values it, resulting in a way more inflated economy with higher prices, exaggerating the problem explained in the previous point. for example, an item that would be 5m in KMS might be 10m in gms because we farm twice as much meso. the value of meso in the meso market is also a lot lower. this means that unless you always farm on spawn enhancers, you get worse value for your time than if spawn enhancers never existed, in terms of buying power.
+- inequality in access to spawn enhancers: for example, back when kanna's kishin increased spawn there was a huge bias to farm or main a kanna because they were not limited by the availability of wild totems, allowing them to farm more than 17 totems worth per month. in non-reboot, you are completely dependent on frenzy owners to be online and sell you frenzy service to grind at optimal rates.
+- you can't ignore them: the economy is inflated by the increased meso supply, so if you play without spawn enhancers you are getting worse value for your time than if you played in a region without spawn enhancers.
+- they're difficult to balance: if a nerf is needed, people will be extremely outraged because they are used to the higher exp and meso rates.
+- because of the profound effect spawn enhancers have on game balance, fixed meso sinks end up being adjusted, so for example GMS has higher starforce price than MSEA and KMS.
+- toxic mindset because of the way they are implemented: you become dependent on the spawn enhancers to grind, but you have to commit to a 2 hour session with the totems, or you have to find someone to sell you frenzy service in non-reboot before you can start grinding
+- the higher the spawn rate, the less you punish laziness and the less you reward effort. on frenzy, active rotations are not significantly better than lazy ones. people who take pride in optimizing their grinding rotations will find it less rewarding
+- maps are designed around base spawn. sometimes new areas can feel underwhelming because their training efficiency is not better on spawn enhancers compared to previous areas.
 
 * meso farming
 grinding is a popular way to get meso. you have to grind for levels for hundreds of hours, so setting yourself up to farm meso along the way is a good idea as you will get better value for your time rather than just pure EXP. besides meso, you will also get useful or valuable drops such as: nodestones, droplets, honor, cubic blades, unrelenting flames, familiars. some people even go as far to intentionally slow their leveling down so they can meso farm longer before they outlevel a map.
