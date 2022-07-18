@@ -110,7 +110,7 @@ the phantom legion piece gives 1-5% meso
 | 200-249 |   4% |
 |    250+ |   5% |
 ** meso drop rate
-a lot of people fail to take the meso drop rate into account. mobs have a 60% base chance to drop meso bags. this means that if you have at least 67% drop rate you can guarantee that meso bags always drop because ~0.6 * 1.67 ~= 1~ .
+a lot of people fail to take the meso drop rate into account. mobs have a 60% base chance to drop meso bags. this means that if you have at least 67% drop rate you can guarantee that meso bags always drop because ~0.6 * 1.67 = 1~ .
 if you don't have enough drop rate you will not get your full meso rates.
 ** sources of meso drop rate
 *** inner ability
