@@ -207,7 +207,8 @@ allows players to obtain the sengoku badge, a badge that can obtain potential. *
 - *no scissor of karma limit. in KMS, scissorable items will become permanently untradable once the limit runs out*
 - pensalir equips don't become untradable after equipping
 - lab server hasn't come back unlike in TMS, so this is *legacy power creep that new players don't have*
-- in gms, you can charge a weapon with no soul and get att for it being charged as long as you used a soul enchanter on it. in KMS, you also have to apply a soul
+- you can charge a weapon with no soul and get att for it being charged as long as you used a soul enchanter on it. in KMS, you also have to apply a soul
+- items can drop with bonus potential on them, making it a lot easier to transfer hammer rare or epic bonus potentials for cheap
 
 *** GMS items
 **** ghost ship exorcist badge
