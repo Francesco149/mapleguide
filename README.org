@@ -269,6 +269,8 @@ a lot of link skills have an extra level at lvl 210 that KMS doesn't have. sligh
 the green monster park potion allows breaking the soft cap of attack speed 2. in KMS, this is impossible. *major balance implications: classes that don't scale with attack speed are worse than intended and vice-versa*
 ** TMS - Taiwan MapleStory (June 1, 2005)
 this region is known to have insane power creep. not knowing the language I don't know the true extent of the custom content in this region.
+
+apparently their starforce is way more expensive than in any other region but they have ways to safeguard past 17. no idea about the details
 *** TMS upgrade systems
 **** familiars
 adds the ability to summon monsters as your familiars which have stats similar to a potential on them. *major power creep: in TMS, familiars can roll % FINAL DAMAGE lines*.
