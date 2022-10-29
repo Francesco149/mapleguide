@@ -184,6 +184,8 @@ allows players to obtain the sengoku badge, a badge that can obtain potential. *
 - imported a lot of content from JMS, including Kanna, Hayato, Beast Tamer, Princess No, Akechi Mitsuhide, Threads of Fate, Zipangu
 - imported lab server and the housing and familiar systems from TMS
 - *imported pottable sengoku badge from JMS*. this event hasn't come back in years though, so it is considered an *unobtainable legacy item that gives people who got it back in the day an whole extra potential*
+- *the reboot meso multiplier is 6x instead of 5x*
+- *boss crystal prices are different*. in KMS, bosses before chaos papulatus are worth significantly less and bosses after that are worth more, with the endgame bosses being worth a lot more than in GMS
 - *nodestone drops are untradeable*. to sell nodestones on the auction house, you have to open them and extract them to craft tradable ones.
 - *daily bosses drop master and meister cubes*
 - *master and meister cubes are untradable*
@@ -204,6 +206,7 @@ allows players to obtain the sengoku badge, a badge that can obtain potential. *
 - *no scissor of karma limit. in KMS, scissorable items will become permanently untradable once the limit runs out*
 - pensalir equips don't become untradable after equipping
 - lab server hasn't come back unlike in TMS, so this is *legacy power creep that new players don't have*
+- in gms, you can charge a weapon with no soul and get att for it being charged as long as you used a soul enchanter on it. in KMS, you also have to apply a soul
 
 *** GMS items
 **** ghost ship exorcist badge
