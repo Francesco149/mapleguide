@@ -1,16 +1,17 @@
 this is a general guide for brand new and returning players that aims to explain all the important systems in the game. *this is a work in progress*
 
 * spawn enhancers
-the game is designed around the base spawn timer of 7 seconds and base mob count. however, regions outside of korea have introduced ways to speed up the spawn timer and increase the mob count. this decision is highly controversial as it can create balance issues and mess with the economy, since the game is actively being developed and balanced around base spawn.
+the base spawn rate of the game is 7.56 seconds, or 7560 milliseconds.  however, regions outside of korea have introduced ways to speed up the spawn timer and increase the mob count. this decision has significant balance and gameplay implications since it essentially multiplies farming/exp rates and changes the meta maps for farming
 
-- KMS never had any spawn enhancers. this is the reference, upstream version of the game
-- after the 2022 kishin nerf, MSEA doesn't have any spawn enhancers
-- GMS has frenzy (but it's unobtainable) and wild totems and used to have kishin
+** availability
+- *KMS never had any spawn enhancers.* this is the reference, upstream version of the game
+- *MSEA doesn't currently have any spawn enhancers.* used to have kishin (removed in 2022).
+- GMS has frenzy (but it's unobtainable) and used to have wild/fury totem and kishin (both removed in 2022). *GMS Reboot no longer has spawn enhancers as of 2022*
 - TMS has frenzy totem and it's obtainable
 - Kanna and Kishin originally come from JMS. since I don't play JMS and don't know japanese I don't know that the current situation is in JMS with spawn enhancers
 
 ** wild totem
-can be purchased for reward points in GMS, lowers spawn time by 40% and increases mob count by 50%. if you leave the map after casting, the effect will go a way. a cast lasts 2 minutes.
+ lowers spawn time by 40% and increases mob count by 50%. if you leave the map after casting, the effect will go a way. a cast lasts 2 minutes.
 
 the price is currently 1800 reward points for a coupon which, once used, gives you a totem equip that expires 2 hours after using the coupon. equipping it will give you a Wild Totem skill in your beginner skill tab that you can keybind and use.
 
@@ -18,21 +19,23 @@ you can get up to rougly 17 totems per month: 15 from reward points, 2 from dail
 ** fury totem
 this is what wild totem used to be called. the transition to fury totem was supposed to lower its spawn rate but it ended up rouding to the same spawn cycle. I am not sure if the mob count ended up being the same.
 ** kishin
-kishin is a kanna skill that used to increase spawn rate. kishin pre-dates wild and frenzy totem. it used to be better than frenzy spawn and got nerfed over many years. in 2022, GMS and MSEA nerfed kishin to no longer increase the spawn rate. I'm not sure if any region still has spawn increasing kishin, maybe JMS?
+kishin is a kanna skill that *used to increase spawn rate*. kishin pre-dates wild and frenzy totem. it used to be better than frenzy spawn and got nerfed over many years. *in 2022, GMS and MSEA nerfed kishin to no longer increase the spawn rate*. I'm not sure if any region still has spawn increasing kishin, maybe JMS?
 
 the history of kishin nerfs goes something like this:
 
 - better than current frenzy
 - worse than frenzy
 - lower spawn rate even further
-- add a cooldown to prevent people for afk key weighting to kishin maps. 100% uptime was achievable by proccing nightghost when you hit mobs to lower kishin cooldown. it was still possible to have a kishin mule with a combination of sticky keys, key jamming and intentionally nerfing your damage so you could hit mobs without killing them
-- remove the spawn increase effect entirely and change the skill to a exp passive
+- add a cooldown to prevent people from afk key weighting to kishin maps. 100% uptime was achievable by proccing nightghost when you hit mobs to lower kishin cooldown. it was still possible to have a kishin mule with a combination of sticky keys, key jamming and intentionally nerfing your damage so you could hit mobs without killing them
+- remove the spawn increase effect entirely and change the skill to a 10% exp passive
 ** frenzy totem
 lower spawn time by 75% and increases the mob count by 70%. the effect stays even if you leave the map after casting. a cast lasts 10 minutes.
 
 it used to be obtainable from gacha things such as the marvel machine and philosopher books. this was only ever available in non-reboot.
 
-this is no longer available in GMS, but many frenzy totems remain in the game and are being traded around (usually in the black market). some people also sell frenzy totem service, which is the meta to farm or grind exp on regions that have frenzy.
+this is no longer available in GMS, but many frenzy totems remain in the game and are being traded around (usually in the black market).
+
+*people sell frenzy totem service: you pay them to cast frenzy in your map, which is the meta to farm on regions that have frenzy.*
 
 a frenzy totem works essentially like a wild totem, in that it's an equip and it gives you a skill in the beginner tab. however unlike a wild totem, it is a permanent equip.
 ** spawn cycles rounding
@@ -50,25 +53,6 @@ here's what the rounded spawn cycles end up being (credits to [[https://www.yout
 | pre-frenzy kishin                                          | 1080ms  |
 | release day frenzy                                         | 1080ms  |
 | stacking kishin and frenzy (it was possible at some point) | 0ms     |
-** pros and cons of spawn enhancers
-*** pros
-- faster exp
-- can do lazier rotations in smaller maps where you don't need to move as much. some people prefer lazy training like this
-- more meso, more drops
-- faster coin capping during events
-- faster dailies
-- fixed meso sinks such as starforce could be cheaper (in practice they are not, see cons)
-- more supply of items that drop from mobs: this is only a pro if you're trying to self-farm things for yourself. if you're trying to sell the items, it just means that you're gonna sell more of them for a lower price, which is the same value for your time as without spawn enhancers.
-*** cons
-- fixed meso rewards such as ursus and boss crystals are balanced around no spawn enhancers. with spawn enhancers, meso farming generates way more meso than intended and those fixed meso sources become a lot worse relative to everything else. this make non-mesofarm sources of meso way worse than they're supposed to be, which is bad for new players who are not necessarily ready to meso farm or who simply don't want to farm
-- increasing the supply of meso de-values it, resulting in a way more inflated economy with higher prices, exaggerating the problem explained in the previous point. for example, an item that would be 5m in KMS might be 10m in gms because we farm twice as much meso. the value of meso in the meso market is also a lot lower. this means that unless you always farm on spawn enhancers, you get worse value for your time than if spawn enhancers never existed, in terms of buying power.
-- inequality in access to spawn enhancers: for example, back when kanna's kishin increased spawn there was a huge bias to farm or main a kanna because they were not limited by the availability of wild totems, allowing them to farm more than 17 totems worth per month. in non-reboot, you are completely dependent on frenzy owners to be online and sell you frenzy service to grind at optimal rates.
-- you can't ignore them: the economy is inflated by the increased meso supply, so if you play without spawn enhancers you are getting worse value for your time than if you played in a region without spawn enhancers.
-- they're difficult to balance: if a nerf is needed, people will be extremely outraged because they are used to the higher exp and meso rates.
-- because of the profound effect spawn enhancers have on game balance, fixed meso sinks end up being adjusted, so for example GMS has higher starforce price than MSEA and KMS.
-- toxic mindset because of the way they are implemented: you become dependent on the spawn enhancers to grind, but you have to commit to a 2 hour session with the totems, or you have to find someone to sell you frenzy service in non-reboot before you can start grinding
-- the higher the spawn rate, the less you punish laziness and the less you reward effort. on frenzy, active rotations are not significantly better than lazy ones. people who take pride in optimizing their grinding rotations will find it less rewarding
-- maps are designed around base spawn. sometimes new areas can feel underwhelming because their training efficiency is not better on spawn enhancers compared to previous areas.
 
 * meso farming
 grinding is a popular way to get meso. you have to grind for levels for hundreds of hours, so setting yourself up to farm meso along the way is a good idea as you will get better value for your time rather than just pure EXP. besides meso, you will also get useful or valuable drops such as: nodestones, droplets, honor, cubic blades, unrelenting flames, familiars. some people even go as far to intentionally slow their leveling down so they can meso farm longer before they outlevel a map.
@@ -163,3 +147,139 @@ since meso/drop items can be expensive, it's ideal to avoid buying meso/drop ite
 if you are on GMS or any region with familiars, you can replace the drop accessory with a common familiar that has "Increase Meso Drop by a small amount" or better, but keep in mind that if you farm a lot you will have to keep extracting familiar cards to buy familiar essence which can be annoying and if you're not farming in a map that drops familiars then you will have to spend meso to buy them from the auction house, or you just can't if you're in reboot.
 
 if your region has cash 2x drop coupons that double your meso (twin coupons in MSEA), remember to use them
+
+NOTE: apparently nodestone drop rate caps at 200%, so your node drops won't benefit past that
+* regional differences
+there are multiple localizations of the game with significant content and gameplay differences. it's important to be aware of these differences when discussing game balance decisions coming from KMS, as they can sometimes appear nonsensical in a meta that significantly differs from KMS. this list is inteded to illustrate balance/meta difference between regions, it's not inteded to be an exhaustive list
+** KMS - Korean MapleStory (April 29, 2003)
+the original, upstream, reference version of the game. all core content updates are released in korea first and trickle down to other regions months later. also the most highly populated version currently
+** JMS - Japanese MapleStory (December 3, 2003)
+*** JMS classes
+**** Kanna (mage, August 16 2012)
+introduced the skill Kishin, which speeds up the respawn time and increases the maximum number of monsters in the map. as far as I know, the first spawn enhancer.
+
+*this made farming a lot faster than intended and changed the meta for the most efficient maps*. it also pushed players to create a kanna on a second account to cast kishin for their main, a 2pc meta. *it was subsequently nerfed multiple times in GMS and MSEA until the spawn enhancement effect was completely removed in 2022*. I am unsure about the status of kishin in other regions.
+
+link skill is 10% damage which ends up being one of the best-in-slot link skills for mobbing and bossing
+**** Hayato (warrior, July 24 2012)
+**** Beast Tamer (mage, July 2014)
+link skill gives up to 10% crit rate and 10% boss damage
+*** JMS bosses
+**** Princess No
+- drops Kanna's Treasure, a level 140 ring. *significant power creep: KMS doesn't have many rings that can be starforced to 22+ stars* (and all of those rings are unique equipped) so it's a power creep over KMS especially with how early it can be obtained
+- drops Captivating Fragments which can be opened for a Princess No secondary weapon. these have slightly better stats than a regular secondary but the difference is negligible
+**** Akechi Mitsuhide
+just below normal lotus in terms of damage requirement, sizable increase in boss crystal meso income
+*** JMS questlines and areas
+**** Threads of Fate
+comes with a mini dating sim ui with all the characters from the questline.
+
+players have been able herb pouches much more easily than intended with a complicated setup exploiting seemingly unintended mechanics with the "ask" system. *this makes wealth acquisition potions and other items crafted with juniper berry seed oils a lot more easy to obtain than originally intended*
+**** Zipangu region
+Mushroom Shrine, Ninja Castle, Showa, Neo Tokyo, etc...
+*** JMS events
+**** Sengoku High
+allows players to obtain the sengoku badge, a badge that can obtain potential. *significant power creep: KMS doesn't have any pottable badges, so it's an extra potential that they don't have*
+** GMS - Global MapleStory (May 11, 2005)
+- imported a lot of content from JMS, including Kanna, Hayato, Beast Tamer, Princess No, Akechi Mitsuhide, Threads of Fate, Zipangu
+- imported the housing and familiar systems from TMS
+- imported the singapore and malaysia areas from MSEA as well as pottable badges
+- imported sengoku pottable badges from JMS
+- *nodestone drops are untradeable*. to sell nodestones on the auction house, you have to open them and extract them to craft tradable ones.
+- *daily bosses drop master and meister cubes*
+- *master and meister cubes are untradable*
+- *miracle time event doesn't affect non-cash cubes (such as meister, master, occult)*
+- *reward points cannot be used to buy NX items in the cash shop, unlike in KMS*. there is instead a dedicated reward points shop with limited choice
+- *instead of having the non-expiring buff freezers packs that KMS has, GMS has an npc called Matilda in non-reboot that sells 5 1-week buff freezers for 1m each per day*
+- *spell trace fever doesn't happen every sunday*
+- *equips can be hammered twice instead of once*. this adds up to a decent power creep, especially if you consider 1 extra slot of everything that scrolls for att
+- *imports TMS cubes such as violet, uni, equality. these make 3line and multiple prime potentials a lot easier to obtain for non-reboot*. violet cube prime chances are much lower than in TMS and don't guarantee double primes
+- *much higher tier up rate for potential, estimated to be 4-5x of KMS*
+- *higher star force price than KMS (20-30% higher?)*. starforce price will be reduced by another ~20% after totem removal
+- *imports breath of divinity from TMS* see TMS section
+- *level 151+ items have higher potential lines, similar to the 250+ lines for ethernal equips in KMS. slight power creep*
+
+*** GMS items
+**** battle-roid android
+- *gives infinite buff freezers*. this can be obtained through gacha systems such as the marvel machine and is a very expensive purchase for the average player (like 300k NX worth of meso) I am unsure what region this item originates from
+**** wondroid heart
+- *22 higher att than a fairy heart from spell tracing due to higher att per slot because of the higher level*. the only lvl 120 permanent heart in KMS is the liquid-metal heart and it has been unobtainable for a long time.
+**** outlaw heart
+- *major power creep: 29 higher att than a fairy heart from scrolling. also goes to 22+ stars  and gains attack so way higher stats, like 200+ total attack at 22*
+**** lucid earring
+cash equip that gives a bind skill with a 90s cooldown. cooldown not shared with other binds. *makes bosses significantly easier since they can be bound a lot more often*
+*** GMS spawn enhancers
+- frenzy totem (non-reboot only) *major balance implications: over 2x the farming rates as KMS*
+- used to have wild totem and kishin. removed in 2022
+*** GMS buffs
+- 24 hours *multiplicative 2x exp coupon. only works up to lvl 250. makes early leveling significantly easier.*
+*** GMS classes
+**** Jett (pirate)
+*** GMS bosses
+**** gollux
+released in 2013, it introduced the gollux accessories, easily obtainable even by weak low level characters by farming the lower difficulties of the boss daily. *MAJOR power creep: superior gollux 4-set effect is 30% boss 30% ignore defense, 35 att and a bunch of stat. each accessory can be scrolled with special scrolls that give 4 att per slot, much easier to obtain than premium accessory scrolls. this was so overpowered that as of 2022 these accessories are still the realistic best in slot. this makes some KMS accessories irrelevant, such as the estellia earring. it also makes the pitched boss set a lot less appealing, which is supposed to be the endgame*
+
+it was revamped in 2020 to have a much higher damage requirement and more unforgiving mechanics. even characters that can clear normal lotus might struggle with hellux. the gear is still relatively easy to obtain for how good it is
+*** GMS questlines and areas
+**** monad
+*removed in 2022*. this was effectively an extra daily boss (julieta) that you can do 4 times a day for extra chance of cubes. also drops boxes that give epic empress and japanese gear.
+**** commerci
+through denaro obtained from daily voyages and the party quests, players can purchase sweetwater accessories. this content can be easily cleared even on a weak low level character. the face and eye accessories are sometimes slightly better than alternatives because they're level 160 and have higher potential lines and staforce stats.
+
+denaro can also be used to transpose items. see the transpose section
+*** GMS upgrade systems
+**** familiars
+adds the ability to summon monsters as your familiars which have stats similar to a potential on them. *major power creep: these can roll boss damage and ignore enemy defense lines. also, healing familiars allow players to heal quickly and even through heal lock boss mechanics which makes a lot of bosses a lot easier that they should be*.
+
+the GMS familiar system is a bit different than TMS's. UI appears to be a bit different, and familiars can't roll final damage unlike in TMS. might be an older iteration of it
+
+familiar cards only drop in morass, esfera, moonbridge, labyrinth, limina for lvl200+ areas. *this creates a huge bias to avoid other areas like sellas or the lvl 260+ grandis areas until your familiars are done even though they would otherwise be perfectly valid for farming.*
+**** transposing
+part of commerci. you can only transpose into sweetwater armors and accessories. the source items cannot be higher than 16 stars. one star is lost but the stats remain. so *if you transpose at 16 stars, you get a 15 star item that has the stats of a 16 star*, effectively injecting an extra star worth of stats. flame stats of the source item are maintained, so *trasponsing a flame advantaged item gets you a flame advantage flame even though sweetwater gear doesn't have flame advantage*. the source item set effect is lost and replaced by the destination set effect (only sweetwater armors have a set effect). back when tyrants were meta, this was used to give tyrant gear a set effect for a bunch of extra attack. currently, it is used to transpose accessories for the higher stats. pendant and eye accessory usually. *small power creep: a bit of extra attack and stat*
+
+** TMS - Taiwan MapleStory (June 1, 2005)
+this region is known to have insane power creep. not knowing the language I don't know the true extent of the custom content in this region.
+*** TMS upgrade systems
+**** familiars
+adds the ability to summon monsters as your familiars which have stats similar to a potential on them. *major power creep: in TMS, familiars can roll % FINAL DAMAGE lines*.
+**** animus cube
+works like a black cube but you *can lock a line that you don't want to reroll*. apparently you need some etc from bosses to lock
+**** reflect cube
+like a red cube but has a 20% chance to mirror the 1st line to the 2nd line, making it 
+**** hexa/violet cube
+rolls 6 lines and lets you pick any 3 of them. *much higher chance of 3 lining an item than regular cubes*. in TMS, these cubes guarantees 2 prime lines on every roll. other regions such as GMS and MSEA have lower prime chances that don't guarantee more than 1 prime
+**** equality cube
+only rolls prime lines. *multiple prime items WAY easier, especially good for things like double drop, meso, crit damage, cooldown*
+**** uni cube
+spend cubes to select a random line, reroll line once (without spending cubes), repeat. *makes triple prime items a lot easier (equality cube double prime -> unicube 3rd prime line). also good for turning a 2l into a 3l*
+*** TMS items
+**** breath of divinity ring
+very expensive item obtainable from gachas like marvel machine and philosopher books. *makes boss mechanics a lot easier: gives a shield buff skill that lets you tank 100+% hp attacks quite often (the extra hp bar recovers as you hit the boss). it's also yet another 22+star ring that KMS doesn't have*
+
+** CMS - China MapleStory
+apparently the official chinese name is "Adventure Island Online". I don't know much about this region. some major balance critical difference that I heard about are a *lower damage cap than other regions that can be unlocked by spending money and 6 ring slots*
+
+*** CMS classes
+**** Zen (pirate)
+apparently started as a Jett reskinned to have more of a martial arts theme. development of this class later stopped and creation was disabled. Zen characters were later converted to Mo Xuan in regions that had that class. MSEA just outright deleted the class and forced people to job change their Zens to other explorer pirates
+**** Mo Xuan (pirate)
+martial arts themed class that replaces zen in CMS and TMS
+** MSEA - MapleStory South East Asia (June 23, 2005)
+MSEA doesn't have a reboot server. they import some of the TMS cubes such as hexa and reflect.
+
+has battle-roid and outlaw heart. see GMS section
+
+has breath of divinity. see TMS section
+
+has lucid earring. see GMS section
+*** MSEA buffs
+- twin coupon: multiplicative 2x drop coupon which also doubles meso drops. *major balance implications: effectively doubles farming rates, including meso*
+** EMS - Europe MapleStory (April 12, 2007)
+in 2016, EMS was merged with GMS and all data was transfered over.
+
+some content that was unique to EMS is forever gone, such as the veracent area. a lot of legacy items from EMS only events and content carried over to GMS, such as lord of the darkness medal (+50 att).
+
+there were also issues migrating flames to GMS, resulting in *items being able to be flamed twice with way higher than intended stats*. apparently the flame stats were initially converted to blue stats. some of these double flamed items are still around in the auction house
+** Thailand MapleStory
+I don't know much about this region, other than it was shut down in 2020 and players were forced to move to MSEA and given a few gifts (but no data transfer).
+
