@@ -182,7 +182,7 @@ Mushroom Shrine, Ninja Castle, Showa, Neo Tokyo, etc...
 allows players to obtain the sengoku badge, a badge that can obtain potential. *significant power creep: KMS doesn't have any pottable badges, so it's an extra potential that they don't have*
 ** GMS - Global MapleStory (May 11, 2005)
 - imported a lot of content from JMS, including Kanna, Hayato, Beast Tamer, Princess No, Akechi Mitsuhide, Threads of Fate, Zipangu
-- imported the housing and familiar systems from TMS
+- imported lab server and the housing and familiar systems from TMS
 - *imported pottable sengoku badge from JMS*. this event hasn't come back in years though, so it is considered an *unobtainable legacy item that gives people who got it back in the day an whole extra potential*
 - *nodestone drops are untradeable*. to sell nodestones on the auction house, you have to open them and extract them to craft tradable ones.
 - *daily bosses drop master and meister cubes*
@@ -193,7 +193,7 @@ allows players to obtain the sengoku badge, a badge that can obtain potential. *
 - *reboot buff freezers are 5m instead of 1m and they expire instead of being permanent*
 - *most NX outfits expire in 90 days instead of being permanent*
 - *to use 3 pets, players need to buy a pet snack with either reward points (once a month) or for NX and complete a quest*. in KMS you can immediately use 3 pets
-- *spell trace fever doesn't happen every sunday*
+- *spell trace fever doesn't happen every sunday*. it's every few months and it's time slots of like 2 hours over a couple days instead of a whole 24 hours like on KMS
 - *equips can be hammered twice instead of once*. this adds up to a decent power creep, especially if you consider 1 extra slot of everything that scrolls for att
 - *imports TMS cubes such as violet, uni, equality. these make 3line and multiple prime potentials a lot easier to obtain for non-reboot*. violet cube prime chances are much lower than in TMS and don't guarantee double primes
 - *much higher tier up rate for potential, estimated to be 4-5x of KMS*
@@ -201,18 +201,25 @@ allows players to obtain the sengoku badge, a badge that can obtain potential. *
 - *imports breath of divinity from TMS* see TMS section
 - *level 151+ items have higher potential lines, similar to the 250+ lines for ethernal equips in KMS. slight power creep*
 - auto all-cure skill for pets. makes bosses like pink bean less annoying
+- *no scissor of karma limit. in KMS, scissorable items will become permanently untradable once the limit runs out*
+- pensalir equips don't become untradable after equipping
+- lab server hasn't come back unlike in TMS, so this is *legacy power creep that new players don't have*
 
 *** GMS items
 **** ghost ship exorcist badge
 apparently MSEA doesn't have this. this is a pottable badge like the sengoku badge that used to be obtainable from the singapore ghost ship questline, however the area has been removed and this item is now unobtainable. *players with this legacy item have one extra potential*
 **** battle-roid android
-- *gives infinite buff freezers*. this can be obtained through gacha systems such as the marvel machine and is a very expensive purchase for the average player (like 300k NX worth of meso) I am unsure what region this item originates from
+*gives infinite buff freezers*. this can be obtained through gacha systems such as the marvel machine and is a very expensive purchase for the average player (like 300k NX worth of meso) I am unsure what region this item originates from
 **** wondroid heart
-- *22 higher att than a fairy heart from spell tracing due to higher att per slot because of the higher level*. the only lvl 120 permanent heart in KMS is the liquid-metal heart and it has been unobtainable for a long time.
+*22 higher att than a fairy heart from spell tracing due to higher att per slot because of the higher level*. the only lvl 120 permanent heart in KMS is the liquid-metal heart and it has been unobtainable for a long time.
 **** outlaw heart
-- *major power creep: 29 higher att than a fairy heart from scrolling. also goes to 22+ stars  and gains attack so way higher stats, like 200+ total attack at 22*
+*major power creep: 29 higher att than a fairy heart from scrolling. also goes to 22+ stars  and gains attack so way higher stats, like 200+ total attack at 22*
 **** lucid earring
 cash equip that gives a bind skill with a 90s cooldown. cooldown not shared with other binds. *makes bosses significantly easier since they can be bound a lot more often*
+**** alien equips
+the alien party quest was discontinued and removed in 2022. VIP alien accessories could be obtained from it, which are always tradable and excellent for transferable meso/drop gear in non-reboot. the pendant is 22+ starrable
+**** dark totems
+dark totems of darkness is an event that gives totems that give up to 15 att and 36 main stat each. *this even hasn't come back in years so these are assumed to be legacy items. MAJOR power creep, 45+ att and a lot of stat from 3 dark totems is very significant*
 *** GMS spawn enhancers
 - frenzy totem (non-reboot only) *major balance implications: over 2x the farming rates as KMS*
 - used to have wild totem and kishin. removed in 2022
@@ -241,12 +248,25 @@ the GMS familiar system is a bit different than TMS's. UI appears to be a bit di
 familiar cards only drop in morass, esfera, moonbridge, labyrinth, limina for lvl200+ areas. *this creates a huge bias to avoid other areas like sellas or the lvl 260+ grandis areas until your familiars are done even though they would otherwise be perfectly valid for farming.*
 **** transposing
 part of commerci. you can only transpose into sweetwater armors and accessories. the source items cannot be higher than 16 stars. one star is lost but the stats remain. so *if you transpose at 16 stars, you get a 15 star item that has the stats of a 16 star*, effectively injecting an extra star worth of stats. flame stats of the source item are maintained, so *trasponsing a flame advantaged item gets you a flame advantage flame even though sweetwater gear doesn't have flame advantage*. the source item set effect is lost and replaced by the destination set effect (only sweetwater armors have a set effect). back when tyrants were meta, this was used to give tyrant gear a set effect for a bunch of extra attack. currently, it is used to transpose accessories for the higher stats. pendant and eye accessory usually. *small power creep: a bit of extra attack and stat*
+**** dark scrolls
+legacy 30% scrolls that have a chance of destruction. some of them are better than spell tracing, for example shield scrolls for att. slight power creep, not super expensive but pretty rare
 
+I am not 100% sure dark scrolls are non-KMS, but I couldn't find any reference to them being in KMS
+**** prime scrolls
+very expensive and difficult to obtain scrolls that give 10 att and 3 all stats on weapons, 10 all stat on accessories and armors. barely better than 30/15% scrolling. I am not sure what region these scrolls originate from
+**** X scrolls
+very expensive and difficult to obtain scrolls (I believe they come from marvel and philosopher books?) that give 5-7 att on pet equips and armors, 10-12 att and 5 all stat on weapons. *significant power creep as this is much easier than incredible chaos scrolls on armor, but unrealistic for most players* . I am not sure what region these scrolls originate from
+**** level 3 link skills
+a lot of link skills have an extra level at lvl 210 that KMS doesn't have. slight power and exp creep
+**** attack speed 0
+the green monster park potion allows breaking the soft cap of attack speed 2. in KMS, this is impossible. *major balance implications: classes that don't scale with attack speed are worse than intended and vice-versa*
 ** TMS - Taiwan MapleStory (June 1, 2005)
 this region is known to have insane power creep. not knowing the language I don't know the true extent of the custom content in this region.
 *** TMS upgrade systems
 **** familiars
 adds the ability to summon monsters as your familiars which have stats similar to a potential on them. *major power creep: in TMS, familiars can roll % FINAL DAMAGE lines*.
+**** lab server
+a temporary server with different rules that gives a +25 att 5 block legion block and a +35 att 5 block legion block. *major power creep: 60 att total*
 **** animus cube
 works like a black cube but you *can lock a line that you don't want to reroll*. apparently you need some etc from bosses to lock
 **** reflect cube
@@ -278,10 +298,13 @@ has battle-roid and outlaw heart. see GMS section
 
 has breath of divinity. see TMS section
 
-has lucid earring. see GMS section
+has lucid earring and attack speed 0. see GMS section
 *** MSEA buffs
 **** twin coupon
 multiplicative 2x drop coupon which also doubles meso drops. *major balance implications: effectively doubles farming rates, including meso*
+*** MSEA upgrade systems
+**** +1 star force scroll
+up to 50% chance to gain 1 star up to 23 stars with no destruction or drops on items up to level 200. *major power creep: 23 stars becomes a lot easier*. non-reboot only
 ** EMS - Europe MapleStory (April 12, 2007)
 in 2016, EMS was merged with GMS and all data was transfered over.
 
