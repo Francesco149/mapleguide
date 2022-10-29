@@ -183,6 +183,7 @@ allows players to obtain the sengoku badge, a badge that can obtain potential. *
 ** GMS - Global MapleStory (May 11, 2005)
 - imported a lot of content from JMS, including Kanna, Hayato, Beast Tamer, Princess No, Akechi Mitsuhide, Threads of Fate, Zipangu
 - imported lab server and the housing and familiar systems from TMS
+- *imported +1 star force scrolls from MSEA* see msea section
 - *imported pottable sengoku badge from JMS*. this event hasn't come back in years though, so it is considered an *unobtainable legacy item that gives people who got it back in the day an whole extra potential*
 - *the reboot meso multiplier is 6x instead of 5x*
 - *boss crystal prices are different*. in KMS, bosses before chaos papulatus are worth significantly less and bosses after that are worth more, with the endgame bosses being worth a lot more than in GMS
