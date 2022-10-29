@@ -257,6 +257,8 @@ rolls 6 lines and lets you pick any 3 of them. *much higher chance of 3 lining a
 only rolls prime lines. *multiple prime items WAY easier, especially good for things like double drop, meso, crit damage, cooldown*
 **** uni cube
 spend cubes to select a random line, reroll line once (without spending cubes), repeat. *makes triple prime items a lot easier (equality cube double prime -> unicube 3rd prime line). also good for turning a 2l into a 3l*
+**** housing system
+mostly cosmetic but gives a 15% boss damage buff
 *** TMS items
 **** breath of divinity ring
 very expensive item obtainable from gachas like marvel machine and philosopher books. *makes boss mechanics a lot easier: gives a shield buff skill that lets you tank 100+% hp attacks quite often (the extra hp bar recovers as you hit the boss). it's also yet another 22+star ring that KMS doesn't have*
