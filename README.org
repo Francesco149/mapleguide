@@ -183,14 +183,16 @@ allows players to obtain the sengoku badge, a badge that can obtain potential. *
 ** GMS - Global MapleStory (May 11, 2005)
 - imported a lot of content from JMS, including Kanna, Hayato, Beast Tamer, Princess No, Akechi Mitsuhide, Threads of Fate, Zipangu
 - imported the housing and familiar systems from TMS
-- imported the singapore and malaysia areas from MSEA as well as pottable badges
-- imported sengoku pottable badges from JMS
+- *imported pottable sengoku badge from JMS*. this event hasn't come back in years though, so it is considered an *unobtainable legacy item that gives people who got it back in the day an whole extra potential*
 - *nodestone drops are untradeable*. to sell nodestones on the auction house, you have to open them and extract them to craft tradable ones.
 - *daily bosses drop master and meister cubes*
 - *master and meister cubes are untradable*
 - *miracle time event doesn't affect non-cash cubes (such as meister, master, occult)*
 - *reward points cannot be used to buy NX items in the cash shop, unlike in KMS*. there is instead a dedicated reward points shop with limited choice
-- *instead of having the non-expiring buff freezers packs that KMS has, GMS has an npc called Matilda in non-reboot that sells 5 1-week buff freezers for 1m each per day*
+- *instead of having the non-expiring buff freezers packs that KMS has, GMS has an npc called Matilda in non-reboot that sells 5 1-week buff freezers for 1m each per day.*
+- *reboot buff freezers are 5m instead of 1m and they expire instead of being permanent*
+- *most NX outfits expire in 90 days instead of being permanent*
+- *to use 3 pets, players need to buy a pet snack with either reward points (once a month) or for NX and complete a quest*. in KMS you can immediately use 3 pets
 - *spell trace fever doesn't happen every sunday*
 - *equips can be hammered twice instead of once*. this adds up to a decent power creep, especially if you consider 1 extra slot of everything that scrolls for att
 - *imports TMS cubes such as violet, uni, equality. these make 3line and multiple prime potentials a lot easier to obtain for non-reboot*. violet cube prime chances are much lower than in TMS and don't guarantee double primes
@@ -198,8 +200,11 @@ allows players to obtain the sengoku badge, a badge that can obtain potential. *
 - *higher star force price than KMS (20-30% higher?)*. starforce price will be reduced by another ~20% after totem removal
 - *imports breath of divinity from TMS* see TMS section
 - *level 151+ items have higher potential lines, similar to the 250+ lines for ethernal equips in KMS. slight power creep*
+- auto all-cure skill for pets. makes bosses like pink bean less annoying
 
 *** GMS items
+**** ghost ship exorcist badge
+apparently MSEA doesn't have this. this is a pottable badge like the sengoku badge that used to be obtainable from the singapore ghost ship questline, however the area has been removed and this item is now unobtainable. *players with this legacy item have one extra potential*
 **** battle-roid android
 - *gives infinite buff freezers*. this can be obtained through gacha systems such as the marvel machine and is a very expensive purchase for the average player (like 300k NX worth of meso) I am unsure what region this item originates from
 **** wondroid heart
@@ -273,7 +278,8 @@ has breath of divinity. see TMS section
 
 has lucid earring. see GMS section
 *** MSEA buffs
-- twin coupon: multiplicative 2x drop coupon which also doubles meso drops. *major balance implications: effectively doubles farming rates, including meso*
+**** twin coupon
+multiplicative 2x drop coupon which also doubles meso drops. *major balance implications: effectively doubles farming rates, including meso*
 ** EMS - Europe MapleStory (April 12, 2007)
 in 2016, EMS was merged with GMS and all data was transfered over.
 
