@@ -243,6 +243,8 @@ it was revamped in 2020 to have a much higher damage requirement and more unforg
 through denaro obtained from daily voyages and the party quests, players can purchase sweetwater accessories. this content can be easily cleared even on a weak low level character. the face and eye accessories are sometimes slightly better than alternatives because they're level 160 and have higher potential lines and staforce stats.
 
 denaro can also be used to transpose items. see the transpose section
+**** maple tour
+similar to monster park but gives meso weekly. doing 7 runs is pay to win so most people do 2 runs per day which on reboot nets 380m per week at lvl 200+. for new players who get most of their meso from ursus this significantly increases meso income
 *** GMS upgrade systems
 **** familiars
 adds the ability to summon monsters as your familiars which have stats similar to a potential on them. *major power creep: these can roll boss damage and ignore enemy defense lines. also, healing familiars allow players to heal quickly and even through heal lock boss mechanics which makes a lot of bosses a lot easier that they should be*.
