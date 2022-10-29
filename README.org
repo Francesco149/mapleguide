@@ -1,59 +1,5 @@
 this is a general guide for brand new and returning players that aims to explain all the important systems in the game. *this is a work in progress*
 
-* spawn enhancers
-the base spawn rate of the game is 7.56 seconds, or 7560 milliseconds.  however, regions outside of korea have introduced ways to speed up the spawn timer and increase the mob count. this decision has significant balance and gameplay implications since it essentially multiplies farming/exp rates and changes the meta maps for farming
-
-** availability
-- *KMS never had any spawn enhancers.* this is the reference, upstream version of the game
-- *MSEA doesn't currently have any spawn enhancers.* used to have kishin (removed in 2022).
-- GMS has frenzy (but it's unobtainable) and used to have wild/fury totem and kishin (both removed in 2022). *GMS Reboot no longer has spawn enhancers as of 2022*
-- TMS has frenzy totem and it's obtainable
-- Kanna and Kishin originally come from JMS. since I don't play JMS and don't know japanese I don't know that the current situation is in JMS with spawn enhancers
-
-** wild totem
- lowers spawn time by 40% and increases mob count by 50%. if you leave the map after casting, the effect will go a way. a cast lasts 2 minutes.
-
-the price is currently 1800 reward points for a coupon which, once used, gives you a totem equip that expires 2 hours after using the coupon. equipping it will give you a Wild Totem skill in your beginner skill tab that you can keybind and use.
-
-you can get up to rougly 17 totems per month: 15 from reward points, 2 from daily gifts. occasionally events will give out more.
-** fury totem
-this is what wild totem used to be called. the transition to fury totem was supposed to lower its spawn rate but it ended up rouding to the same spawn cycle. I am not sure if the mob count ended up being the same.
-** kishin
-kishin is a kanna skill that *used to increase spawn rate*. kishin pre-dates wild and frenzy totem. it used to be better than frenzy spawn and got nerfed over many years. *in 2022, GMS and MSEA nerfed kishin to no longer increase the spawn rate*. I'm not sure if any region still has spawn increasing kishin, maybe JMS?
-
-the history of kishin nerfs goes something like this:
-
-- better than current frenzy
-- worse than frenzy
-- lower spawn rate even further
-- add a cooldown to prevent people from afk key weighting to kishin maps. 100% uptime was achievable by proccing nightghost when you hit mobs to lower kishin cooldown. it was still possible to have a kishin mule with a combination of sticky keys, key jamming and intentionally nerfing your damage so you could hit mobs without killing them
-- remove the spawn increase effect entirely and change the skill to a 10% exp passive
-** frenzy totem
-lower spawn time by 75% and increases the mob count by 70%. the effect stays even if you leave the map after casting. a cast lasts 10 minutes.
-
-it used to be obtainable from gacha things such as the marvel machine and philosopher books. this was only ever available in non-reboot.
-
-this is no longer available in GMS, but many frenzy totems remain in the game and are being traded around (usually in the black market).
-
-*people sell frenzy totem service: you pay them to cast frenzy in your map, which is the meta to farm on regions that have frenzy.*
-
-a frenzy totem works essentially like a wild totem, in that it's an equip and it gives you a skill in the beginner tab. however unlike a wild totem, it is a permanent equip.
-** spawn cycles rounding
-you can watch [[https://www.youtube.com/watch?v=CNddTLz3KQg][this video]] for more details, but the spawn time ends up rounding up or down to multiples of 1080ms.
-
-here's what the rounded spawn cycles end up being (credits to [[https://www.youtube.com/watch?v=CNddTLz3KQg&lc=Ugz7QND6wRtjchc3yjB4AaABAg][this comment]]):
-
-| base spawn                                                 | 7560ms  |
-| wild totem                                                 | 4320ms  |
-| v214 kishin                                                | 4320ms  |
-| fury totem                                                 | 4320ms  |
-| first kishin nerf                                          | 3240ms  |
-| double case glitched kishin                                | 2160ms? |
-| current frenzy totem                                       | 2160ms  |
-| pre-frenzy kishin                                          | 1080ms  |
-| release day frenzy                                         | 1080ms  |
-| stacking kishin and frenzy (it was possible at some point) | 0ms     |
-
 * meso farming
 grinding is a popular way to get meso. you have to grind for levels for hundreds of hours, so setting yourself up to farm meso along the way is a good idea as you will get better value for your time rather than just pure EXP. besides meso, you will also get useful or valuable drops such as: nodestones, droplets, honor, cubic blades, unrelenting flames, familiars. some people even go as far to intentionally slow their leveling down so they can meso farm longer before they outlevel a map.
 ** sources of meso obtained
@@ -149,6 +95,60 @@ if you are on GMS or any region with familiars, you can replace the drop accesso
 if your region has cash 2x drop coupons that double your meso (twin coupons in MSEA), remember to use them
 
 NOTE: apparently nodestone drop rate caps at 200%, so your node drops won't benefit past that
+* spawn enhancers
+the base spawn rate of the game is 7.56 seconds, or 7560 milliseconds.  however, regions outside of korea have introduced ways to speed up the spawn timer and increase the mob count. this decision has significant balance and gameplay implications since it essentially multiplies farming/exp rates and changes the meta maps for farming
+
+** availability
+- *KMS never had any spawn enhancers.* this is the reference, upstream version of the game
+- *MSEA doesn't currently have any spawn enhancers.* used to have kishin (removed in 2022).
+- GMS has frenzy (but it's unobtainable) and used to have wild/fury totem and kishin (both removed in 2022). *GMS Reboot no longer has spawn enhancers as of 2022*
+- TMS has frenzy totem and it's obtainable
+- Kanna and Kishin originally come from JMS. since I don't play JMS and don't know japanese I don't know that the current situation is in JMS with spawn enhancers
+
+** wild totem
+ lowers spawn time by 40% and increases mob count by 50%. if you leave the map after casting, the effect will go a way. a cast lasts 2 minutes.
+
+the price is currently 1800 reward points for a coupon which, once used, gives you a totem equip that expires 2 hours after using the coupon. equipping it will give you a Wild Totem skill in your beginner skill tab that you can keybind and use.
+
+you can get up to rougly 17 totems per month: 15 from reward points, 2 from daily gifts. occasionally events will give out more.
+** fury totem
+this is what wild totem used to be called. the transition to fury totem was supposed to lower its spawn rate but it ended up rouding to the same spawn cycle. I am not sure if the mob count ended up being the same.
+** kishin
+kishin is a kanna skill that *used to increase spawn rate*. kishin pre-dates wild and frenzy totem. it used to be better than frenzy spawn and got nerfed over many years. *in 2022, GMS and MSEA nerfed kishin to no longer increase the spawn rate*. I'm not sure if any region still has spawn increasing kishin, maybe JMS?
+
+the history of kishin nerfs goes something like this:
+
+- better than current frenzy
+- worse than frenzy
+- lower spawn rate even further
+- add a cooldown to prevent people from afk key weighting to kishin maps. 100% uptime was achievable by proccing nightghost when you hit mobs to lower kishin cooldown. it was still possible to have a kishin mule with a combination of sticky keys, key jamming and intentionally nerfing your damage so you could hit mobs without killing them
+- remove the spawn increase effect entirely and change the skill to a 10% exp passive
+** frenzy totem
+lower spawn time by 75% and increases the mob count by 70%. the effect stays even if you leave the map after casting. a cast lasts 10 minutes.
+
+it used to be obtainable from gacha things such as the marvel machine and philosopher books. this was only ever available in non-reboot.
+
+this is no longer available in GMS, but many frenzy totems remain in the game and are being traded around (usually in the black market).
+
+*people sell frenzy totem service: you pay them to cast frenzy in your map, which is the meta to farm on regions that have frenzy.*
+
+a frenzy totem works essentially like a wild totem, in that it's an equip and it gives you a skill in the beginner tab. however unlike a wild totem, it is a permanent equip.
+** spawn cycles rounding
+you can watch [[https://www.youtube.com/watch?v=CNddTLz3KQg][this video]] for more details, but the spawn time ends up rounding up or down to multiples of 1080ms.
+
+here's what the rounded spawn cycles end up being (credits to [[https://www.youtube.com/watch?v=CNddTLz3KQg&lc=Ugz7QND6wRtjchc3yjB4AaABAg][this comment]]):
+
+| base spawn                                                 | 7560ms  |
+| wild totem                                                 | 4320ms  |
+| v214 kishin                                                | 4320ms  |
+| fury totem                                                 | 4320ms  |
+| first kishin nerf                                          | 3240ms  |
+| double case glitched kishin                                | 2160ms? |
+| current frenzy totem                                       | 2160ms  |
+| pre-frenzy kishin                                          | 1080ms  |
+| release day frenzy                                         | 1080ms  |
+| stacking kishin and frenzy (it was possible at some point) | 0ms     |
+
 * regional differences
 there are multiple localizations of the game with significant content and gameplay differences. it's important to be aware of these differences when discussing game balance decisions coming from KMS, as they can sometimes appear nonsensical in a meta that significantly differs from KMS. this list is inteded to illustrate balance/meta difference between regions, it's not inteded to be an exhaustive list
 ** KMS - Korean MapleStory (April 29, 2003)
