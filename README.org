@@ -20,6 +20,8 @@ intuitively, higher mob capacity and spawn count equals better kill rate as long
 
 at base spawn the sweet spot for optimal farming is usually a rotation that can full clear the map slightly faster than the spawn timer, so that you're evenly killing everything but you're also not waiting for spawn too long. ideally, you want to have a consistent movement cycle that lines up with the spawn timer where you briefly wait for spawn always at the same key positions. depending on class, rotations can have multiple movement cycles that are being rotated because of different cooldowns being up. [[https://youtu.be/KR6iIgiYnWk][here's an example]] of a rotation that has 3 movement cycles and alternates them like: 123123
 
+at base spawn, it is very punishing to not sync your movement with the spawn timer: if your rotation is not circular, all the mobs that respawn behind you will not be killed until the next cycle, meaning that they are wasted kills that you could've gotten
+
 on very fast spawn (such as frenzy totem), the concept of a cycle is much more blurry as it's very difficult to keep up with the spawn timer so the kill rate usually doesn't reach the theoretical maximum except for very small maps
 
 ** monster spawn resources
