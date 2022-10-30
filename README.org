@@ -245,13 +245,13 @@ allows players to obtain the sengoku badge, a badge that can obtain potential. *
 *** GMS items
 **** ghost ship exorcist badge
 apparently MSEA doesn't have this. this is a pottable badge like the sengoku badge that used to be obtainable from the singapore ghost ship questline, however the area has been removed and this item is now unobtainable. *players with this legacy item have one extra potential*
-**** battle-roid android
+**** battle-roid android (non-reboot)
 *gives infinite buff freezers*. this can be obtained through gacha systems such as the marvel machine and is a very expensive purchase for the average player (like 300k NX worth of meso) I am unsure what region this item originates from
 **** wondroid heart
-*22 higher att than a fairy heart from spell tracing due to higher att per slot because of the higher level*. the only lvl 120 permanent heart in KMS is the liquid-metal heart and it has been unobtainable for a long time.
-**** outlaw heart
+*on non-reboot, 22 higher att than a fairy heart from spell tracing due to higher att per slot because of the higher level*. the only lvl 120 permanent heart in KMS is the liquid-metal heart and it has been unobtainable for a long time.
+**** outlaw heart (non-reboot)
 *major power creep: 29 higher att than a fairy heart from scrolling. also goes to 22+ stars  and gains attack so way higher stats, like 200+ total attack at 22*
-**** lucid earring
+**** lucid earring (non-reboot)
 cash equip that gives a bind skill with a 90s cooldown. cooldown not shared with other binds. *makes bosses significantly easier since they can be bound a lot more often*
 **** alien equips
 the alien party quest was discontinued and removed in 2022. VIP alien accessories could be obtained from it, which are always tradable and excellent for transferable meso/drop gear in non-reboot. the pendant is 22+ starrable
@@ -262,11 +262,12 @@ dark totems of darkness is an event that gives totems that give up to 15 att and
 - used to have wild totem and kishin. removed in 2022
 *** GMS buffs
 - 24 hours *multiplicative 2x exp coupon. only works up to lvl 250. makes early leveling significantly easier.*
+- used to have a multiplicative 2x drop coupon like MSEA's twin coupon. *removed in 2022 but has significantly affected non-reboot economy by doubling farming rates for years*
 *** GMS classes
 **** Jett (pirate)
 *** GMS bosses
 **** gollux
-released in 2013, it introduced the gollux accessories, easily obtainable even by weak low level characters by farming the lower difficulties of the boss daily. *MAJOR power creep: superior gollux 4-set effect is 30% boss 30% ignore defense, 35 att and a bunch of stat. each accessory can be scrolled with special scrolls that give 4 att per slot, much easier to obtain than premium accessory scrolls. this was so overpowered that as of 2022 these accessories are still the realistic best in slot. this makes some KMS accessories irrelevant, such as the estellia earring. it also makes the pitched boss set a lot less appealing, which is supposed to be the endgame*
+released in 2013, it introduced the gollux accessories, easily obtainable even by weak low level characters by farming the lower difficulties of the boss daily. *MAJOR power creep: superior gollux 4-set effect is 30% boss 30% ignore defense, 35 att and a bunch of stat. on non-reboot, each accessory can be scrolled with special scrolls that give 4 att per slot, much easier to obtain than premium accessory scrolls. this was so overpowered that as of 2022 these accessories are still the realistic best in slot. this makes some KMS accessories irrelevant, such as the estellia earring. it also makes the pitched boss set a lot less appealing, which is supposed to be the endgame*
 
 it was revamped in 2020 to have a much higher damage requirement and more unforgiving mechanics. even characters that can clear normal lotus might struggle with hellux. the gear is still relatively easy to obtain for how good it is
 *** GMS questlines and areas
@@ -287,13 +288,13 @@ the GMS familiar system is a bit different than TMS's. UI appears to be a bit di
 familiar cards only drop in morass, esfera, moonbridge, labyrinth, limina for lvl200+ areas. *this creates a huge bias to avoid other areas like sellas or the lvl 260+ grandis areas until your familiars are done even though they would otherwise be perfectly valid for farming.*
 **** transposing
 part of commerci. you can only transpose into sweetwater armors and accessories. the source items cannot be higher than 16 stars. one star is lost but the stats remain. so *if you transpose at 16 stars, you get a 15 star item that has the stats of a 16 star*, effectively injecting an extra star worth of stats. flame stats of the source item are maintained, so *trasponsing a flame advantaged item gets you a flame advantage flame even though sweetwater gear doesn't have flame advantage*. the source item set effect is lost and replaced by the destination set effect (only sweetwater armors have a set effect). back when tyrants were meta, this was used to give tyrant gear a set effect for a bunch of extra attack. currently, it is used to transpose accessories for the higher stats. pendant and eye accessory usually. *small power creep: a bit of extra attack and stat*
-**** dark scrolls
+**** dark scrolls (non-reboot)
 legacy 30%/70% scrolls that have a chance of destruction. some of them are better than spell tracing, for example shield scrolls for att. slight power creep, not super expensive but pretty rare
 
 I am not 100% sure dark scrolls are non-KMS, but I couldn't find any reference to them being in KMS
-**** prime scrolls
+**** prime scrolls (non-reboot)
 very expensive and difficult to obtain scrolls that give 10 att and 3 all stats on weapons, 10 all stat on accessories and armors. barely better than 30/15% scrolling. I am not sure what region these scrolls originate from
-**** X scrolls
+**** X scrolls (non-reboot)
 very expensive and difficult to obtain scrolls (I believe they come from marvel and philosopher books?) that give 5-7 att on pet equips and armors, 10-12 att and 5 all stat on weapons. *significant power creep as this is much easier than incredible chaos scrolls on armor, but unrealistic for most players* . I am not sure what region these scrolls originate from
 **** level 3 link skills
 a lot of link skills have an extra level at lvl 210 that KMS doesn't have. slight power and exp creep
@@ -308,20 +309,20 @@ apparently their starforce is way more expensive than in any other region but th
 adds the ability to summon monsters as your familiars which have stats similar to a potential on them. *major power creep: in TMS, familiars can roll % FINAL DAMAGE lines*.
 **** lab server
 a temporary server with different rules that gives a +25 att 5 block legion block and a +35 att 5 block legion block. *major power creep: 60 att total*
-**** animus cube
+**** animus cube (non-reboot)
 works like a black cube but you *can lock a line that you don't want to reroll*. apparently you need some etc from bosses to lock
-**** reflect cube
+**** reflect cube (non-reboot)
 like a red cube but has a 20% chance to mirror the 1st line to the 2nd line, making it 
-**** hexa/violet cube
+**** hexa/violet cube (non-reboot)
 rolls 6 lines and lets you pick any 3 of them. *much higher chance of 3 lining an item than regular cubes*. in TMS, these cubes guarantees 2 prime lines on every roll. other regions such as GMS and MSEA have lower prime chances that don't guarantee more than 1 prime
-**** equality cube
+**** equality cube (non-reboot)
 only rolls prime lines. *multiple prime items WAY easier, especially good for things like double drop, meso, crit damage, cooldown*
-**** uni cube
+**** uni cube (non-reboot)
 spend cubes to select a random line, reroll line once (without spending cubes), repeat. *makes triple prime items a lot easier (equality cube double prime -> unicube 3rd prime line). also good for turning a 2l into a 3l*
 **** housing system
 mostly cosmetic but gives a 15% boss damage buff
 *** TMS items
-**** breath of divinity ring
+**** breath of divinity ring (non-reboot)
 very expensive item obtainable from gachas like marvel machine and philosopher books. *makes boss mechanics a lot easier: gives a shield buff skill that lets you tank 100+% hp attacks quite often (the extra hp bar recovers as you hit the boss). it's also yet another 22+star ring that KMS doesn't have*
 
 ** CMS - China MapleStory
@@ -341,10 +342,10 @@ has breath of divinity. see TMS section
 
 has lucid earring and attack speed 0. see GMS section
 *** MSEA buffs
-**** twin coupon
+**** twin coupon (non-reboot)
 multiplicative 2x drop coupon which also doubles meso drops. *major balance implications: effectively doubles farming rates, including meso*
 *** MSEA upgrade systems
-**** +1 star force scroll
+**** +1 star force scroll (non-reboot)
 up to 50% chance to gain 1 star up to 23 stars with no destruction or drops on items up to level 200. *major power creep: 23 stars becomes a lot easier*. non-reboot only
 ** EMS - Europe MapleStory (April 12, 2007)
 in 2016, EMS was merged with GMS and all data was transfered over.
