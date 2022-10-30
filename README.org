@@ -173,7 +173,7 @@ here's what the rounded spawn cycles end up being (credits to [[https://www.yout
 | v214 kishin                                                | 4320ms  |
 | fury totem                                                 | 4320ms  |
 | first kishin nerf                                          | 3240ms  |
-| double case glitched kishin                                | 2160ms? |
+| double cast glitched kishin                                | 2160ms? |
 | current frenzy totem                                       | 2160ms  |
 | pre-frenzy kishin                                          | 1080ms  |
 | release day frenzy                                         | 1080ms  |
