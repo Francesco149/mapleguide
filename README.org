@@ -1,5 +1,28 @@
 this is a general guide for brand new and returning players that aims to explain all the important systems in the game. *this is a work in progress*
 
+* glossary
+- mob = monster
+- BA = battle analysis
+- IED = ignore enemy defense
+
+* monster spawn
+to farm efficiently and have a more consistent rotation around the map, it is important to understand mob spawn mechanics.
+
+each map has multiple fixed spawn locations for mobs and a maximum mob capacity. the base spawn timer is 7560ms (7.56 seconds), which means that every 7.56 seconds, the server will respawn up to 1 mob per spawn point, evenly distributing them across all the spawn points, but not exceeding the capacity.
+
+in certain localizations of the game, it's possible to increase the capacity and lower the spawn timer, see the [[*spawn enhancers][spawn enhancers]] section for details.
+
+because spawn is evenly distributed across the spawn points, it's important to clear all the mobs evenly. not killing a particular platform or section of the map will result in more mobs piling up there, and less mobs spawning elsewhere, resulting in lower and lower kill counts every cycle.
+
+the kill rate, or how many kills over time (usually kills per hour) you're getting, is the ideal way to test how good a rotation is. it's an absolute number independent from exp and meso which can vary with mob level. the in-game battle analysis now has a mob count which makes it really easy to measure this. it is recommended to do a battle analysis at least long enough to cycle all your skills. remember that a short BA like 6 minutes can be easily inflated by starting it as late as possible and stopping it as early as possible to slip in an extra spawn cycle worth of mobs, which could easily push for example 1670 kills to 1700 making it look like a 17k kills / hr BA
+
+intuitively, higher mob capacity and spawn count equals better kill rate as long as you can clear the map. you can calculate the theoretical maximum kills per hour (assuming you full clear every cycle) by doing ~3600 / 7.56 * min(capacity, spawnCount)~ , where 3600 is 1 hour in seconds, 7.56 is the spawn timer in seconds, ~capacity~ is the mob capacity for the map and ~spawnCount~ is the number of spawn points. because each spawn point can spawn at most 1 mob per cycle, if you full clear you will be limited by spawn point count even with higher mob capacity. in this [[https://www.youtube.com/watch?v=GMmhd2npvdQ][example of wild hunter with frenzy totem full clearing at CLP]] , you can see that even though frenzy totem increases the mob capacity, they still only get 20 kills per cycle.
+
+at base spawn the sweet spot for optimal farming is usually a rotation that can full clear the map slightly faster than the spawn timer, so that you're evenly killing everything but you're also not waiting for spawn too long. ideally, you want to have a consistent movement cycle that lines up with the spawn timer where you briefly wait for spawn always at the same key positions. depending on class, rotations can have multiple movement cycles that are being rotated because of different cooldowns being up. [[https://youtu.be/KR6iIgiYnWk][here's an example]] of a rotation that has 3 movement cycles and alternates them like: 123123
+
+** monster spawn resources
+- [[https://seollal.tistory.com/category/%EB%A9%94%EC%9D%B4%ED%94%8C%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%82%AC%EB%83%A5%ED%84%B0][korean website with mob capacities for arcane river and grandis]] - supposedly measured from watching grinding videos and testing in-game. some numbers are wrong such as shadowdance hall 2 but for the most part it seems accurate. it's also not clear if the bigger 40+ mob maps are accurate since other sources mention that mob capacity can't exceed 40
+- [[https://docs.google.com/spreadsheets/d/e/2PACX-1vQ5lCPppCU8Mc10n21X26twPaN6npLU_wqnYuBomtQyRysjlALs5_qcDV0RtLSIVOlHwGTGV1Cxq62Y/pubhtml?gid=481997935&single=true][spreadsheet with arcane river mob capacities]]
 * meso farming
 grinding is a popular way to get meso. you have to grind for levels for hundreds of hours, so setting yourself up to farm meso along the way is a good idea as you will get better value for your time rather than just pure EXP. besides meso, you will also get useful or valuable drops such as: nodestones, droplets, honor, cubic blades, unrelenting flames, familiars. some people even go as far to intentionally slow their leveling down so they can meso farm longer before they outlevel a map.
 ** sources of meso obtained
