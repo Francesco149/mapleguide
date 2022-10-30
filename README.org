@@ -288,7 +288,7 @@ familiar cards only drop in morass, esfera, moonbridge, labyrinth, limina for lv
 **** transposing
 part of commerci. you can only transpose into sweetwater armors and accessories. the source items cannot be higher than 16 stars. one star is lost but the stats remain. so *if you transpose at 16 stars, you get a 15 star item that has the stats of a 16 star*, effectively injecting an extra star worth of stats. flame stats of the source item are maintained, so *trasponsing a flame advantaged item gets you a flame advantage flame even though sweetwater gear doesn't have flame advantage*. the source item set effect is lost and replaced by the destination set effect (only sweetwater armors have a set effect). back when tyrants were meta, this was used to give tyrant gear a set effect for a bunch of extra attack. currently, it is used to transpose accessories for the higher stats. pendant and eye accessory usually. *small power creep: a bit of extra attack and stat*
 **** dark scrolls
-legacy 30% scrolls that have a chance of destruction. some of them are better than spell tracing, for example shield scrolls for att. slight power creep, not super expensive but pretty rare
+legacy 30%/70% scrolls that have a chance of destruction. some of them are better than spell tracing, for example shield scrolls for att. slight power creep, not super expensive but pretty rare
 
 I am not 100% sure dark scrolls are non-KMS, but I couldn't find any reference to them being in KMS
 **** prime scrolls
