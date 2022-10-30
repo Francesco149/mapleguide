@@ -10,7 +10,7 @@ to farm efficiently and have a more consistent rotation around the map, it is im
 
 each map has multiple fixed spawn locations for mobs and a maximum mob capacity. the base spawn timer is 7560ms (7.56 seconds), which means that every 7.56 seconds, the server will respawn up to 1 mob per spawn point, evenly distributing them across all the spawn points, but not exceeding the capacity.
 
-in certain localizations of the game, it's possible to increase the capacity and lower the spawn timer, see the [[*spawn enhancers][spawn enhancers]] section for details.
+in certain localizations of the game, it's possible to increase the capacity and lower the spawn timer, see the [[#spawn-enhancers][spawn enhancers]] section for details.
 
 because spawn is evenly distributed across the spawn points, it's important to clear all the mobs evenly. not killing a particular platform or section of the map will result in more mobs piling up there, and less mobs spawning elsewhere, resulting in lower and lower kill counts every cycle.
 
@@ -119,6 +119,9 @@ if your region has cash 2x drop coupons that double your meso (twin coupons in M
 
 NOTE: apparently nodestone drop rate caps at 200%, so your node drops won't benefit past that
 * spawn enhancers
+:PROPERTIES:
+:CUSTOM_ID: spawn-enhancers
+:END:
 the base spawn rate of the game is 7.56 seconds, or 7560 milliseconds.  however, regions outside of korea have introduced ways to speed up the spawn timer and increase the mob count. this decision has significant balance and gameplay implications since it essentially multiplies farming/exp rates and changes the meta maps for farming
 
 ** availability
