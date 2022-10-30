@@ -136,11 +136,13 @@ the base spawn rate of the game is 7.56 seconds, or 7560 milliseconds.  however,
 - Kanna and Kishin originally come from JMS. since I don't play JMS and don't know japanese I don't know that the current situation is in JMS with spawn enhancers
 
 ** wild totem
- lowers spawn time by 40% and increases mob count by 50%. if you leave the map after casting, the effect will go a way. a cast lasts 2 minutes.
+ this was removed from GMS in 2022 (ignition patch).
 
-the price is currently 1800 reward points for a coupon which, once used, gives you a totem equip that expires 2 hours after using the coupon. equipping it will give you a Wild Totem skill in your beginner skill tab that you can keybind and use.
+lowers spawn time by 40% and increases mob count by 50%. if you leave the map after casting, the effect will go a way. a cast lasts 2 minutes.
 
-you can get up to rougly 17 totems per month: 15 from reward points, 2 from daily gifts. occasionally events will give out more.
+used to be 1800 reward points for a coupon which, once used, gives you a totem equip that expires 2 hours after using the coupon. equipping it will give you a Wild Totem skill in your beginner skill tab that you can keybind and use.
+
+used to be able to get up to rougly 17 totems per month: 15 from reward points, 2 from daily gifts. occasionally events will give out more.
 ** fury totem
 this is what wild totem used to be called. the transition to fury totem was supposed to lower its spawn rate but it ended up rouding to the same spawn cycle. I am not sure if the mob count ended up being the same.
 ** kishin
