@@ -20,6 +20,8 @@ intuitively, higher mob capacity and spawn count equals better kill rate as long
 
 at base spawn the sweet spot for optimal farming is usually a rotation that can full clear the map slightly faster than the spawn timer, so that you're evenly killing everything but you're also not waiting for spawn too long. ideally, you want to have a consistent movement cycle that lines up with the spawn timer where you briefly wait for spawn always at the same key positions. depending on class, rotations can have multiple movement cycles that are being rotated because of different cooldowns being up. [[https://youtu.be/KR6iIgiYnWk][here's an example]] of a rotation that has 3 movement cycles and alternates them like: 123123
 
+on very fast spawn (such as frenzy totem), the concept of a cycle is much more blurry as it's very difficult to keep up with the spawn timer so the kill rate usually doesn't reach the theoretical maximum except for very small maps
+
 ** monster spawn resources
 - [[https://seollal.tistory.com/category/%EB%A9%94%EC%9D%B4%ED%94%8C%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%82%AC%EB%83%A5%ED%84%B0][korean website with mob capacities for arcane river and grandis]] - supposedly measured from watching grinding videos and testing in-game. some numbers are wrong such as shadowdance hall 2 but for the most part it seems accurate. it's also not clear if the bigger 40+ mob maps are accurate since other sources mention that mob capacity can't exceed 40
 - [[https://docs.google.com/spreadsheets/d/e/2PACX-1vQ5lCPppCU8Mc10n21X26twPaN6npLU_wqnYuBomtQyRysjlALs5_qcDV0RtLSIVOlHwGTGV1Cxq62Y/pubhtml?gid=481997935&single=true][spreadsheet with arcane river mob capacities]]
