@@ -14,9 +14,11 @@ in certain localizations of the game, it's possible to increase the capacity and
 
 because spawn is evenly distributed across the spawn points, it's important to clear all the mobs evenly. not killing a particular platform or section of the map will result in more mobs piling up there, and less mobs spawning elsewhere, resulting in lower and lower kill counts every cycle.
 
-the kill rate, or how many kills over time (usually kills per hour) you're getting, is the ideal way to test how good a rotation is. it's an absolute number unaffected by mob level. the in-game battle analysis now has a mob count which makes it really easy to measure this. it is recommended to do a battle analysis at least long enough to cycle all your skills. remember that a short BA like 6 minutes can be easily inflated by starting it as late as possible and stopping it as early as possible to slip in an extra spawn cycle worth of mobs, which could easily push for example 1670 kills to 1700 making it look like a 17k kills / hr BA
+the kill rate, or how many kills over time (usually kills per hour) you're getting, is the ideal way to test how good a rotation is. it's an absolute number unaffected by mob level. the in-game battle analysis now has a mob count which makes it really easy to measure this. it is recommended to do a battle analysis at least long enough to cycle all your skills. remember that a short BA like 6 minutes can be easily inflated by starting it as late as possible and stopping it as early as possible to slip in an extra spawn cycle worth of mobs, which could easily push for example 1670 kills to 1700 making it look like a 17k kills / hr BA. the spawn cycles not precisely aligning to the 6 minutes mark also contributes to inflating the BA
 
 intuitively, higher mob capacity and spawn count equals better kill rate as long as you can clear the map. you can calculate the theoretical maximum kills per hour (assuming you full clear every cycle) by doing ~3600 / 7.56 * min(capacity, spawnCount)~ , where 3600 is 1 hour in seconds, 7.56 is the spawn timer in seconds, ~capacity~ is the mob capacity for the map and ~spawnCount~ is the number of spawn points. because each spawn point can spawn at most 1 mob per cycle, if you full clear you will be limited by spawn point count even with higher mob capacity. in this [[https://www.youtube.com/watch?v=GMmhd2npvdQ][example of wild hunter with frenzy totem full clearing at CLP]] , you can see that even though frenzy totem increases the mob capacity, they still only get 20 kills per cycle.
+
+*there is an exception to this*: maps with mobs that spawn other mobs, such as the tranquil erda at below the cave, will not respect that formula. assuming the extra mobs are enough to reach capacity after the first cycle, you should probably use the capacity and ignore spawn count
 
 at base spawn the sweet spot for optimal farming is usually a rotation that can full clear the map slightly faster than the spawn timer, so that you're evenly killing everything but you're also not waiting for spawn too long. ideally, you want to have a consistent movement cycle that lines up with the spawn timer where you briefly wait for spawn always at the same key positions. depending on class, rotations can have multiple movement cycles that are being rotated because of different cooldowns being up. [[https://youtu.be/KR6iIgiYnWk][here's an example]] of a rotation that has 3 movement cycles and alternates them like: 123123
 
@@ -27,6 +29,7 @@ on very fast spawn (such as frenzy totem), the concept of a cycle is much more b
 ** monster spawn resources
 - [[https://seollal.tistory.com/category/%EB%A9%94%EC%9D%B4%ED%94%8C%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%82%AC%EB%83%A5%ED%84%B0][korean website with mob spawn counts for arcane river and grandis]] - supposedly measured from watching grinding videos and testing in-game. some numbers are wrong such as shadowdance hall 2 but for the most part it seems accurate. it's also not clear if the bigger 40+ mob maps are accurate since other sources mention that mob capacity can't exceed 40
 - [[https://docs.google.com/spreadsheets/d/e/2PACX-1vQ5lCPppCU8Mc10n21X26twPaN6npLU_wqnYuBomtQyRysjlALs5_qcDV0RtLSIVOlHwGTGV1Cxq62Y/pubhtml?gid=481997935&single=true][spreadsheet with arcane river mob capacities]]
+
 * meso farming
 grinding is a popular way to get meso. you have to grind for levels for hundreds of hours, so setting yourself up to farm meso along the way is a good idea as you will get better value for your time rather than just pure EXP. besides meso, you will also get useful or valuable drops such as: nodestones, droplets, honor, cubic blades, unrelenting flames, familiars. some people even go as far to intentionally slow their leveling down so they can meso farm longer before they outlevel a map.
 ** sources of meso obtained
@@ -356,3 +359,414 @@ there were also issues migrating flames to GMS, resulting in *items being able t
 ** Thailand MapleStory
 I don't know much about this region, other than it was shut down in 2020 and players were forced to move to MSEA and given a few gifts (but no data transfer).
 
+* farming rotation examples
+the maps are named according to GMS. to look up map names for other regions, [[https://maplestory.fandom.com][strategywiki is a good source]]
+
+** rotation examples - base spawn
+note that a lot of these are close to optimal: 1shotting, vac pet, etc. these maps are still good even with sub-optimal mobbing, as long as you take time to experiment and adjust the rotation. also ignore the exp, as multipliers are inconsistent and some of these videos are overleveled and just showing off the rotation. tl;dr you should usually /strive/ for these rates, not necessarily match them. if you have better rotations, feel free to pull request or open an issue and link them.
+
+also keep in mind that short BA's like 6 minutes can be inflated easily. so the kill rate will usually be slightly worse over 1+h, and some BA's show a kill rate that seems slightly higher than the max theoretical.
+
+when the mob capacity is higher than the spawn count, the first wave of the BA will have extra mobs. the last spawn cycle in a 6min BA night not exactly align with the 6min mark which also contributes to inflating the numbers. if someone is full clearing, you can safely assume they are getting the max theoretical kill rate ~3600/7.56 * mobCount~.
+
+the mob counts are the mobs per cycle when full clearing, based on watching videos of rotations
+*** vanishing journey
+[[https://seollal.tistory.com/1082][mob counts (korean)]]
+**** hidden lakeshore
+35 mobs. this is a high arcane force map so not necessarily realistic for a brand new player to 1-shot. it's pretty much the only decent map in VJ. also note that the exp per mob is higher than other maps
+full clear: 16.66k
+- [[https://www.youtube.com/watch?v=f1ZfWT9WUhQ][buccaneer - 15.29k]]
+- [[https://youtu.be/YVQBnuQonvE?t=48][shadower (pre-destiny) - full clear]]
+- [[https://www.youtube.com/watch?v=Q4fXHIwkUTE][lara - 14.9k]]
+- [[https://www.youtube.com/watch?v=nun0i3zPvJY][phantom - 15k]] - appears to have a 5s cooldown hat so don't expect to use your cooldowns that often
+- [[https://www.youtube.com/watch?v=IFZnKeb5sJw][dawn warrior - 14.2k]]
+- [[https://www.youtube.com/watch?v=7b4hPkf-TPM][hoyoung - 15.7k]]
+- [[https://www.youtube.com/watch?v=QLEcjpSleW4][mercedes - 11.8k]]
+- [[https://www.youtube.com/watch?v=LHSf9vu3FYU][corsair - 15.8k]]
+- [[https://www.youtube.com/watch?v=HwBscCktvwI][kain - 13.8k]]
+- [[https://www.youtube.com/watch?v=O1YF1Xdjb4Q][marksman - 14.8k]]
+- [[https://www.youtube.com/watch?v=TpaDFJqOhv4][illium - 15k]]
+- [[https://youtu.be/WeEOAGV3Pms?t=226][adele - 14.5+k]]
+- [[https://www.youtube.com/watch?v=v6FHW1acnWE][thunder breaker - 12k]]
+**** hidden cave
+29 mobs. high arcane force, high exp per mob map
+full clear: 13.8k
+- [[https://youtu.be/WeEOAGV3Pms?t=175][adele - 12k]]
+- [[https://www.youtube.com/watch?v=IKtswRNr4Xs][night walker - 13.25k]]
+- [[https://www.youtube.com/watch?v=Vh8dW-kMILM][dawn warrior - 13.19k]]
+- [[https://www.youtube.com/watch?v=QNa2jHIJ99g][night lord - full clear]] - 1shot assassin mark
+**** below the cave
+13 mobs, but each mob spawns a lantern. based on the top kill rates people are getting the effective number of mobs per cycle seems to be 25-26
+full clear: 12.6k?
+- [[https://youtu.be/WeEOAGV3Pms?t=87][adele - full clear]]
+- [[https://www.youtube.com/watch?v=XE7a6NlpB7c][thunder breaker - 12k]]
+- [[https://www.youtube.com/watch?v=L0rtSM2ToKk][blaster - full clear]]
+**** above the cave
+same mob count situation as below the cave
+full clear: 12.6k?
+- [[https://www.youtube.com/watch?v=hDdp7Qm30dg][mercedes - 11.6k]]
+**** eastern cave path 2
+same mob count situation as below the cave
+full clear: 12.6k?
+- [[https://youtu.be/TSyX2VC4JKE?t=174][lara - full clear]]
+**** western cave path 2
+same mob count situation as below the cave
+full clear: 12.6k?
+- [[https://youtu.be/WeEOAGV3Pms?t=113][adele - 12k]]
+*** chu chu island
+[[https://seollal.tistory.com/1090][mob counts (korean)]]
+**** mottled forest 2
+33 mobs. my favorite map to grind to 220. based on the dawn warrior video, the mob capacity appears to be 40
+full clear: 15.7k
+- [[https://www.youtube.com/watch?v=0_ZZ2lcJZSs][corsair - 15.5k]]
+- [[https://www.youtube.com/watch?v=43m-WgBE7eA][blaze wizard - 15k]]
+- [[https://www.youtube.com/watch?v=VODxDcBsL3M][blaze wizard - 15.5k]] alternative rotation, pre-ignition but should apply to post-ignition too
+- [[https://www.youtube.com/watch?v=_0pfV1fl9Jg][dawn warrior - full clear]]
+- [[https://www.youtube.com/watch?v=BmAp4Wk-msw][hoyoung - full clear]]
+- [[https://www.youtube.com/watch?v=_R6LIGnLnZA][mercedes - 14.6k]]
+- [[https://www.youtube.com/watch?v=hdufINpMm_s][mercedes]] alternative to the above rotation, similar kill rate. I prefer this version
+- [[https://www.youtube.com/watch?v=km65vR9S19c][mechanic - 14.7k]] (no vac pet)
+- [[https://www.youtube.com/watch?v=YBaZbY7TNCo][shadower - full clear]]
+- [[https://www.youtube.com/watch?v=sktfcL5R-Ok][adele - full clear]]
+**** within five-color hill
+30 mobs
+full clear: 14.28k
+- [[ https://youtu.be/TSyX2VC4JKE?t=453][lara - 13.3k]]
+- [[https://www.youtube.com/watch?v=EoPAQUFtyUA][corsair - 14k]]
+**** torrent zone 3
+28 mobs. not great kill rate but higher exp per mobs than other maps. good alternative if you don't care about meso/nodes or everything else is full. also pretty lazy if you use the water
+full clear: 13.3k
+- [[https://www.youtube.com/watch?v=E7XJ_JSXb48][dawn warrior - 13k]]
+- [[https://www.youtube.com/watch?v=q71FF5DpSq4][ark - 12.46k]]
+**** torrent zone 1
+28 mobs. similar to torrent zone 3 but smaller hitboxes
+full clear: 13.3k
+- [[https://www.youtube.com/watch?v=qAKN8KDVloI][hoyoung - 12.8k]]
+- [[https://www.youtube.com/watch?v=dgizlXlswZU][kain - 12k]]
+- [[https://www.youtube.com/watch?v=PY9wLfoBeL8][mercedes - 12.2k]]
+**** mottled forest 3
+26 mobs
+full clear: 12.38k
+- [[https://youtu.be/TSyX2VC4JKE?t=590][lara - 11.3k]]
+- [[https://www.youtube.com/watch?v=PEZC7g-3czc][adele - 11.1k]]
+*** yum yum island
+[[https://seollal.tistory.com/1093][mob counts (korean)]]
+**** hidden mushbud forest
+24 mobs, high arcane force map. capacity appears to be 31
+full clear: 11.4k
+- [[https://youtu.be/TSyX2VC4JKE?t=870][lara - 11.3k]]
+- [[https://www.youtube.com/watch?v=9zAHgql1KZ4][dawn warrior - full clear]] 
+**** hidden illiard field
+24 mobs, high arcane force map.
+full clear: 11.4k
+- [[https://youtu.be/TSyX2VC4JKE?t=1014][lara 11.2k]]
+*** lachelein
+[[https://seollal.tistory.com/1091][mob counts (korean)]]
+**** chickens festival 3
+38 mobs, best map by far if you can clear enough mobs per cycle.
+aliases: 닭뛰3
+full clear: 18.09k
+- [[https://www.youtube.com/watch?v=mVB9gTThDLs][corsair - full clear]]
+- [[https://www.twitch.tv/videos/1558360414][shadower - full clear (1 hour, GMS)]]
+- [[https://www.youtube.com/watch?v=biXzfE3Z4-c][night lord - full clear]]
+- [[https://www.youtube.com/watch?v=Q3xbQE2qaYk][mechanic - 17k]]
+- [[https://www.youtube.com/watch?v=ia_YPKbV0TI][dawn warrior - 15.6k]]
+- [[https://www.youtube.com/watch?v=D4kiGOiGNCU][dark knight - 14k]]
+- [[https://www.youtube.com/watch?v=0Ua8NqTasNk][marksman - 16k]]
+- [[https://www.youtube.com/watch?v=Zq4Ak4sabEw][marksman - 17.43k]]
+- [[https://www.youtube.com/watch?v=Gnl2lbfpE3k][lara - full clear]]
+- [[https://www.youtube.com/watch?v=_8drrqEgAoE][luminous - 17.5k]]
+- [[https://www.youtube.com/watch?v=UgichB-Am7s][thunder breaker - 15.4k]]
+- [[https://www.youtube.com/watch?v=blunbaDc6W0][hoyoung - 17.5k]]
+- [[https://www.youtube.com/watch?v=fEotsFHeqGY][shade - 17.46k]]
+- [[https://www.youtube.com/watch?v=z4zwlhUFs1Q][kaiser - 16.36k]]
+**** occupied dance floor 2
+30 mobs (post ignition version with better layout)
+full clear: 14.28k
+- [[https://youtu.be/TSyX2VC4JKE?t=1149][lara - full clear]]
+- [[https://www.youtube.com/watch?v=W7gbTz3dJEY][night lord - full clear]]
+**** victory plate street 1
+30 mobs (post ignition version with better layout)
+full clear: 14.28k
+- [[https://www.youtube.com/watch?v=I7RR3uT1GHk][night lord - full clear]]
+- [[https://www.youtube.com/watch?v=GiHRVweHIXY][lara - full clear]]
+**** victory plate street 2
+30 mobs (post ignition version with better layout)
+full clear: 14.28k
+- [[https://youtu.be/TSyX2VC4JKE?t=1405][lara - 14k]]
+- [[https://www.youtube.com/watch?v=FI_4ymJ_mks][night lord - full clear]]
+**** revelation place 1
+30 mobs
+full clear: 14.28k
+- [[https://www.youtube.com/watch?v=etEPMr4FOeQ][lara - 13.1k]]
+**** outlaw street 2
+29 mobs
+full clear: 13.8k
+- [[https://www.youtube.com/watch?v=cz40ud71cC4][ice/lightning - 13.4k]]
+**** occupied dance floor 1
+28 mobs
+full clear: 13.3k
+- [[https://www.youtube.com/watch?v=Gdh-Fq61sIc][dawn warrior - full clear]]
+*** arcana
+[[https://seollal.tistory.com/1079?category=845748][mob counts (korean)]]
+**** where water and sunlight meet
+33 mobs. there's very few decent maps in arcana, this is one of them. also easy to loot without vac pet. if your rates in chickens 3 are good I would stay there until morass though
+aliases: 물햇숲
+full clear: 15.71k
+- [[https://www.youtube.com/watch?v=vEsCt75RAP8][corsair - 15.6k]]
+- [[https://www.youtube.com/watch?v=tM7mCsOv28E][shadower - 15.3k]] GMS, 2shot meso explosion
+- [[https://www.youtube.com/watch?v=6RltfMKHcAY][paladin - 15k]]
+- [[https://www.youtube.com/watch?v=CgD0Ls8Kxug][dark knight - 15k]]
+- [[https://www.youtube.com/watch?v=ehbcBtkbnxI][angelic buster - 15.46k]] - 1shot soul seeker
+- [[https://www.youtube.com/watch?v=YksT7Rf_js0][illium - 14k]]
+- [[https://www.youtube.com/watch?v=PtBv0e3Te40][kinesis - 15.3k]]
+**** deep in the cavern - upper path 1
+32 mobs. seems pretty good for no vac pet.
+aliases: dcup1, 동윗깊1
+full clear: 15.2k
+- [[https://www.youtube.com/watch?v=xrz8_T3A6nE][blaze wizard - full clear]] (pre-ignition but should be valid for post-ignition)
+- [[https://www.youtube.com/watch?v=yuNMV1EwBuc][zero - full clear]]
+- [[https://www.youtube.com/watch?v=2NpJnjSNUWQ][ark - 14.29k]]
+- [[https://www.youtube.com/watch?v=0XSkF79XHhQ][buccaneer - 15.1k]]
+- [[https://www.youtube.com/watch?v=r-HSxK-iMCQ][hero - 15k]]
+- [[https://www.youtube.com/watch?v=SSHQHyFhyYs][mechanic - 14.6k]]
+- [[https://www.youtube.com/watch?v=ZENUdES50EI][angelic buster - 14.98k]]
+*** morass
+[[https://seollal.tistory.com/1081?category=845748][mob counts (korean)]]
+**** shadowdance hall 2
+37 mobs, korean website is wrong about mob count on this one.
+personal favorite. works for many classes, heard of people without vac pet still managing 16+k.
+most of the mobs are on the left, so you want to proritize clearing those
+aliases: sdh2, 그춤2
+full clear: 17.61k
+- [[https://youtu.be/ReBq0R1z18E?t=1437][shadower - 17.3k]] GMS, 1 hour BA, 2shot meso explosion
+- [[https://youtu.be/bfmhwZtNykM?t=9][corsair - 17.5k]]
+- [[https://www.youtube.com/watch?v=VmPjnPtNI2c][dawn warrior - 16.24k (30 mins BA)]]
+- [[https://www.youtube.com/watch?v=NNWGeoTe9a0][dawn warrior - 16.4k]] - alternative rotation
+- [[https://www.youtube.com/watch?v=mYCXj-_0qbk][night lord - 16.8k]] - 2shot mark
+- [[https://www.youtube.com/watch?v=xXg55xhcBkU][night lord - 17k]] - 2shot mark
+- [[https://www.youtube.com/watch?v=HMClgl9EO1c][lara - 17.3k]]
+- [[https://www.youtube.com/watch?v=HwKKkA2xMAc][ark - 17k]]
+**** shadowdance hall 3
+good alternative if shadowdance 2 is full
+aliases: sdh3, 그춤3
+full clear: 17.61k
+- [[https://youtu.be/2N2oIhzIX1E][corsair - 17k]]
+- [[https://www.youtube.com/watch?v=cD-x2xv2p-c][adele - 17k]]
+- [[https://www.youtube.com/watch?v=fgUbuLNJEmM][shadower - 17.5k]]
+- [[https://www.youtube.com/watch?v=X4e0ApRXx14][illium - 16k]]
+- [[https://www.youtube.com/watch?v=4DSRZ_i5V6A][wind archer - 16k]]
+- [[https://www.youtube.com/watch?v=uzq6uRAvHsc][evan - 16.8k]]
+**** abandoned area 2
+37 mobs.
+full clear: 17.61k
+- [[https://www.youtube.com/watch?v=Oa_F7JKZ6Lo][night lord - 17.5k]]
+- [[https://www.youtube.com/watch?v=j2KLu0Opn38][shade - 17.12k]]
+- [[https://www.youtube.com/watch?v=kcEkPN6bMfw][buccaneer - full clear]] bucc's movement works great to walk up and down this triangular layout
+- [[https://www.youtube.com/watch?v=f873OOHXUOA][zero - 17.3k]] zero's movement also works great to walk down these platforms
+**** abandoned area 3
+37 mobs.
+full clear: 17.61k
+- [[https://www.youtube.com/watch?v=RAokru5beq4][mercedes - 16.46k]]
+- [[https://www.youtube.com/watch?v=x2ZPxgZy9mw][night walker - 16k]]
+- [[https://www.youtube.com/watch?v=8XfIA0rNi4k][zero - 16k]]
+- [[https://www.youtube.com/watch?v=s8SaWJKU1ZM][dawn warrior - 16k]]
+- [[https://www.youtube.com/watch?v=UVPJcN74KkI][dual blade - 15.9k]]
+- [[https://www.youtube.com/watch?v=sp2edJTKzl8][phantom - 17k]] 5s hat and strong arrow blaster. unrealistic for most players
+- [[https://www.youtube.com/watch?v=oIqNOit4CYc][adele - 15.5k]]
+**** that day in trueffet 3
+35 mobs. good alternative if other maps are full. also somewhat less effort because of the drop down teleport
+aliases: 그튀3, 그트3
+full clear: 16.66k
+- [[https://www.youtube.com/watch?v=SdSpLp2F5zg][ark - 15.3k]]
+- [[https://www.youtube.com/watch?v=fc8Uc9F5cDQ][hoyoung - 15.4k]]
+- [[https://www.youtube.com/watch?v=gWp9XExWK6A][cadena - full clear]]
+- [[https://www.youtube.com/watch?v=7lw-xaRU0Bk][aran - 15.3k]]
+*** esfera
+[[https://seollal.tistory.com/1080?category=845748][mob counts (korean)]]
+**** radiant temple 3
+39 mobs.
+aliases: 신전3
+full clear: 18.57k
+used to be the meta farming map. not anymore since we have sellas which is much easier to rotate
+- [[https://www.youtube.com/watch?v=FoBQOll8ZYk][ark - 15k]]
+- [[https://www.youtube.com/watch?v=7wAk3zKy8no][bishop - 16.6k]]
+- [[https://www.youtube.com/watch?v=QIdBvRF22Zo][bowmaster - 15.6k]]
+- [[https://www.youtube.com/watch?v=Mml7L0lJhkM][shadower (pre-destiny) - full clear]]
+**** living spring 6
+38 mobs.
+full clear: 18.09k
+- [[https://www.youtube.com/watch?v=YH2gxOPYra8][corsair - 16.5k]]
+- [[https://www.youtube.com/watch?v=fIf83YWxXvc][hoyoung - 17k]]
+*** sellas
+[[https://seollal.tistory.com/1111?category=845748][mob counts (korean)]]
+**** the final edge of light 3
+- [[https://www.youtube.com/watch?v=txbPQkEMJtw][corsair - 17.5k]]
+**** plunging depths 3
+- [[https://www.youtube.com/watch?v=NzP7WZNWUG0][corsair - 17k]]
+*** moonbridge
+[[https://seollal.tistory.com/1095?category=845748][mob counts (korean)]]
+**** last horizon 6
+38 mobs
+full clear: 18.09k
+- [[https://www.youtube.com/watch?v=xGHCJBgyyhg][corsair - full clear]]
+- [[https://www.youtube.com/watch?v=ngllt2fAVGE][bowmaster - full clear]]
+- [[https://www.youtube.com/watch?v=hRP4ALBB5Xk][dual blade - 17.5k]]
+- [[https://www.youtube.com/watch?v=P3ASqLSdI4k][wind archer - 17.1k]]
+- [[https://www.youtube.com/watch?v=WyqT71o4qoE][aran - full clear]]
+- [[https://www.youtube.com/watch?v=CxOe0JmjfGk][marksman - full clear]]
+- [[https://www.youtube.com/watch?v=8arziLfhq14][kain - full clear]]
+- [[https://www.youtube.com/watch?v=xsJMVHqEbmA][adele - 18k]]
+- [[https://www.youtube.com/watch?v=yCiKwf8D0oE][phantom - 16.5k]]
+**** mysterious fog 3
+37 mobs
+full clear: 17.61k
+- [[https://www.youtube.com/watch?v=5iEaICYHivE][corsair - full clear]]
+- [[https://www.youtube.com/watch?v=Mau-5Ackwa8][corsair, lazy rotation using rapid fire - 15.5k]]
+- [[https://www.youtube.com/watch?v=FgO_h6-pAIs][mercedes - 17.49k]]
+- [[https://www.youtube.com/watch?v=7rVC0Ln0eWw][battle mage - 17.5k]]
+- [[https://www.youtube.com/watch?v=sDBUgrWsXYg][marksman - 16.5k]]
+- [[https://www.youtube.com/watch?v=77k7s2TEzxI][pathfinder - 16.5k]]
+- [[https://www.youtube.com/watch?v=6ye9Dr1V_Ug][thunder breaker - 16.7k]]
+**** mysterious fog 5
+35 mobs
+full clear: 16.66k
+- [[https://www.youtube.com/watch?v=kKsUkDbOZGY][ice/lightning - 16.44k]]
+*** labyrinth of suffering
+[[https://seollal.tistory.com/1096?category=845748][mob counts (korean)]]
+**** labyrinth of suffering core 6
+35 mobs
+full clear: 16.66k
+- [[https://www.youtube.com/watch?v=4BjDemwY24c][corsair - full clear]]
+- [[https://www.youtube.com/watch?v=3T7b7_NRwO8][dawn warrior - 16k]]
+- [[https://www.youtube.com/watch?v=pBDBt-OtPHI][shadower - full clear]]
+- [[https://www.youtube.com/watch?v=eMWyT1VOnV8][phantom - 16.4k]]
+- [[https://www.youtube.com/watch?v=_4s7tQRcHDA][adele - full clear]]
+- [[https://www.youtube.com/watch?v=D40948wTLkc][bowmaster - full clear]]
+- [[https://www.youtube.com/watch?v=-gZsR_olDrE][aran - 16k]]
+**** labyrinth of suffering core 4
+37 mobs. website is wrong, checked shadower video
+full clear: 17.61k
+- [[https://www.youtube.com/watch?v=TGtFZyEPhbU][shadower - full clear]]
+- [[https://www.youtube.com/watch?v=XtnZivje6AQ][wind archer - 17.55k]]
+- [[https://www.youtube.com/watch?v=Ew6uQX66PH8][bowmaster - 16.6k]]
+**** labyrinth of suffering core 5
+the korean site says 29 mobs but based on videos I believe this to be at least 32 mobs
+full clear: 15.2k?
+- [[https://www.youtube.com/watch?v=r9XvggGDCGk][corsair - 15k]] - lazy rotation
+- [[https://www.youtube.com/watch?v=bpDoLDGjhig][blaster - full clear]]
+- [[https://www.youtube.com/watch?v=55Y3EiQJCXw][zero - full clear]]
+- [[https://www.youtube.com/watch?v=HmA6H5HBFuc][dual blade - full clear]] pre-destiny
+**** labyrinth of suffering core 1
+34 mobs
+full clear: 16.19k
+- [[https://www.youtube.com/watch?v=fJ0RHpwkJQE][kinesis - 15.4k]]
+*** limina
+[[https://seollal.tistory.com/1097?category=845748][mob counts (korean)]]
+**** end of the world 1-7
+34 mobs, website is wrong
+high arcane force, high exp per mob
+full clear: 16.19k
+- [[https://www.youtube.com/watch?v=RJXxzBnk5eE][night lord - full clear]]
+- [[https://www.youtube.com/watch?v=q-kLEEld5fs][paladin - full clear]]
+- [[https://www.youtube.com/watch?v=F5H6sCVjlXo][dawn warrior - 15.5k]]
+- [[https://www.youtube.com/watch?v=SNPO_yQgb2M][ark - 15.99k]]
+- [[https://www.youtube.com/watch?v=rnHhjYDiKF0][kaiser - 15.3k]]
+- [[https://www.youtube.com/watch?v=zpUzb0xgao4][phantom - 15k]]
+- [[https://www.youtube.com/watch?v=S5eS4Rrv-XE][adele - 15k]]
+**** end of the world 1-6
+34 mobs
+full clear: 16.19k
+- [[https://www.youtube.com/watch?v=rbzxODB-iQo][ark - 16k]]
+- [[https://www.youtube.com/watch?v=PtjGTeXi0RY][buccaneer - 16k]]
+- [[https://www.youtube.com/watch?v=6WupD0wMGeM][pathfinder - 16.41k]]
+**** end of the world 2-5
+32 mobs, really easy to loot without a vac pet, really lazy full clear
+full clear: 15.23k
+- [[https://www.youtube.com/watch?v=mn8VJNQSqug][thunder breaker - full clear]]
+- [[https://www.youtube.com/watch?v=zKNjxGBXDC8][bishop - 15k]]
+- [[https://www.youtube.com/watch?v=hzZOWoplNKQ][adele - full clear]]
+**** end of the world 2-4
+32 mobs
+full clear: 15.23k
+- [[https://www.youtube.com/watch?v=GSK2jEYv-UM][ice/lightning - full clear]]
+**** end of the world 2-6
+31 mobs, high arcane force, high exp per mob. better if you care about exp over meso/nodes
+full clear: 14.7k
+- [[https://www.youtube.com/watch?v=YH8gg0a9gV0][phantom - 14k]]
+**** world sorrow's midpoint 1
+35 mobs
+full clear: 16.66k
+- [[https://www.youtube.com/watch?v=GkqiA2euzd0][fire/poison - 14.99k]] lazy rotation
+- [[https://www.youtube.com/watch?v=j3-728gVGMM][evan - 16.1k]] lazy rotation
+**** world sorrow's midpoint 2
+34 mobs
+full clear: 16.19k
+- [[https://www.youtube.com/watch?v=gvqsr66ZR-I][shadower - 15.7k]] lazy rotation
+**** world sorrow's midpoint 3
+34 mobs
+full clear: 16.19k
+- [[https://www.youtube.com/watch?v=SLMoao4I6Co][bishop - 16k]]
+**** world sorrow's midpoint 4
+34 mobs
+full clear: 16.19k
+- [[https://www.youtube.com/watch?v=7T6SGTIJKmw][zero - 14.2k]]
+*** cernium
+[[https://seollal.tistory.com/1111?category=845748][mob counts (korean)]]
+**** cernium western city ramparts 3
+38 mobs
+full clear: 18.09k
+**** rocky overlook 3
+38 mobs
+full clear: 18.09k
+**** rocky overlook 4
+38 mobs
+full clear: 18.09k
+**** cernium eastern city ramparts 3
+37 mobs. high potential but weird layout
+full clear: 17.61k
+**** cernium easter city ramparts 2
+33 mobs. not amazing mob count but easy layout that works for most classes
+**** royal library section 3
+37 mobs
+full clear: 17.61k
+**** royal library section 6
+37 mobs
+full clear: 17.61k
+*** burning cernium
+[[https://seollal.tistory.com/943?category=845748][mob counts (korean)]]
+aliases: burnium
+**** burning royal library section 6
+38 mobs
+full clear: 18.09k
+**** burning royal library section 3
+38 mobs
+full clear: 18.09k
+**** eastern city ramparts in battle 3
+37 mobs
+full clear: 17.61k
+**** eastern city ramparts in battle 6
+37 mobs
+full clear: 17.61k
+**** western city ramparts in battle 3
+38 mobs
+full clear: 18.09k
+**** western city ramparts in battle 4
+37 mobs
+full clear: 17.61k
+*** hotel arcus
+[[https://seollal.tistory.com/549?category=845748][mob counts (korean)]]
+**** nostalgic drive-in theater 6
+38 mobs
+full clear: 18.09k
+**** outlaw-infested wastes 4
+38 mobs
+full clear: 18.09k
+**** outlaw-infested wastes 3
+37 mobs
+full clear: 17.61k
+**** nostalgic drive-in theater 3
+37 mobs
+full clear: 17.61k
+*** odium
+[[https://seollal.tistory.com/726?category=845748][mob counts (korean)]]
