@@ -374,6 +374,7 @@ the mob counts are the mobs per cycle when full clearing, based on watching vide
 [[https://seollal.tistory.com/1082][mob counts (korean)]]
 **** hidden lakeshore
 35 mobs. this is a high arcane force map so not necessarily realistic for a brand new player to 1-shot. it's pretty much the only decent map in VJ. also note that the exp per mob is higher than other maps
+
 full clear: 16.66k
 - [[https://www.youtube.com/watch?v=f1ZfWT9WUhQ][buccaneer - 15.29k]]
 - [[https://youtu.be/YVQBnuQonvE?t=48][shadower (pre-destiny) - full clear]]
@@ -390,6 +391,7 @@ full clear: 16.66k
 - [[https://www.youtube.com/watch?v=v6FHW1acnWE][thunder breaker - 12k]]
 **** hidden cave
 29 mobs. high arcane force, high exp per mob map
+
 full clear: 13.8k
 - [[https://youtu.be/WeEOAGV3Pms?t=175][adele - 12k]]
 - [[https://www.youtube.com/watch?v=IKtswRNr4Xs][night walker - 13.25k]]
@@ -397,26 +399,31 @@ full clear: 13.8k
 - [[https://www.youtube.com/watch?v=QNa2jHIJ99g][night lord - full clear]] - 1shot assassin mark
 **** below the cave
 13 mobs, but each mob spawns a lantern. based on the top kill rates people are getting the effective number of mobs per cycle seems to be 25-26
+
 full clear: 12.6k?
 - [[https://youtu.be/WeEOAGV3Pms?t=87][adele - full clear]]
 - [[https://www.youtube.com/watch?v=XE7a6NlpB7c][thunder breaker - 12k]]
 - [[https://www.youtube.com/watch?v=L0rtSM2ToKk][blaster - full clear]]
 **** above the cave
 same mob count situation as below the cave
+
 full clear: 12.6k?
 - [[https://www.youtube.com/watch?v=hDdp7Qm30dg][mercedes - 11.6k]]
 **** eastern cave path 2
 same mob count situation as below the cave
+
 full clear: 12.6k?
 - [[https://youtu.be/TSyX2VC4JKE?t=174][lara - full clear]]
 **** western cave path 2
 same mob count situation as below the cave
+
 full clear: 12.6k?
 - [[https://youtu.be/WeEOAGV3Pms?t=113][adele - 12k]]
 *** chu chu island
 [[https://seollal.tistory.com/1090][mob counts (korean)]]
 **** mottled forest 2
 33 mobs. my favorite map to grind to 220. based on the dawn warrior video, the mob capacity appears to be 40
+
 full clear: 15.7k
 - [[https://www.youtube.com/watch?v=0_ZZ2lcJZSs][corsair - 15.5k]]
 - [[https://www.youtube.com/watch?v=43m-WgBE7eA][blaze wizard - 15k]]
@@ -430,22 +437,26 @@ full clear: 15.7k
 - [[https://www.youtube.com/watch?v=sktfcL5R-Ok][adele - full clear]]
 **** within five-color hill
 30 mobs
+
 full clear: 14.28k
 - [[ https://youtu.be/TSyX2VC4JKE?t=453][lara - 13.3k]]
 - [[https://www.youtube.com/watch?v=EoPAQUFtyUA][corsair - 14k]]
 **** torrent zone 3
 28 mobs. not great kill rate but higher exp per mobs than other maps. good alternative if you don't care about meso/nodes or everything else is full. also pretty lazy if you use the water
+
 full clear: 13.3k
 - [[https://www.youtube.com/watch?v=E7XJ_JSXb48][dawn warrior - 13k]]
 - [[https://www.youtube.com/watch?v=q71FF5DpSq4][ark - 12.46k]]
 **** torrent zone 1
 28 mobs. similar to torrent zone 3 but smaller hitboxes
+
 full clear: 13.3k
 - [[https://www.youtube.com/watch?v=qAKN8KDVloI][hoyoung - 12.8k]]
 - [[https://www.youtube.com/watch?v=dgizlXlswZU][kain - 12k]]
 - [[https://www.youtube.com/watch?v=PY9wLfoBeL8][mercedes - 12.2k]]
 **** mottled forest 3
 26 mobs
+
 full clear: 12.38k
 - [[https://youtu.be/TSyX2VC4JKE?t=590][lara - 11.3k]]
 - [[https://www.youtube.com/watch?v=PEZC7g-3czc][adele - 11.1k]]
@@ -453,11 +464,13 @@ full clear: 12.38k
 [[https://seollal.tistory.com/1093][mob counts (korean)]]
 **** hidden mushbud forest
 24 mobs, high arcane force map. capacity appears to be 31
+
 full clear: 11.4k
 - [[https://youtu.be/TSyX2VC4JKE?t=870][lara - 11.3k]]
 - [[https://www.youtube.com/watch?v=9zAHgql1KZ4][dawn warrior - full clear]] 
 **** hidden illiard field
 24 mobs, high arcane force map.
+
 full clear: 11.4k
 - [[https://youtu.be/TSyX2VC4JKE?t=1014][lara 11.2k]]
 *** lachelein
@@ -465,6 +478,7 @@ full clear: 11.4k
 **** chickens festival 3
 38 mobs, best map by far if you can clear enough mobs per cycle.
 aliases: 닭뛰3
+
 full clear: 18.09k
 - [[https://www.youtube.com/watch?v=mVB9gTThDLs][corsair - full clear]]
 - [[https://www.twitch.tv/videos/1558360414][shadower - full clear (1 hour, GMS)]]
@@ -482,36 +496,44 @@ full clear: 18.09k
 - [[https://www.youtube.com/watch?v=z4zwlhUFs1Q][kaiser - 16.36k]]
 **** occupied dance floor 2
 30 mobs (post ignition version with better layout)
+
 full clear: 14.28k
 - [[https://youtu.be/TSyX2VC4JKE?t=1149][lara - full clear]]
 - [[https://www.youtube.com/watch?v=W7gbTz3dJEY][night lord - full clear]]
 **** victory plate street 1
 30 mobs (post ignition version with better layout)
+
 full clear: 14.28k
 - [[https://www.youtube.com/watch?v=I7RR3uT1GHk][night lord - full clear]]
 - [[https://www.youtube.com/watch?v=GiHRVweHIXY][lara - full clear]]
 **** victory plate street 2
 30 mobs (post ignition version with better layout)
+
 full clear: 14.28k
 - [[https://youtu.be/TSyX2VC4JKE?t=1405][lara - 14k]]
 - [[https://www.youtube.com/watch?v=FI_4ymJ_mks][night lord - full clear]]
 **** revelation place 1
 30 mobs
+
 full clear: 14.28k
 - [[https://www.youtube.com/watch?v=etEPMr4FOeQ][lara - 13.1k]]
 **** outlaw street 2
 29 mobs
+
 full clear: 13.8k
 - [[https://www.youtube.com/watch?v=cz40ud71cC4][ice/lightning - 13.4k]]
 **** occupied dance floor 1
 28 mobs
+
 full clear: 13.3k
 - [[https://www.youtube.com/watch?v=Gdh-Fq61sIc][dawn warrior - full clear]]
 *** arcana
 [[https://seollal.tistory.com/1079?category=845748][mob counts (korean)]]
 **** where water and sunlight meet
 33 mobs. there's very few decent maps in arcana, this is one of them. also easy to loot without vac pet. if your rates in chickens 3 are good I would stay there until morass though
+
 aliases: 물햇숲
+
 full clear: 15.71k
 - [[https://www.youtube.com/watch?v=vEsCt75RAP8][corsair - 15.6k]]
 - [[https://www.youtube.com/watch?v=tM7mCsOv28E][shadower - 15.3k]] GMS, 2shot meso explosion
@@ -522,7 +544,9 @@ full clear: 15.71k
 - [[https://www.youtube.com/watch?v=PtBv0e3Te40][kinesis - 15.3k]]
 **** deep in the cavern - upper path 1
 32 mobs. seems pretty good for no vac pet.
+
 aliases: dcup1, 동윗깊1
+
 full clear: 15.2k
 - [[https://www.youtube.com/watch?v=xrz8_T3A6nE][blaze wizard - full clear]] (pre-ignition but should be valid for post-ignition)
 - [[https://www.youtube.com/watch?v=yuNMV1EwBuc][zero - full clear]]
@@ -537,7 +561,9 @@ full clear: 15.2k
 37 mobs, korean website is wrong about mob count on this one.
 personal favorite. works for many classes, heard of people without vac pet still managing 16+k.
 most of the mobs are on the left, so you want to proritize clearing those
+
 aliases: sdh2, 그춤2
+
 full clear: 17.61k
 - [[https://youtu.be/ReBq0R1z18E?t=1437][shadower - 17.3k]] GMS, 1 hour BA, 2shot meso explosion
 - [[https://youtu.be/bfmhwZtNykM?t=9][corsair - 17.5k]]
@@ -549,7 +575,9 @@ full clear: 17.61k
 - [[https://www.youtube.com/watch?v=HwKKkA2xMAc][ark - 17k]]
 **** shadowdance hall 3
 good alternative if shadowdance 2 is full
+
 aliases: sdh3, 그춤3
+
 full clear: 17.61k
 - [[https://youtu.be/2N2oIhzIX1E][corsair - 17k]]
 - [[https://www.youtube.com/watch?v=cD-x2xv2p-c][adele - 17k]]
@@ -559,6 +587,7 @@ full clear: 17.61k
 - [[https://www.youtube.com/watch?v=uzq6uRAvHsc][evan - 16.8k]]
 **** abandoned area 2
 37 mobs.
+
 full clear: 17.61k
 - [[https://www.youtube.com/watch?v=Oa_F7JKZ6Lo][night lord - 17.5k]]
 - [[https://www.youtube.com/watch?v=j2KLu0Opn38][shade - 17.12k]]
@@ -566,6 +595,7 @@ full clear: 17.61k
 - [[https://www.youtube.com/watch?v=f873OOHXUOA][zero - 17.3k]] zero's movement also works great to walk down these platforms
 **** abandoned area 3
 37 mobs.
+
 full clear: 17.61k
 - [[https://www.youtube.com/watch?v=RAokru5beq4][mercedes - 16.46k]]
 - [[https://www.youtube.com/watch?v=x2ZPxgZy9mw][night walker - 16k]]
@@ -577,6 +607,7 @@ full clear: 17.61k
 **** that day in trueffet 3
 35 mobs. good alternative if other maps are full. also somewhat less effort because of the drop down teleport
 aliases: 그튀3, 그트3
+
 full clear: 16.66k
 - [[https://www.youtube.com/watch?v=SdSpLp2F5zg][ark - 15.3k]]
 - [[https://www.youtube.com/watch?v=fc8Uc9F5cDQ][hoyoung - 15.4k]]
@@ -585,17 +616,20 @@ full clear: 16.66k
 *** esfera
 [[https://seollal.tistory.com/1080?category=845748][mob counts (korean)]]
 **** radiant temple 3
-39 mobs.
+39 mobs. used to be the meta farming map. not anymore since we have sellas which is much easier to rotate
+
 aliases: 신전3
+
 full clear: 18.57k
-used to be the meta farming map. not anymore since we have sellas which is much easier to rotate
 - [[https://www.youtube.com/watch?v=FoBQOll8ZYk][ark - 15k]]
 - [[https://www.youtube.com/watch?v=7wAk3zKy8no][bishop - 16.6k]]
 - [[https://www.youtube.com/watch?v=QIdBvRF22Zo][bowmaster - 15.6k]]
 - [[https://www.youtube.com/watch?v=Mml7L0lJhkM][shadower (pre-destiny) - full clear]]
 **** living spring 6
 38 mobs.
+
 full clear: 18.09k
+
 - [[https://www.youtube.com/watch?v=YH2gxOPYra8][corsair - 16.5k]]
 - [[https://www.youtube.com/watch?v=fIf83YWxXvc][hoyoung - 17k]]
 *** sellas
@@ -608,6 +642,7 @@ full clear: 18.09k
 [[https://seollal.tistory.com/1095?category=845748][mob counts (korean)]]
 **** last horizon 6
 38 mobs
+
 full clear: 18.09k
 - [[https://www.youtube.com/watch?v=xGHCJBgyyhg][corsair - full clear]]
 - [[https://www.youtube.com/watch?v=ngllt2fAVGE][bowmaster - full clear]]
@@ -620,6 +655,7 @@ full clear: 18.09k
 - [[https://www.youtube.com/watch?v=yCiKwf8D0oE][phantom - 16.5k]]
 **** mysterious fog 3
 37 mobs
+
 full clear: 17.61k
 - [[https://www.youtube.com/watch?v=5iEaICYHivE][corsair - full clear]]
 - [[https://www.youtube.com/watch?v=Mau-5Ackwa8][corsair, lazy rotation using rapid fire - 15.5k]]
@@ -630,12 +666,14 @@ full clear: 17.61k
 - [[https://www.youtube.com/watch?v=6ye9Dr1V_Ug][thunder breaker - 16.7k]]
 **** mysterious fog 5
 35 mobs
+
 full clear: 16.66k
 - [[https://www.youtube.com/watch?v=kKsUkDbOZGY][ice/lightning - 16.44k]]
 *** labyrinth of suffering
 [[https://seollal.tistory.com/1096?category=845748][mob counts (korean)]]
 **** labyrinth of suffering core 6
 35 mobs
+
 full clear: 16.66k
 - [[https://www.youtube.com/watch?v=4BjDemwY24c][corsair - full clear]]
 - [[https://www.youtube.com/watch?v=3T7b7_NRwO8][dawn warrior - 16k]]
@@ -646,6 +684,7 @@ full clear: 16.66k
 - [[https://www.youtube.com/watch?v=-gZsR_olDrE][aran - 16k]]
 **** labyrinth of suffering core 4
 37 mobs. website is wrong, checked shadower video
+
 full clear: 17.61k
 - [[https://www.youtube.com/watch?v=TGtFZyEPhbU][shadower - full clear]]
 - [[https://www.youtube.com/watch?v=XtnZivje6AQ][wind archer - 17.55k]]
@@ -664,8 +703,8 @@ full clear: 16.19k
 *** limina
 [[https://seollal.tistory.com/1097?category=845748][mob counts (korean)]]
 **** end of the world 1-7
-34 mobs, website is wrong
-high arcane force, high exp per mob
+34 mobs, website is wrong. high arcane force, high exp per mob
+
 full clear: 16.19k
 - [[https://www.youtube.com/watch?v=RJXxzBnk5eE][night lord - full clear]]
 - [[https://www.youtube.com/watch?v=q-kLEEld5fs][paladin - full clear]]
@@ -676,97 +715,123 @@ full clear: 16.19k
 - [[https://www.youtube.com/watch?v=S5eS4Rrv-XE][adele - 15k]]
 **** end of the world 1-6
 34 mobs
+
 full clear: 16.19k
 - [[https://www.youtube.com/watch?v=rbzxODB-iQo][ark - 16k]]
 - [[https://www.youtube.com/watch?v=PtjGTeXi0RY][buccaneer - 16k]]
 - [[https://www.youtube.com/watch?v=6WupD0wMGeM][pathfinder - 16.41k]]
 **** end of the world 2-5
 32 mobs, really easy to loot without a vac pet, really lazy full clear
+
 full clear: 15.23k
 - [[https://www.youtube.com/watch?v=mn8VJNQSqug][thunder breaker - full clear]]
 - [[https://www.youtube.com/watch?v=zKNjxGBXDC8][bishop - 15k]]
 - [[https://www.youtube.com/watch?v=hzZOWoplNKQ][adele - full clear]]
 **** end of the world 2-4
 32 mobs
+
 full clear: 15.23k
 - [[https://www.youtube.com/watch?v=GSK2jEYv-UM][ice/lightning - full clear]]
 **** end of the world 2-6
 31 mobs, high arcane force, high exp per mob. better if you care about exp over meso/nodes
+
 full clear: 14.7k
 - [[https://www.youtube.com/watch?v=YH8gg0a9gV0][phantom - 14k]]
 **** world sorrow's midpoint 1
 35 mobs
+
 full clear: 16.66k
 - [[https://www.youtube.com/watch?v=GkqiA2euzd0][fire/poison - 14.99k]] lazy rotation
 - [[https://www.youtube.com/watch?v=j3-728gVGMM][evan - 16.1k]] lazy rotation
 **** world sorrow's midpoint 2
 34 mobs
+
 full clear: 16.19k
 - [[https://www.youtube.com/watch?v=gvqsr66ZR-I][shadower - 15.7k]] lazy rotation
 **** world sorrow's midpoint 3
 34 mobs
+
 full clear: 16.19k
 - [[https://www.youtube.com/watch?v=SLMoao4I6Co][bishop - 16k]]
 **** world sorrow's midpoint 4
 34 mobs
+
 full clear: 16.19k
 - [[https://www.youtube.com/watch?v=7T6SGTIJKmw][zero - 14.2k]]
 *** cernium
 [[https://seollal.tistory.com/1111?category=845748][mob counts (korean)]]
 **** cernium western city ramparts 3
 38 mobs
+
 full clear: 18.09k
 **** rocky overlook 3
 38 mobs
+
 full clear: 18.09k
 **** rocky overlook 4
 38 mobs
+
 full clear: 18.09k
 **** cernium eastern city ramparts 3
 37 mobs. high potential but weird layout
+
 full clear: 17.61k
 **** cernium easter city ramparts 2
 33 mobs. not amazing mob count but easy layout that works for most classes
+
+full clear: 15.7k
 **** royal library section 3
 37 mobs
+
 full clear: 17.61k
 **** royal library section 6
 37 mobs
+
 full clear: 17.61k
 *** burning cernium
 [[https://seollal.tistory.com/943?category=845748][mob counts (korean)]]
 aliases: burnium
 **** burning royal library section 6
 38 mobs
+
 full clear: 18.09k
 **** burning royal library section 3
 38 mobs
+
 full clear: 18.09k
 **** eastern city ramparts in battle 3
 37 mobs
+
 full clear: 17.61k
 **** eastern city ramparts in battle 6
 37 mobs
+
 full clear: 17.61k
 **** western city ramparts in battle 3
 38 mobs
+
 full clear: 18.09k
 **** western city ramparts in battle 4
 37 mobs
+
 full clear: 17.61k
 *** hotel arcus
 [[https://seollal.tistory.com/549?category=845748][mob counts (korean)]]
 **** nostalgic drive-in theater 6
 38 mobs
+
 full clear: 18.09k
 **** outlaw-infested wastes 4
 38 mobs
+
 full clear: 18.09k
 **** outlaw-infested wastes 3
 37 mobs
+
 full clear: 17.61k
 **** nostalgic drive-in theater 3
 37 mobs
+
 full clear: 17.61k
 *** odium
 [[https://seollal.tistory.com/726?category=845748][mob counts (korean)]]
