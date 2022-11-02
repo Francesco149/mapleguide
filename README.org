@@ -793,6 +793,7 @@ full clear: 17.61k
 full clear: 17.61k
 *** burning cernium
 [[https://seollal.tistory.com/943?category=845748][mob counts (korean)]]
+
 aliases: burnium
 **** burning royal library section 6
 38 mobs
