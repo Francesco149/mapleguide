@@ -606,6 +606,7 @@ full clear: 17.61k
 - [[https://www.youtube.com/watch?v=oIqNOit4CYc][adele - 15.5k]]
 **** that day in trueffet 3
 35 mobs. good alternative if other maps are full. also somewhat less effort because of the drop down teleport
+
 aliases: 그튀3, 그트3
 
 full clear: 16.66k
