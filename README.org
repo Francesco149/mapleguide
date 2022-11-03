@@ -932,8 +932,35 @@ full clear: 17.61k
 **** train with no destination 1
 33 mobs
 
+aliases: 열차1
+
 full clear: 15.7k
 - [[https://www.youtube.com/watch?v=GmhaRmzAkCU][bishop - full clear]]
+- [[https://www.youtube.com/watch?v=LEG0LeMNLig][zero - full clear]]
+- [[https://www.youtube.com/watch?v=WMDkKUroZOw][night lord - 15k]] very low damage - dark flare is basically useless, same for mark
+- [[https://www.youtube.com/watch?v=GMjf5tKs9k0][fire/poison - full clear]] lazy rotation
+**** train with no destination 3
+35 mobs
+
+aliases: 열차3
+
+full clear: 16.66k
+- [[https://www.youtube.com/watch?v=A7kzU5WOj9U][bishop - 16.5k]]
+- [[https://www.youtube.com/watch?v=8Xmy15q-Ul0][luminous - 16.3k]]
+- [[https://www.youtube.com/watch?v=lj0-_FeSvww][hoyoung - 15.5k]]
+- [[https://www.youtube.com/watch?v=xfSNSyhzC40][ark - 15.7k]]
+- [[https://www.youtube.com/watch?v=EbxuK_qYOoc][phantom - 15k]] 5s hat
+- [[https://www.youtube.com/watch?v=sH7LIL0okJo][phantom - 15.2k]] 5s hat
+- [[https://www.youtube.com/watch?v=3olhCEUyUN8][dark knight - 15.4k]] 5s hat
+**** train with no destination 4
+33 mobs
+
+aliases: 열차4
+
+full clear: 15.7k
+- [[https://www.youtube.com/watch?v=YBUPgB4gbMA][cadena - 15.5k]]
+- [[https://www.youtube.com/watch?v=lE_LG8hpFRg][dark knight - 15.53k]]
+- [[https://www.youtube.com/watch?v=1raAMxK4R5E][wild hunter - full clear]]
 **** nostalgic drive-in theater 1
 33 mobs
 
@@ -944,3 +971,5 @@ full clear: 15.7k
 - [[https://www.youtube.com/watch?v=oNn_lzhUsTk][cannon master - 15.47k]]
 *** odium
 [[https://seollal.tistory.com/726?category=845748][mob counts (korean)]]
+
+TODO
