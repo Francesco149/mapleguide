@@ -767,30 +767,74 @@ full clear: 16.19k
 38 mobs
 
 full clear: 18.09k
-**** rocky overlook 3
-38 mobs
-
-full clear: 18.09k
-**** rocky overlook 4
-38 mobs
-
-full clear: 18.09k
+- [[https://www.youtube.com/watch?v=DEiJzuXY_Tg][bishop - 17k]]
+- [[https://www.youtube.com/watch?v=wMW7WJUmg0A][hoyoung - 16.7k]]
+- [[https://www.youtube.com/watch?v=LviiDDmSSN0][kaiser - 15.65k]]
+- [[https://www.youtube.com/watch?v=i0t2p1pXqWw][illium - 17.7k]]
+- [[https://www.youtube.com/watch?v=dl2Df-ctoDM][kinesis - 17.1k]]
+- [[https://www.youtube.com/watch?v=Jg2p8EdCefA][marksman - 16.9k]]
 **** cernium eastern city ramparts 3
 37 mobs. high potential but weird layout
 
 full clear: 17.61k
+- [[https://www.youtube.com/watch?v=Y_3PLwgg04g][adele - 15.6k]] slightly inflated because they stop BA late
+- [[https://www.youtube.com/watch?v=BZq9E_YpbHo][hero - 17k]]
+- [[https://www.youtube.com/watch?v=mP_b2HVASLU][night walker - 16.1k]] bats 3shotting
+- [[https://www.youtube.com/watch?v=9-qsT8OQNGc][phantom - 16.5k]]
+- [[https://www.youtube.com/watch?v=7QyKgEEHsN8][shadower - full clear]] 2shot meso explosion I think
 **** cernium easter city ramparts 2
 33 mobs. not amazing mob count but easy layout that works for most classes
 
 full clear: 15.7k
+- [[https://www.youtube.com/watch?v=g2J3UMSi7AA][shadower - 15.3k]] low damage, dark flare not 1shotting, meso explosion basically useless
+- [[https://www.youtube.com/watch?v=vTy_6pnH2n0][shadower - 15.5k]] reboot, even lower damage than the above
+- [[https://www.youtube.com/watch?v=3KgnVgxOwnQ][bishop - 15.3k]]
+- [[https://www.youtube.com/watch?v=RlkmxDytv9Q][wind archer - 15.5k]]
+- [[https://www.youtube.com/watch?v=CnI1eGchF7s][night lord - 15.29k]] mark damage basically useless
+- [[https://www.youtube.com/watch?v=v8AzkhWGlcY][dark knight - 15.2k]] 2s hat
+- [[https://clips.twitch.tv/ExuberantAnnoyingQueleaAMPEnergyCherry-aHvID4DnBDJWqeIZ][dark knight]] - 2s hat, pre-destiny, GMS, alternative rotation. also applies to post-destiny
 **** royal library section 3
 37 mobs
 
 full clear: 17.61k
+- [[https://www.youtube.com/watch?v=X9m2fAHOupM][mechanic - 15.4k]]
+**** royal library section 1
+33 mobs
+
+full clear: 15.7k
+- [[https://www.youtube.com/watch?v=7frw3gpcuMk][adele - 15.5k]]
+- [[https://www.youtube.com/watch?v=hFoU-Pfy8cs][hero - 15.58k]]
+**** royal library section 4
+33 mobs
+
+full clear: 15.7k
+- [[https://www.youtube.com/watch?v=UUkF98ZXYkc][battle mage - 15.5k]]
+- [[https://www.youtube.com/watch?v=K_fidakmGTY][night lord - full clear]] - dark flare 3shotting
 **** royal library section 6
 37 mobs
 
 full clear: 17.61k
+- [[https://www.youtube.com/watch?v=qS4WeTbrOG0][night lord - 16k]] mark doing basically no damage
+- [[https://www.youtube.com/watch?v=n37kbZlFtA0][kaiser - 16.22k]]
+**** rocky overlook 2
+33 mobs
+
+full clear: 15.7k
+- [[https://www.youtube.com/watch?v=o3l6__8_DsY][demon slayer - 15.5k]]
+- [[https://www.youtube.com/watch?v=Kg9RkqzkWBI][evan - 15k]]
+- [[https://www.youtube.com/watch?v=5d3xigCfF14][ark - 15.2k]]
+**** rocky overlook 3
+38 mobs
+
+full clear: 18.09k
+- [[https://www.youtube.com/watch?v=UuWejicZV2w][blaster - 15.9k]]
+- [[https://www.youtube.com/watch?v=qlrEnxREBqo][shade - 17.6k]]
+- [[https://www.youtube.com/watch?v=lwf-x-xOj6w][lara - 16k]]
+**** rocky overlook 4
+38 mobs
+
+full clear: 18.09k
+- [[https://www.youtube.com/watch?v=47cnS1fz7vo][thunder breaker - 15.7k]]
 *** burning cernium
 [[https://seollal.tistory.com/943?category=845748][mob counts (korean)]]
 
@@ -799,43 +843,104 @@ aliases: burnium
 38 mobs
 
 full clear: 18.09k
+- [[https://www.youtube.com/watch?v=KNF7St-ylEo][kaiser - 15.8k]]
+- [[https://www.youtube.com/watch?v=U3hByCBvPmc][hoyoung - 16k]]
+- [[https://www.youtube.com/watch?v=aBbgLj5QKD4][phantom - 17.9k]] 3s hat
+- [[https://www.youtube.com/watch?v=CexMwZi1HM8][dual blade - 16.27k]] 4s hat, pre-destiny
 **** burning royal library section 3
 38 mobs
 
 full clear: 18.09k
+- [[https://www.youtube.com/watch?v=NlPHYeaCOl4][adele - 16.78k]]
+- [[https://www.youtube.com/watch?v=0ERM6o6Wn6g][buccaneer - 16.59k]] 1shot lord of the deep, pre-destiny
+- [[https://www.youtube.com/watch?v=Zt1S8jDHYek][phantom - 15.5k]] 5s hat
+- [[https://www.youtube.com/watch?v=3Tk7I9rSoN0][shadower - 16k]] meso explosion doing no damage
+- [[https://www.youtube.com/watch?v=OY5F-ixNMAo][blaster - 18k]]
+**** western city ramparts in battle 3
+full clear: 17.61k
+38 mobs
+
+full clear: 18.09k
+- [[https://www.youtube.com/watch?v=_UkfNUT47nc][wind archer - 17k]] pre-ignition but should apply to post-ignition
+- [[https://www.youtube.com/watch?v=EZCqxHcGM7s][demon slayer - 15.7k]]
+- [[https://www.youtube.com/watch?v=92k0mu7ML84][ark - 16.6k]]
+- [[https://www.youtube.com/watch?v=4I--NWbZUcs][kaiser - 16.4k]]
+- [[https://www.youtube.com/watch?v=EnJD3Dnv1Jg][marksman - 16.5k]]
+- [[https://www.youtube.com/watch?v=bkx1bCr-9os][kinesis - 16.8k]]
 **** eastern city ramparts in battle 3
 37 mobs
 
 full clear: 17.61k
+- [[https://www.youtube.com/watch?v=Xr7pnBU3IZw][shadower - 17.36k]] dark flare looks like it's 3-4 shotting. meso explosion damage probably worthless
 **** eastern city ramparts in battle 6
 37 mobs
 
 full clear: 17.61k
-**** western city ramparts in battle 3
-38 mobs
-
-full clear: 18.09k
+- [[https://www.youtube.com/watch?v=Wb8kwXn3rqI][kinesis - 16.5k]]
 **** western city ramparts in battle 4
 37 mobs
 
 full clear: 17.61k
+- [[https://www.youtube.com/watch?v=MJrfJvlqITA][shadower - 16.3k]]  no damage on meso explosion, 4shot dark flare
+- [[https://www.youtube.com/watch?v=b99sldzxBv4][luminous - 17.5k]] post-ignition with the better reflection
+- [[https://www.youtube.com/watch?v=zsYMRWsBpBM][kinesis - 16.5k]]
 *** hotel arcus
 [[https://seollal.tistory.com/549?category=845748][mob counts (korean)]]
-**** nostalgic drive-in theater 6
-38 mobs
-
-full clear: 18.09k
 **** outlaw-infested wastes 4
 38 mobs
 
 full clear: 18.09k
+- [[https://www.youtube.com/watch?v=t0ZxVtAeX3g][kain - 17.5k]]
+- [[https://www.youtube.com/watch?v=lF0-k-TQUu8][night walker - 16.37k]] 2shot bats
+- [[https://www.youtube.com/watch?v=DPaEKIHBWIM][thunder breaker - 17k]]
+- [[https://www.youtube.com/watch?v=LZY5eu4lg_c][lumi - 17.69k]] post-ignition (better reflection)
+- [[https://www.youtube.com/watch?v=5ygBWIbuP9w][ark - 16.5k]]
+- [[https://www.youtube.com/watch?v=he82m19WSew][bishop - 17.8k]]
+- [[https://www.youtube.com/watch?v=iBS3d08dWYQ][mercedes - 16.5k]]
+- [[https://www.youtube.com/watch?v=6Y7CBFfWCXw][ice/lightning - 17.22k]]
+- [[https://www.youtube.com/watch?v=mU9qf2uNIrg][marksman - 17.8k]]
+- [[https://www.youtube.com/watch?v=y8nIJJvwtZI][kaiser - 15.6k]] - low damage, some skills not 1shotting
+- [[https://www.youtube.com/watch?v=sIwniE4fHds][mechanic - 17k]]
 **** outlaw-infested wastes 3
 37 mobs
 
 full clear: 17.61k
+- [[https://www.twitch.tv/videos/1642322728][dark knight - 16.7k]] GMS, 1 hour BA
+- [[https://www.youtube.com/watch?v=GTUbyY1_O8U][dark knight - 17.3k]] 6min perfect execution of the above rotation
+- [[https://www.youtube.com/watch?v=BjpifPVPL5s][fire/poison - 16.64k]]
+- [[https://www.youtube.com/watch?v=x-CZgT5twrY][fire/poison - 17.1k]]
+- [[https://www.youtube.com/watch?v=yYgQa9j7l6I][shadower - 16.5k]] reboot, very low damage: dark flare 5-6 shots
+- [[https://www.youtube.com/watch?v=43d88Mcn9Qk][corsair - 17k]] 3shot ships
+**** nostalgic drive-in theater 6
+38 mobs
+
+full clear: 18.09k
+- [[https://www.youtube.com/watch?v=t74HhUejcjg][mercedes - 16.5k]] only 1min BA so could be inaccurate
+- [[https://www.youtube.com/watch?v=cVZYGvfl_Vs][mercedes - 15.5k]]
+- [[https://www.youtube.com/watch?v=cVZYGvfl_Vs][mercedes - 15.5k]]
+- [[https://www.youtube.com/watch?v=-EKVKkbYclM][adele - 15.5k]] swords 3-4 shotting
+- [[https://www.youtube.com/watch?v=kj9EmK7m2QM][kain - 17.3k]]
+- [[https://www.youtube.com/watch?v=xQXyxp6Zi6M][mechanic - full clear]] 2shot turrets, lazy rotation
+- [[https://www.youtube.com/watch?v=tzMOlg5uMzo][blaster - 17.2k]]
+- [[https://www.youtube.com/watch?v=wYWqytU5Qwk][blaster - 16.4k]] 30min BA
+- [[https://www.youtube.com/watch?v=Mp_VZbfBOEs][thunder breaker - 17.6k]]
 **** nostalgic drive-in theater 3
 37 mobs
 
 full clear: 17.61k
+- [[https://www.youtube.com/watch?v=BZ0bfyM9lxg][lara - 17.25k]]
+**** train with no destination 1
+33 mobs
+
+full clear: 15.7k
+- [[https://www.youtube.com/watch?v=GmhaRmzAkCU][bishop - full clear]]
+**** nostalgic drive-in theater 1
+33 mobs
+
+full clear: 15.7k
+- [[https://www.youtube.com/watch?v=Yt4B6UnJDTg][bishop - 15.3k]]
+- [[https://www.youtube.com/watch?v=n6nGxfbsRJc][hoyoung - 15.5k]]
+- [[https://www.youtube.com/watch?v=YywKEeoLxns][dual blade - 15.39k]] 4s hat
+- [[https://www.youtube.com/watch?v=oNn_lzhUsTk][cannon master - 15.47k]]
 *** odium
 [[https://seollal.tistory.com/726?category=845748][mob counts (korean)]]
