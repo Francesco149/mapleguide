@@ -630,15 +630,62 @@ full clear: 18.57k
 38 mobs.
 
 full clear: 18.09k
-
 - [[https://www.youtube.com/watch?v=YH2gxOPYra8][corsair - 16.5k]]
 - [[https://www.youtube.com/watch?v=fIf83YWxXvc][hoyoung - 17k]]
 *** sellas
 [[https://seollal.tistory.com/162][mob counts (korean)]]
-**** the final edge of light 3
-- [[https://www.youtube.com/watch?v=txbPQkEMJtw][corsair - 17.5k]]
+**** the final edge of light 6
+38 mobs
+
+aliases: 빛마닿6
+
+full clear: 18.09k
+- [[https://www.youtube.com/watch?v=RFCkrtAJ98w][wind archer - 16.5k]]
+- [[https://www.youtube.com/watch?v=3d528GelQ40][fire/poison - 17.7k]]
+- [[https://www.youtube.com/watch?v=QyA_t9O9Bhk][night lord - 18k]] 2shot mark
+- [[https://www.youtube.com/watch?v=lds4ZHOvn30][shadower - full clear]] 2shot meso explosion
 **** plunging depths 3
+38 mobs
+
+aliases: 끝추심3, pd3
+
+full clear: 18.09k
 - [[https://www.youtube.com/watch?v=NzP7WZNWUG0][corsair - 17k]]
+- [[https://www.youtube.com/watch?v=ZSOFk3a6778][shade - full clear]]
+- [[https://www.youtube.com/watch?v=0EOFMqrBTxM][night lord - 17.5k]] 2shot mark
+- [[https://www.youtube.com/watch?v=vQz7YOf3lRc][paladin - 17.4k]]
+**** star-swallowing sea 6
+39 mobs
+
+aliases: SSS6
+
+full clear: 18.57k
+- [[https://www.youtube.com/watch?v=gU9bvoO5Qlw][shadower - full clear]]
+- [[https://www.youtube.com/watch?v=GIWme_avlxc][dawn warrior - full clear]]
+- [[https://www.youtube.com/watch?v=_4WU98mPuRk][dual blade]] 2s hat
+**** star-swallowing sea 3
+38 mobs
+
+full clear: 18.09k
+- [[https://www.youtube.com/watch?v=joK7wRUIj98][hoyoung - 18k]]
+**** the final edge of light 3
+37 mobs
+
+aliases: 빛마닿3
+
+full clear: 17.61k
+- [[https://www.youtube.com/watch?v=txbPQkEMJtw][corsair - 17.5k]]
+- [[https://www.youtube.com/watch?v=8LXAKRrTfnM][night lord - 16.5k]] 2shot mark
+- [[https://www.youtube.com/watch?v=N_babEa9byA][shadower - 17.5k]]
+**** the final edge of light 9
+37 mobs
+
+aliases: 빛마닿9
+
+full clear: 17.61k
+- [[https://www.youtube.com/watch?v=pFSXIflxNg0][wind archer - 16.68k]]
+- [[https://www.youtube.com/watch?v=j5NRYBdFyYI][shadower - 17.5k]]
+- [[https://www.youtube.com/watch?v=fTgxmoSWE-4][phantom - 16k]] 1s cooldown reduction?
 *** moonbridge
 [[https://seollal.tistory.com/1095?category=845748][mob counts (korean)]]
 **** last horizon 6
