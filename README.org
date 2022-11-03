@@ -565,7 +565,7 @@ most of the mobs are on the left, so you want to proritize clearing those
 aliases: sdh2, 그춤2
 
 full clear: 17.61k
-- [[https://youtu.be/ReBq0R1z18E?t=1437][shadower - 17.3k]] GMS, 1 hour BA, 2shot meso explosion
+- [[https://www.youtube.com/watch?v=yJf3kfdxCbI][shadower - 17.3k]] GMS, 1 hour BA, 2shot meso explosion
 - [[https://youtu.be/bfmhwZtNykM?t=9][corsair - 17.5k]]
 - [[https://www.youtube.com/watch?v=VmPjnPtNI2c][dawn warrior - 16.24k (30 mins BA)]]
 - [[https://www.youtube.com/watch?v=NNWGeoTe9a0][dawn warrior - 16.4k]] - alternative rotation
