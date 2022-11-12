@@ -1019,4 +1019,153 @@ full clear: 15.7k
 *** odium
 [[https://seollal.tistory.com/726?category=845748][mob counts (korean)]]
 
-TODO
+NOTE: map names are google/papago translated until we get official names
+
+**** The Way to the Gate 4
+KR: 성문으로 가는 길 4
+
+aliases: 성문4
+
+39 mobs, full clear: 18.57k
+
+- [[https://www.youtube.com/watch?v=G7x6IO4i_SY][mercedes - 18.24k]]
+- [[https://www.youtube.com/watch?v=cuiq6TWf_t4][night lord - 17k]] very low damage, dark flare and mark basically useless
+- [[https://www.youtube.com/watch?v=_DY4OgxLj4U][angelic buster - 17.8k]] not relying on soul seeker
+- [[https://www.youtube.com/watch?v=cwVm0ncyTTQ][blaster - 18k]]
+- [[https://www.youtube.com/watch?v=630rjuVOpII][kaiser - full clear]] 3s cooldown hat
+- [[https://www.youtube.com/watch?v=HW8ikZmtdv4][marksman - full clear]]
+- [[https://www.youtube.com/watch?v=KXvrrS3OWus][mechanic - 18k]] rockets appear to be 3shotting
+- [[https://www.youtube.com/watch?v=ar14P1Wdg_8][adele - 17.42k]] flying swords appear to 3shot
+- [[https://www.youtube.com/watch?v=G-zAiQhlx7U][night walker - 18k]] bats 4-5 shotting
+- [[https://www.youtube.com/watch?v=DUTx10TueO4][hoyoung - 18.26k]]
+- [[https://www.youtube.com/watch?v=yE5LV4rmLPw][dark knight - 18k]] 4s hat
+
+**** The Way to the Gate 3
+KR: 성문으로 가는 길 3
+
+aliases: 성문3
+
+36 mobs, full clear: 17.14k
+
+- [[https://www.youtube.com/watch?v=BraDg6ErpWA][dark knight - 16.6k]] 4s hat, 2shot erda fountain
+**** Occupied Alley 4
+KR: 점령당한 골목4
+
+aliases: 골목4
+
+38 mobs, full clear: 18.09k
+
+- [[https://www.youtube.com/watch?v=knQvGZC2DwY][cannon master - 18k]]
+- [[https://www.youtube.com/watch?v=9jKIIE9Zko0][marksman - 17.8k]]
+- [[https://www.youtube.com/watch?v=doPd7fLqhLE][night walker - 17.3k]]
+- [[https://www.youtube.com/watch?v=XEQs1-fL_vk][hero - 16.4k]] 5s hat
+- [[https://www.youtube.com/watch?v=dbtnGZC_27Q][dark knight - 17k]] 4s hat
+**** Occupied Alley 3
+KR: 점령당한 골목3
+
+aliases: 골목3
+
+36 mobs, full clear: 17.14k
+
+- [[https://www.youtube.com/watch?v=1QCIpx4pum4][dark knight - 17k]] 4s hat
+**** Sunrise Laboratory 3
+KR: 볕 드는 실험실 3
+
+aliases: 볕드실3
+
+39 mobs, full clear: 18.57k
+
+very strange layout, but suprisingly good rates for some classes. the teleporters work in a cross shape kinda like mottled forest 2. any class that can hit all around them quickly enough can do a lazy rotation with the teleporters
+
+- [[https://www.youtube.com/watch?v=rGaTSKsCtq8][kinesis - 17.5k]]
+- [[https://www.youtube.com/watch?v=eTanVW0wdLo][bishop - 17k]]
+- [[https://www.youtube.com/watch?v=Z2N9Q4LGzWU][bishop - 16.9k]]
+- [[https://www.youtube.com/watch?v=h2TYrfXpqSU][bishop - 16.47k]]
+- [[https://www.youtube.com/watch?v=OiEYILWESBU][dual blade - 17.44k]] 5s hat, interesting use of the bossing skill
+- [[https://www.youtube.com/watch?v=satj7CaXOZY][phantom - 17.5k]] 5s hat
+- [[https://www.youtube.com/watch?v=pzBicBcaqPw][ice/lightning - 16.5k]]
+- [[https://www.youtube.com/watch?v=TXFNgQ3-txc][mercedes - 17.26k]] lazy rotation
+- [[https://www.youtube.com/watch?v=pO7N_w4g-RQ][shadower - 16.58k]] lazy rotation, 1hr BA
+- [[https://www.youtube.com/watch?v=PyNCRTrNhLY][aran - 16k]] lazy rotation
+- [[https://www.youtube.com/watch?v=1FssztEUCTE][marksman - 15.6k]] lazy rotation
+- [[https://www.youtube.com/watch?v=mT6zTVRfz8s][luminous - 17.5k]] lazy rotation
+- [[https://www.youtube.com/watch?v=V1u_HvWsQ2Y][wind archer - 17.4k]] 4s hat, lazy rotation
+- [[https://www.youtube.com/watch?v=ylVuZ86Lp-8][fire/poison - 16k]] lazy rotation (mostly standing in the middle)
+- [[https://www.youtube.com/watch?v=j2GuSuxysWU][shade - 17.27k]]
+- [[https://www.youtube.com/watch?v=dfD4KcwTiHI][pathfinder - 16.5k]] lazy rotation
+- [[https://www.youtube.com/watch?v=jpSmgmw4nKQ][night lord - 16.7k]] L shaped rotation, very weak summon and mark damage
+- [[https://www.youtube.com/watch?v=g75RV6mZuG8][dark knight - 17.3k]] 4s hat
+**** Laboratory Behind Closed Doors 3
+KR: 잠긴 문 뒤 실험실 3
+
+39 mobs, full clear: 18.57k
+
+high force requirement, high exp per mob, high mob count. probably the best exp. also has a cross shaped pattern of teleporters like sunrise lab
+
+- [[https://www.youtube.com/watch?v=YcMlSGX-xpc][wind archer - 17.3k]] 5s hat, lazy rotation
+- [[https://www.youtube.com/watch?v=PZy0HCBa-Hs][bishop - 18k]] lazy rotation
+- [[https://www.youtube.com/watch?v=lxhv-JpPATY][mercedes - 17k]] lazy rotation
+- [[https://www.youtube.com/watch?v=UFDdVlNYUXU][shadower - 17k]] lazy rotation
+- [[https://www.youtube.com/watch?v=SisE3MGid10][luminous - full clear]]
+- [[https://www.youtube.com/watch?v=OoiWgnEA5Pk][adele - 16.87k]] lazy rotation
+- [[https://www.youtube.com/watch?v=3mXu3UixFj8][blaze wizard - 15.6k]]
+- [[https://www.youtube.com/watch?v=_OEjjn9X_qk][fire/poison - 16.5k]]
+**** Laboratory Behind Closed Doors 2
+KR: 잠긴 문 뒤 실험실 2
+
+36 mobs, full clear: 17.14k
+
+- [[https://www.youtube.com/watch?v=pA9XzL-4uMk][adele - 16.5k]] lazy rotation
+- [[https://www.youtube.com/watch?v=VeiJB_yvHvc'][cadena - 16k]]
+- [[https://www.youtube.com/watch?v=nE_Vcpe5fds][kaiser - 16.77k]]
+- [[https://www.youtube.com/watch?v=33jToC2yMoE][dark knight - 16.5k]] 4s hat
+**** Sunrise Laboratory 2
+KR: 볕 드는 실험실 2
+
+37 mobs, full clear: 17.61k
+
+another cross teleport pattern lazy drop down map. doesnt look as good as lab 3 but seems like a valid alternative
+
+- [[https://www.youtube.com/watch?v=Q2GwvFNdoXU][zero - 16.21k]]
+- [[https://www.youtube.com/watch?v=htPTsaap8T8][demon slayer - 15.7k]] lazy rotation
+- [[https://www.youtube.com/watch?v=XnTAqaz9sVk][dark knight - 16.6k]] 4s hat, U shape rotation. says 17k possible with a 5s hat
+**** Laboratory Behind Closed Doors 1
+KR: 잠긴 문 뒤 실험실 1
+
+32 mobs, full clear: 15.2k
+
+low mob count alternative if nothing else works
+
+- [[https://www.youtube.com/watch?v=mXdzaKvRuUQ][dark knight - 15k]] 4s hat
+**** Sunrise Laboratory 1
+KR: 볕 드는 실험실 1
+
+32 mobs, full clear: 15.2k
+
+low mob count alternative if nothing else works. seems to work ok for mages
+
+- [[https://www.youtube.com/watch?v=IZWZD8vK-BI][evan - 15k]]
+- [[https://www.youtube.com/watch?v=3lGMfuypXmI][ice/lightning - 15k]]
+- [[https://www.youtube.com/watch?v=2IKOGzqzINU][cannon master - 15k]]
+- [[https://www.youtube.com/watch?v=dVfemZdObWE][xenon - 15k]]
+- [[https://www.youtube.com/watch?v=bGUg3jh2Ass][shadower - full clear]]
+**** The Way to the Gate 2
+KR: 성문으로 가는 길 2
+
+aliases: 성문2
+
+33 mobs, full clear: 15.7k
+
+low mob count alternative if nothing else works
+
+- [[https://www.youtube.com/watch?v=nIKh489j6oc][dark knight - 15k]] no cooldown hat
+**** The Way to the Gate 1
+KR: 성문으로 가는 길 1
+
+aliases: 성문1
+
+32 mobs, full clear: 15.2k
+
+low mob count alternative if nothing else works
+
+- [[https://www.youtube.com/watch?v=MjSb8S4lrdY][dark knight - 14.8k]] no cooldown hat
