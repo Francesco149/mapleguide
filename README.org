@@ -1046,6 +1046,7 @@ teleporters go in a triangular shape: top left, bottom right, trop right
 - [[https://www.youtube.com/watch?v=57Y7L3539yQ][bowmaster - 18.2k]]
 - [[https://www.youtube.com/watch?v=FwOjnKgF-dQ][buccaneer - 16.9k]] very low damage
 - [[https://www.youtube.com/watch?v=kgS2Ffuhnk4][cadena - 17k]]
+- [[https://www.youtube.com/watch?v=5FEpt0Q-oLE][cadena - 17.93k]]
 - [[https://www.youtube.com/watch?v=3XipfKsvPHw][cannon master - 17.4k]] 2shot erda fountain
 - [[https://www.youtube.com/watch?v=yE5LV4rmLPw][dark knight - 18k]] 4s hat
 - [[https://www.youtube.com/watch?v=PslZfmfWihM][dawn warrior - 17.7k]]
@@ -1054,13 +1055,14 @@ teleporters go in a triangular shape: top left, bottom right, trop right
 - [[https://www.youtube.com/watch?v=DUTx10TueO4][hoyoung - 18.26k]]
 - [[https://www.youtube.com/watch?v=95zY4CAWytE][illium - 17.58k]]
 - [[https://www.youtube.com/watch?v=630rjuVOpII][kaiser - full clear]] 3s cooldown hat
-- [[https://www.youtube.com/watch?v=0kqofn-HZds][kinesis - 16k]]
+- [[https://www.youtube.com/watch?v=4Vc1MhFwaPc][kinesis - 18k]]
 - [[https://www.youtube.com/watch?v=AXxkHrSKDBU][lara - 17.7k]]
 - [[https://www.youtube.com/watch?v=wP7xhno3Peo][luminous - 17.89k]]
 - [[https://www.youtube.com/watch?v=HW8ikZmtdv4][marksman - full clear]]
 - [[https://www.youtube.com/watch?v=nY2sI0eQQNo][mechanic - 18.5k]] very strong
 - [[https://www.youtube.com/watch?v=KXvrrS3OWus][mechanic - 18k]] rockets appear to be 3shotting
 - [[https://www.youtube.com/watch?v=G7x6IO4i_SY][mercedes - 18.24k]]
+- [[https://www.youtube.com/watch?v=7n5KVt0I3ZI][mercedes - 18.38k]]
 - [[https://www.youtube.com/watch?v=CvebkYQUbqc][mihile - 17k]]
 - [[https://www.youtube.com/watch?v=cuiq6TWf_t4][night lord - 17k]] very low damage, dark flare and mark basically useless
 - [[https://www.youtube.com/watch?v=G-zAiQhlx7U][night walker - 18k]] bats 4-5 shotting
@@ -1083,8 +1085,21 @@ aliases: 성문3
 
 36 mobs, full clear: 17.14k
 
+- [[https://www.youtube.com/watch?v=ZCj_tE6Fq9E][adele - 16.9k]]
+- [[https://www.youtube.com/watch?v=jBf3iaX3SOA][angelic buster - 16.81k]]
+- [[https://www.youtube.com/watch?v=SzZpuufVm64][bishop - 17.1k]]
 - [[https://www.youtube.com/watch?v=BraDg6ErpWA][dark knight - 16.6k]] 4s hat, 2shot erda fountain
+- [[https://www.youtube.com/watch?v=qr8ZQDcxQhw][dark knight 17.13k]] 5s hat
+- [[https://www.youtube.com/watch?v=h3OdfP25QPw][dark knight - 17k]] 5s hat
+- [[https://www.youtube.com/watch?v=l2rfc9nG8Ho][evan - 16.44k]] lazy rotation
+- [[https://www.youtube.com/watch?v=EYNwaJvCMe4][hoyoung - 17.11k]]
+- [[https://www.youtube.com/watch?v=udkCKwksBKM][kain - 16.4k]]
+- [[https://www.youtube.com/watch?v=8XLwUTQXJd0][mechanic - 17k]] lazy rotation
+- [[https://www.youtube.com/watch?v=5Ky0DvWt4W4][mercedes - 16.5k]]
+- [[https://www.youtube.com/watch?v=GcvloxBDzXM][night lord - 15.5k]]
+- [[https://www.youtube.com/watch?v=1XUnw4UQgS4][night lord - 15k]]
 - [[https://www.youtube.com/watch?v=p25N4_3e1ic][night walker - 16k]]
+- [[https://www.youtube.com/watch?v=XnsgYzryYQk][shadower - 16.6k]]
 **** Occupied Alley 4
 KR: 점령당한 골목4
 
@@ -1205,7 +1220,9 @@ aliases: 성문1
 
 low mob count alternative if nothing else works
 
+- [[https://www.youtube.com/watch?v=Ic_LXF-W90c][cadena - 15k]] 4s hat
 - [[https://www.youtube.com/watch?v=MjSb8S4lrdY][dark knight - 14.8k]] no cooldown hat
+- [[https://www.youtube.com/watch?v=e0H8PieD5HM][dark knight - 15.5k]] 4s hat
 
 * class-specific training guides
 - [[https://www.youtube.com/watch?v=7Bd06WV9DXo][blaze wizard]] base spawn, post-ignition
