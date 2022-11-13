@@ -1028,17 +1028,53 @@ aliases: 성문4
 
 39 mobs, full clear: 18.57k
 
+feels like a higher mob count version of shadowdance hall 2 in terms of layout.
+
+teleporters go in a triangular shape: top left, bottom right, trop right
+
 - [[https://www.youtube.com/watch?v=G7x6IO4i_SY][mercedes - 18.24k]]
 - [[https://www.youtube.com/watch?v=cuiq6TWf_t4][night lord - 17k]] very low damage, dark flare and mark basically useless
 - [[https://www.youtube.com/watch?v=_DY4OgxLj4U][angelic buster - 17.8k]] not relying on soul seeker
+- [[https://www.youtube.com/watch?v=D2q5jTqIuEo][angelic buster - 17.93k]] not relying on soul seeker
+- [[https://www.youtube.com/watch?v=4NoSlk9-z34][angelic buster - 18.3k]] 4s hat, not relying on soul seeker
 - [[https://www.youtube.com/watch?v=cwVm0ncyTTQ][blaster - 18k]]
 - [[https://www.youtube.com/watch?v=630rjuVOpII][kaiser - full clear]] 3s cooldown hat
 - [[https://www.youtube.com/watch?v=HW8ikZmtdv4][marksman - full clear]]
 - [[https://www.youtube.com/watch?v=KXvrrS3OWus][mechanic - 18k]] rockets appear to be 3shotting
+- [[https://www.youtube.com/watch?v=nY2sI0eQQNo][mechanic - 18.5k]] very strong
 - [[https://www.youtube.com/watch?v=ar14P1Wdg_8][adele - 17.42k]] flying swords appear to 3shot
+- [[https://www.youtube.com/watch?v=O4fVsXW-AhI][adele - 17.96k]]
 - [[https://www.youtube.com/watch?v=G-zAiQhlx7U][night walker - 18k]] bats 4-5 shotting
 - [[https://www.youtube.com/watch?v=DUTx10TueO4][hoyoung - 18.26k]]
 - [[https://www.youtube.com/watch?v=yE5LV4rmLPw][dark knight - 18k]] 4s hat
+- [[https://www.youtube.com/watch?v=CvebkYQUbqc][mihile - 17k]]
+- [[https://www.youtube.com/watch?v=Dnh-FS_lh8U][bishop - 17.5k]]
+- [[https://www.youtube.com/watch?v=KCJQtSsE754][paladin - 17.4k]]
+- [[https://www.youtube.com/watch?v=-dLGzqowrso][ark - 18k]]
+- [[https://www.youtube.com/watch?v=UGASJgvuN-E][wind archer - 17.4k]] 2s hat
+- [[https://www.youtube.com/watch?v=0yNl5weuO5Q][blaze wizard - 18.55k]]
+- [[https://www.youtube.com/watch?v=qqzdvPWNHLs][pathfinder - 18k]]
+- [[https://www.youtube.com/watch?v=RKyaPsCLdXE][wild hunter - full clear]]
+- [[https://www.youtube.com/watch?v=2pfry8wq3MQ][shadower - full clear]] not reliant on meso explosion
+- [[https://www.youtube.com/watch?v=57Y7L3539yQ][bowmaster - 18.2k]]
+- [[https://www.youtube.com/watch?v=gv6RHcx9eTc][fire/poison - 18.5k]] lazy rotation
+- [[https://www.youtube.com/watch?v=Tdp7-IMEi5Q][zero - 18k]]
+- [[https://www.youtube.com/watch?v=3XipfKsvPHw][cannon master - 17.4k]] 2shot erda fountain
+- [[https://www.youtube.com/watch?v=PslZfmfWihM][dawn warrior - 17.7k]]
+- [[https://www.youtube.com/watch?v=7ZYqYT4SZZI][dual blade - full clear]] 5s hat
+- [[https://www.youtube.com/watch?v=TIEldiWjoW8][phantom - 16k]] 5s hat
+- [[https://www.youtube.com/watch?v=iqZzyDoODTU][phantom - 18k]] 5s hat
+- [[https://www.youtube.com/watch?v=2MDuYnXVXG4][phantom - 18.2k]] 5s hat
+- [[https://www.youtube.com/watch?v=ybgr4TdpdkM][battle mage - 16.45k]]
+- [[https://www.youtube.com/watch?v=95zY4CAWytE][illium - 17.58k]]
+- [[https://www.youtube.com/watch?v=8Cbk9BGo8qY][aran - 18.12k]]
+- [[https://www.youtube.com/watch?v=FwOjnKgF-dQ][buccaneer - 16.9k]] very low damage
+- [[https://www.youtube.com/watch?v=AdWC-ap6uDM][thunder breaker - 18k]]
+- [[https://www.youtube.com/watch?v=NC5cUwlgZew][shade - full clear]]
+- [[https://www.youtube.com/watch?v=0kqofn-HZds][kinesis - 16k]]
+- [[https://www.youtube.com/watch?v=AXxkHrSKDBU][lara - 17.7k]]
+- [[https://www.youtube.com/watch?v=kgS2Ffuhnk4][cadena - 17k]]
+- [[https://www.youtube.com/watch?v=wP7xhno3Peo][luminous - 17.89k]]
 
 **** The Way to the Gate 3
 KR: 성문으로 가는 길 3
@@ -1048,6 +1084,7 @@ aliases: 성문3
 36 mobs, full clear: 17.14k
 
 - [[https://www.youtube.com/watch?v=BraDg6ErpWA][dark knight - 16.6k]] 4s hat, 2shot erda fountain
+- [[https://www.youtube.com/watch?v=p25N4_3e1ic][night walker - 16k]]
 **** Occupied Alley 4
 KR: 점령당한 골목4
 
