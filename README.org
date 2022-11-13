@@ -1206,3 +1206,6 @@ aliases: 성문1
 low mob count alternative if nothing else works
 
 - [[https://www.youtube.com/watch?v=MjSb8S4lrdY][dark knight - 14.8k]] no cooldown hat
+
+* class-specific training guides
+- [[https://www.youtube.com/watch?v=7Bd06WV9DXo][blaze wizard]] base spawn, post-ignition
