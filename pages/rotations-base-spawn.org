@@ -7,8 +7,17 @@ also keep in mind that short BA's like 6 minutes can be inflated easily. so the 
 when the mob capacity is higher than the spawn count, the first wave of the BA will have extra mobs. the last spawn cycle in a 6min BA night not exactly align with the 6min mark which also contributes to inflating the numbers. if someone is full clearing, you can safely assume they are getting the max theoretical kill rate ~3600/7.56 * mobCount~.
 
 the mob counts are the mobs per cycle when full clearing, based on watching videos of rotations
+
 * arcane river
+#+begin_html
+  <details>
+    <summary>(click to expand)</summary>
+#+end_html
 ** vanishing journey
+#+begin_html
+  <details>
+    <summary>(click to expand)</summary>
+#+end_html
 [[https://seollal.tistory.com/1082][mob counts (korean)]]
 *** hidden lakeshore
 35 mobs. this is a high arcane force map so not necessarily realistic for a brand new player to 1-shot. it's pretty much the only decent map in VJ. also note that the exp per mob is higher than other maps
@@ -57,7 +66,14 @@ same mob count situation as below the cave
 
 full clear: 12.6k?
 - [[https://youtu.be/WeEOAGV3Pms?t=113][adele - 12k]]
+#+begin_html
+  </details>
+#+end_html
 ** chu chu island
+#+begin_html
+  <details>
+    <summary>(click to expand)</summary>
+#+end_html
 [[https://seollal.tistory.com/1090][mob counts (korean)]]
 *** mottled forest 2
 33 mobs. my favorite map to grind to 220. based on the dawn warrior video, the mob capacity appears to be 40
@@ -98,7 +114,14 @@ full clear: 13.3k
 full clear: 12.38k
 - [[https://www.youtube.com/watch?v=PEZC7g-3czc][adele - 11.1k]]
 - [[https://youtu.be/TSyX2VC4JKE?t=590][lara - 11.3k]]
+#+begin_html
+  </details>
+#+end_html
 ** yum yum island
+#+begin_html
+  <details>
+    <summary>(click to expand)</summary>
+#+end_html
 [[https://seollal.tistory.com/1093][mob counts (korean)]]
 *** hidden mushbud forest
 24 mobs, high arcane force map. capacity appears to be 31
@@ -111,7 +134,14 @@ full clear: 11.4k
 
 full clear: 11.4k
 - [[https://youtu.be/TSyX2VC4JKE?t=1014][lara 11.2k]]
+#+begin_html
+  </details>
+#+end_html
 ** lachelein
+#+begin_html
+  <details>
+    <summary>(click to expand)</summary>
+#+end_html
 [[https://seollal.tistory.com/1091][mob counts (korean)]]
 *** chickens festival 3
 38 mobs, best map by far if you can clear enough mobs per cycle.
@@ -165,7 +195,14 @@ full clear: 13.8k
 
 full clear: 13.3k
 - [[https://www.youtube.com/watch?v=Gdh-Fq61sIc][dawn warrior - full clear]]
+#+begin_html
+  </details>
+#+end_html
 ** arcana
+#+begin_html
+  <details>
+    <summary>(click to expand)</summary>
+#+end_html
 [[https://seollal.tistory.com/1079?category=845748][mob counts (korean)]]
 *** where water and sunlight meet
 33 mobs. there's very few decent maps in arcana, this is one of them. also easy to loot without vac pet. if your rates in chickens 3 are good I would stay there until morass though
@@ -193,7 +230,14 @@ full clear: 15.2k
 - [[https://www.youtube.com/watch?v=r-HSxK-iMCQ][hero - 15k]]
 - [[https://www.youtube.com/watch?v=SSHQHyFhyYs][mechanic - 14.6k]]
 - [[https://www.youtube.com/watch?v=yuNMV1EwBuc][zero - full clear]]
+#+begin_html
+  </details>
+#+end_html
 ** morass
+#+begin_html
+  <details>
+    <summary>(click to expand)</summary>
+#+end_html
 [[https://seollal.tistory.com/1081?category=845748][mob counts (korean)]]
 *** shadowdance hall 2
 37 mobs, korean website is wrong about mob count on this one.
@@ -252,7 +296,14 @@ full clear: 16.66k
 - [[https://www.youtube.com/watch?v=SdSpLp2F5zg][ark - 15.3k]]
 - [[https://www.youtube.com/watch?v=gWp9XExWK6A][cadena - full clear]]
 - [[https://www.youtube.com/watch?v=fc8Uc9F5cDQ][hoyoung - 15.4k]]
+#+begin_html
+  </details>
+#+end_html
 ** esfera
+#+begin_html
+  <details>
+    <summary>(click to expand)</summary>
+#+end_html
 [[https://seollal.tistory.com/1080?category=845748][mob counts (korean)]]
 *** radiant temple 3
 39 mobs. used to be the meta farming map. not anymore since we have sellas which is much easier to rotate
@@ -270,7 +321,14 @@ full clear: 18.57k
 full clear: 18.09k
 - [[https://www.youtube.com/watch?v=YH2gxOPYra8][corsair - 16.5k]]
 - [[https://www.youtube.com/watch?v=fIf83YWxXvc][hoyoung - 17k]]
+#+begin_html
+  </details>
+#+end_html
 ** sellas
+#+begin_html
+  <details>
+    <summary>(click to expand)</summary>
+#+end_html
 [[https://seollal.tistory.com/162][mob counts (korean)]]
 *** the final edge of light 6
 38 mobs
@@ -324,7 +382,14 @@ full clear: 17.61k
 - [[https://www.youtube.com/watch?v=fTgxmoSWE-4][phantom - 16k]] 1s cooldown reduction?
 - [[https://www.youtube.com/watch?v=j5NRYBdFyYI][shadower - 17.5k]]
 - [[https://www.youtube.com/watch?v=pFSXIflxNg0][wind archer - 16.68k]]
+#+begin_html
+  </details>
+#+end_html
 ** moonbridge
+#+begin_html
+  <details>
+    <summary>(click to expand)</summary>
+#+end_html
 [[https://seollal.tistory.com/1095?category=845748][mob counts (korean)]]
 *** last horizon 6
 38 mobs
@@ -355,7 +420,14 @@ full clear: 17.61k
 
 full clear: 16.66k
 - [[https://www.youtube.com/watch?v=kKsUkDbOZGY][ice/lightning - 16.44k]]
+#+begin_html
+  </details>
+#+end_html
 ** labyrinth of suffering
+#+begin_html
+  <details>
+    <summary>(click to expand)</summary>
+#+end_html
 [[https://seollal.tistory.com/1096?category=845748][mob counts (korean)]]
 *** labyrinth of suffering core 6
 35 mobs
@@ -388,7 +460,14 @@ full clear: 15.2k?
 
 full clear: 16.19k
 - [[https://www.youtube.com/watch?v=fJ0RHpwkJQE][kinesis - 15.4k]]
+#+begin_html
+  </details>
+#+end_html
 ** limina
+#+begin_html
+  <details>
+    <summary>(click to expand)</summary>
+#+end_html
 [[https://seollal.tistory.com/1097?category=845748][mob counts (korean)]]
 *** end of the world 1-7
 34 mobs, website is wrong. high arcane force, high exp per mob
@@ -446,7 +525,20 @@ full clear: 16.19k
 
 full clear: 16.19k
 - [[https://www.youtube.com/watch?v=7T6SGTIJKmw][zero - 14.2k]]
+#+begin_html
+    </details>
+  </details>
+#+end_html
+* grandis
+#+begin_html
+  <details>
+    <summary>(click to expand)</summary>
+#+end_html
 ** cernium
+#+begin_html
+  <details>
+    <summary>(click to expand)</summary>
+#+end_html
 [[https://seollal.tistory.com/1111?category=845748][mob counts (korean)]]
 *** cernium western city ramparts 3
 38 mobs
@@ -520,8 +612,15 @@ full clear: 18.09k
 
 full clear: 18.09k
 - [[https://www.youtube.com/watch?v=47cnS1fz7vo][thunder breaker - 15.7k]]
-* grandis
+#+begin_html
+  </details>
+#+end_html
 ** burning cernium
+#+begin_html
+  <details>
+    <summary>(click to expand)</summary>
+#+end_html
+
 [[https://seollal.tistory.com/943?category=845748][mob counts (korean)]]
 
 aliases: burnium
@@ -569,7 +668,15 @@ full clear: 17.61k
 - [[https://www.youtube.com/watch?v=zsYMRWsBpBM][kinesis - 16.5k]]
 - [[https://www.youtube.com/watch?v=b99sldzxBv4][luminous - 17.5k]] post-ignition with the better reflection
 - [[https://www.youtube.com/watch?v=MJrfJvlqITA][shadower - 16.3k]]  no damage on meso explosion, 4shot dark flare
+#+begin_html
+  </details>
+#+end_html
 ** hotel arcus
+#+begin_html
+  <details>
+    <summary>(click to expand)</summary>
+#+end_html
+
 [[https://seollal.tistory.com/549?category=845748][mob counts (korean)]]
 *** outlaw-infested wastes 4
 38 mobs
@@ -655,7 +762,15 @@ full clear: 15.7k
 - [[https://www.youtube.com/watch?v=oNn_lzhUsTk][cannon master - 15.47k]]
 - [[https://www.youtube.com/watch?v=YywKEeoLxns][dual blade - 15.39k]] 4s hat
 - [[https://www.youtube.com/watch?v=n6nGxfbsRJc][hoyoung - 15.5k]]
+#+begin_html
+  </details>
+#+end_html
 ** odium
+#+begin_html
+  <details>
+    <summary>(click to expand)</summary>
+#+end_html
+
 [[https://seollal.tistory.com/726?category=845748][mob counts (korean)]]
 
 NOTE: map names are google/papago translated until we get official names
@@ -910,3 +1025,13 @@ KR: 잠긴 문 뒤 실험실 1
 low mob count alternative if nothing else works
 
 - [[https://www.youtube.com/watch?v=mXdzaKvRuUQ][dark knight - 15k]] 4s hat
+
+#+begin_html
+  </details>
+#+end_html
+** shangri-la
+TODO
+
+#+begin_html
+  </details>
+#+end_html
