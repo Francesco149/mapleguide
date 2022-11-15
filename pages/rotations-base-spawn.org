@@ -1,0 +1,912 @@
+farming rotation examples at base spawn.
+
+note that a lot of these are close to optimal: 1shotting, vac pet, etc. these maps are still good even with sub-optimal mobbing, as long as you take time to experiment and adjust the rotation. also ignore the exp, as multipliers are inconsistent and some of these videos are overleveled and just showing off the rotation. tl;dr you should usually /strive/ for these rates, not necessarily match them. if you have better rotations, feel free to pull request or open an issue and link them.
+
+also keep in mind that short BA's like 6 minutes can be inflated easily. so the kill rate will usually be slightly worse over 1+h, and some BA's show a kill rate that seems slightly higher than the max theoretical.
+
+when the mob capacity is higher than the spawn count, the first wave of the BA will have extra mobs. the last spawn cycle in a 6min BA night not exactly align with the 6min mark which also contributes to inflating the numbers. if someone is full clearing, you can safely assume they are getting the max theoretical kill rate ~3600/7.56 * mobCount~.
+
+the mob counts are the mobs per cycle when full clearing, based on watching videos of rotations
+* arcane river
+** vanishing journey
+[[https://seollal.tistory.com/1082][mob counts (korean)]]
+*** hidden lakeshore
+35 mobs. this is a high arcane force map so not necessarily realistic for a brand new player to 1-shot. it's pretty much the only decent map in VJ. also note that the exp per mob is higher than other maps
+
+full clear: 16.66k
+- [[https://youtu.be/WeEOAGV3Pms?t=226][adele - 14.5+k]]
+- [[https://www.youtube.com/watch?v=f1ZfWT9WUhQ][buccaneer - 15.29k]]
+- [[https://www.youtube.com/watch?v=LHSf9vu3FYU][corsair - 15.8k]]
+- [[https://www.youtube.com/watch?v=IFZnKeb5sJw][dawn warrior - 14.2k]]
+- [[https://www.youtube.com/watch?v=7b4hPkf-TPM][hoyoung - 15.7k]]
+- [[https://www.youtube.com/watch?v=TpaDFJqOhv4][illium - 15k]]
+- [[https://www.youtube.com/watch?v=HwBscCktvwI][kain - 13.8k]]
+- [[https://www.youtube.com/watch?v=Q4fXHIwkUTE][lara - 14.9k]]
+- [[https://www.youtube.com/watch?v=O1YF1Xdjb4Q][marksman - 14.8k]]
+- [[https://www.youtube.com/watch?v=QLEcjpSleW4][mercedes - 11.8k]]
+- [[https://www.youtube.com/watch?v=nun0i3zPvJY][phantom - 15k]] - appears to have a 5s cooldown hat so don't expect to use your cooldowns that often
+- [[https://youtu.be/YVQBnuQonvE?t=48][shadower (pre-destiny) - full clear]]
+- [[https://www.youtube.com/watch?v=v6FHW1acnWE][thunder breaker - 12k]]
+*** hidden cave
+29 mobs. high arcane force, high exp per mob map
+
+full clear: 13.8k
+- [[https://youtu.be/WeEOAGV3Pms?t=175][adele - 12k]]
+- [[https://www.youtube.com/watch?v=Vh8dW-kMILM][dawn warrior - 13.19k]]
+- [[https://www.youtube.com/watch?v=QNa2jHIJ99g][night lord - full clear]] - 1shot assassin mark
+- [[https://www.youtube.com/watch?v=IKtswRNr4Xs][night walker - 13.25k]]
+*** below the cave
+13 mobs, but each mob spawns a lantern. based on the top kill rates people are getting the effective number of mobs per cycle seems to be 25-26
+
+full clear: 12.6k?
+- [[https://youtu.be/WeEOAGV3Pms?t=87][adele - full clear]]
+- [[https://www.youtube.com/watch?v=L0rtSM2ToKk][blaster - full clear]]
+- [[https://www.youtube.com/watch?v=XE7a6NlpB7c][thunder breaker - 12k]]
+*** above the cave
+same mob count situation as below the cave
+
+full clear: 12.6k?
+- [[https://www.youtube.com/watch?v=hDdp7Qm30dg][mercedes - 11.6k]]
+*** eastern cave path 2
+same mob count situation as below the cave
+
+full clear: 12.6k?
+- [[https://youtu.be/TSyX2VC4JKE?t=174][lara - full clear]]
+*** western cave path 2
+same mob count situation as below the cave
+
+full clear: 12.6k?
+- [[https://youtu.be/WeEOAGV3Pms?t=113][adele - 12k]]
+** chu chu island
+[[https://seollal.tistory.com/1090][mob counts (korean)]]
+*** mottled forest 2
+33 mobs. my favorite map to grind to 220. based on the dawn warrior video, the mob capacity appears to be 40
+
+full clear: 15.7k
+- [[https://www.youtube.com/watch?v=sktfcL5R-Ok][adele - full clear]]
+- [[https://www.youtube.com/watch?v=VODxDcBsL3M][blaze wizard - 15.5k]] alternative rotation, pre-ignition but should apply to post-ignition too
+- [[https://www.youtube.com/watch?v=43m-WgBE7eA][blaze wizard - 15k]]
+- [[https://www.youtube.com/watch?v=0_ZZ2lcJZSs][corsair - 15.5k]]
+- [[https://www.youtube.com/watch?v=_0pfV1fl9Jg][dawn warrior - full clear]]
+- [[https://www.youtube.com/watch?v=BmAp4Wk-msw][hoyoung - full clear]]
+- [[https://www.youtube.com/watch?v=km65vR9S19c][mechanic - 14.7k]] (no vac pet)
+- [[https://www.youtube.com/watch?v=_R6LIGnLnZA][mercedes - 14.6k]]
+- [[https://www.youtube.com/watch?v=hdufINpMm_s][mercedes]] alternative to the above rotation, similar kill rate. I prefer this version
+- [[https://www.youtube.com/watch?v=YBaZbY7TNCo][shadower - full clear]]
+*** within five-color hill
+30 mobs
+
+full clear: 14.28k
+- [[https://www.youtube.com/watch?v=EoPAQUFtyUA][corsair - 14k]]
+- [[https://youtu.be/TSyX2VC4JKE?t=453][lara - 13.3k]]
+*** torrent zone 3
+28 mobs. not great kill rate but higher exp per mobs than other maps. good alternative if you don't care about meso/nodes or everything else is full. also pretty lazy if you use the water
+
+full clear: 13.3k
+- [[https://www.youtube.com/watch?v=q71FF5DpSq4][ark - 12.46k]]
+- [[https://www.youtube.com/watch?v=E7XJ_JSXb48][dawn warrior - 13k]]
+*** torrent zone 1
+28 mobs. similar to torrent zone 3 but smaller hitboxes
+
+full clear: 13.3k
+- [[https://www.youtube.com/watch?v=qAKN8KDVloI][hoyoung - 12.8k]]
+- [[https://www.youtube.com/watch?v=dgizlXlswZU][kain - 12k]]
+- [[https://www.youtube.com/watch?v=PY9wLfoBeL8][mercedes - 12.2k]]
+*** mottled forest 3
+26 mobs
+
+full clear: 12.38k
+- [[https://www.youtube.com/watch?v=PEZC7g-3czc][adele - 11.1k]]
+- [[https://youtu.be/TSyX2VC4JKE?t=590][lara - 11.3k]]
+** yum yum island
+[[https://seollal.tistory.com/1093][mob counts (korean)]]
+*** hidden mushbud forest
+24 mobs, high arcane force map. capacity appears to be 31
+
+full clear: 11.4k
+- [[https://www.youtube.com/watch?v=9zAHgql1KZ4][dawn warrior - full clear]] 
+- [[https://youtu.be/TSyX2VC4JKE?t=870][lara - 11.3k]]
+*** hidden illiard field
+24 mobs, high arcane force map.
+
+full clear: 11.4k
+- [[https://youtu.be/TSyX2VC4JKE?t=1014][lara 11.2k]]
+** lachelein
+[[https://seollal.tistory.com/1091][mob counts (korean)]]
+*** chickens festival 3
+38 mobs, best map by far if you can clear enough mobs per cycle.
+aliases: 닭뛰3
+
+full clear: 18.09k
+- [[https://www.youtube.com/watch?v=mVB9gTThDLs][corsair - full clear]]
+- [[https://www.youtube.com/watch?v=D4kiGOiGNCU][dark knight - 14k]]
+- [[https://www.youtube.com/watch?v=ia_YPKbV0TI][dawn warrior - 15.6k]]
+- [[https://www.youtube.com/watch?v=blunbaDc6W0][hoyoung - 17.5k]]
+- [[https://www.youtube.com/watch?v=z4zwlhUFs1Q][kaiser - 16.36k]]
+- [[https://www.youtube.com/watch?v=Gnl2lbfpE3k][lara - full clear]]
+- [[https://www.youtube.com/watch?v=_8drrqEgAoE][luminous - 17.5k]]
+- [[https://www.youtube.com/watch?v=0Ua8NqTasNk][marksman - 16k]]
+- [[https://www.youtube.com/watch?v=Zq4Ak4sabEw][marksman - 17.43k]]
+- [[https://www.youtube.com/watch?v=Q3xbQE2qaYk][mechanic - 17k]]
+- [[https://www.youtube.com/watch?v=biXzfE3Z4-c][night lord - full clear]]
+- [[https://www.youtube.com/watch?v=fEotsFHeqGY][shade - 17.46k]]
+- [[https://www.twitch.tv/videos/1558360414][shadower - full clear (1 hour, GMS)]]
+- [[https://www.youtube.com/watch?v=UgichB-Am7s][thunder breaker - 15.4k]]
+*** occupied dance floor 2
+30 mobs (post ignition version with better layout)
+
+full clear: 14.28k
+- [[https://youtu.be/TSyX2VC4JKE?t=1149][lara - full clear]]
+- [[https://www.youtube.com/watch?v=W7gbTz3dJEY][night lord - full clear]]
+*** victory plate street 1
+30 mobs (post ignition version with better layout)
+
+full clear: 14.28k
+- [[https://www.youtube.com/watch?v=GiHRVweHIXY][lara - full clear]]
+- [[https://www.youtube.com/watch?v=I7RR3uT1GHk][night lord - full clear]]
+*** victory plate street 2
+30 mobs (post ignition version with better layout)
+
+full clear: 14.28k
+- [[https://youtu.be/TSyX2VC4JKE?t=1405][lara - 14k]]
+- [[https://www.youtube.com/watch?v=FI_4ymJ_mks][night lord - full clear]]
+*** revelation place 1
+30 mobs
+
+full clear: 14.28k
+- [[https://www.youtube.com/watch?v=etEPMr4FOeQ][lara - 13.1k]]
+*** outlaw street 2
+29 mobs
+
+full clear: 13.8k
+- [[https://www.youtube.com/watch?v=cz40ud71cC4][ice/lightning - 13.4k]]
+*** occupied dance floor 1
+28 mobs
+
+full clear: 13.3k
+- [[https://www.youtube.com/watch?v=Gdh-Fq61sIc][dawn warrior - full clear]]
+** arcana
+[[https://seollal.tistory.com/1079?category=845748][mob counts (korean)]]
+*** where water and sunlight meet
+33 mobs. there's very few decent maps in arcana, this is one of them. also easy to loot without vac pet. if your rates in chickens 3 are good I would stay there until morass though
+
+aliases: 물햇숲
+
+full clear: 15.71k
+- [[https://www.youtube.com/watch?v=ehbcBtkbnxI][angelic buster - 15.46k]] - 1shot soul seeker
+- [[https://www.youtube.com/watch?v=vEsCt75RAP8][corsair - 15.6k]]
+- [[https://www.youtube.com/watch?v=CgD0Ls8Kxug][dark knight - 15k]]
+- [[https://www.youtube.com/watch?v=YksT7Rf_js0][illium - 14k]]
+- [[https://www.youtube.com/watch?v=PtBv0e3Te40][kinesis - 15.3k]]
+- [[https://www.youtube.com/watch?v=6RltfMKHcAY][paladin - 15k]]
+- [[https://www.youtube.com/watch?v=tM7mCsOv28E][shadower - 15.3k]] GMS, 2shot meso explosion
+*** deep in the cavern - upper path 1
+32 mobs. seems pretty good for no vac pet.
+
+aliases: dcup1, 동윗깊1
+
+full clear: 15.2k
+- [[https://www.youtube.com/watch?v=ZENUdES50EI][angelic buster - 14.98k]]
+- [[https://www.youtube.com/watch?v=2NpJnjSNUWQ][ark - 14.29k]]
+- [[https://www.youtube.com/watch?v=xrz8_T3A6nE][blaze wizard - full clear]] (pre-ignition but should be valid for post-ignition)
+- [[https://www.youtube.com/watch?v=0XSkF79XHhQ][buccaneer - 15.1k]]
+- [[https://www.youtube.com/watch?v=r-HSxK-iMCQ][hero - 15k]]
+- [[https://www.youtube.com/watch?v=SSHQHyFhyYs][mechanic - 14.6k]]
+- [[https://www.youtube.com/watch?v=yuNMV1EwBuc][zero - full clear]]
+** morass
+[[https://seollal.tistory.com/1081?category=845748][mob counts (korean)]]
+*** shadowdance hall 2
+37 mobs, korean website is wrong about mob count on this one.
+personal favorite. works for many classes, heard of people without vac pet still managing 16+k.
+most of the mobs are on the left, so you want to proritize clearing those
+
+aliases: sdh2, 그춤2
+
+full clear: 17.61k
+- [[https://www.youtube.com/watch?v=HwKKkA2xMAc][ark - 17k]]
+- [[https://youtu.be/bfmhwZtNykM?t=9][corsair - 17.5k]]
+- [[https://www.youtube.com/watch?v=VmPjnPtNI2c][dawn warrior - 16.24k (30 mins BA)]]
+- [[https://www.youtube.com/watch?v=NNWGeoTe9a0][dawn warrior - 16.4k]] - alternative rotation
+- [[https://www.youtube.com/watch?v=HMClgl9EO1c][lara - 17.3k]]
+- [[https://www.youtube.com/watch?v=mYCXj-_0qbk][night lord - 16.8k]] - 2shot mark
+- [[https://www.youtube.com/watch?v=xXg55xhcBkU][night lord - 17k]] - 2shot mark
+- [[https://www.youtube.com/watch?v=yJf3kfdxCbI][shadower - 17.3k]] GMS, 1 hour BA, 2shot meso explosion
+*** shadowdance hall 3
+37 mobs, good alternative if shadowdance 2 is full
+
+aliases: sdh3, 그춤3
+
+full clear: 17.61k
+- [[https://www.youtube.com/watch?v=cD-x2xv2p-c][adele - 17k]]
+- [[https://youtu.be/2N2oIhzIX1E][corsair - 17k]]
+- [[https://www.youtube.com/watch?v=uzq6uRAvHsc][evan - 16.8k]]
+- [[https://www.youtube.com/watch?v=X4e0ApRXx14][illium - 16k]]
+- [[https://www.youtube.com/watch?v=fgUbuLNJEmM][shadower - 17.5k]]
+- [[https://www.youtube.com/watch?v=4DSRZ_i5V6A][wind archer - 16k]]
+*** abandoned area 2
+37 mobs.
+
+full clear: 17.61k
+- [[https://www.youtube.com/watch?v=kcEkPN6bMfw][buccaneer - full clear]] bucc's movement works great to walk up and down this triangular layout
+- [[https://www.youtube.com/watch?v=Oa_F7JKZ6Lo][night lord - 17.5k]]
+- [[https://www.youtube.com/watch?v=j2KLu0Opn38][shade - 17.12k]]
+- [[https://www.youtube.com/watch?v=f873OOHXUOA][zero - 17.3k]] zero's movement also works great to walk down these platforms
+*** abandoned area 3
+37 mobs.
+
+full clear: 17.61k
+- [[https://www.youtube.com/watch?v=oIqNOit4CYc][adele - 15.5k]]
+- [[https://www.youtube.com/watch?v=s8SaWJKU1ZM][dawn warrior - 16k]]
+- [[https://www.youtube.com/watch?v=UVPJcN74KkI][dual blade - 15.9k]]
+- [[https://www.youtube.com/watch?v=RAokru5beq4][mercedes - 16.46k]]
+- [[https://www.youtube.com/watch?v=x2ZPxgZy9mw][night walker - 16k]]
+- [[https://www.youtube.com/watch?v=sp2edJTKzl8][phantom - 17k]] 5s hat and strong arrow blaster. unrealistic for most players
+- [[https://www.youtube.com/watch?v=8XfIA0rNi4k][zero - 16k]]
+*** that day in trueffet 3
+35 mobs. good alternative if other maps are full. also somewhat less effort because of the drop down teleport
+
+aliases: 그튀3, 그트3
+
+full clear: 16.66k
+- [[https://www.youtube.com/watch?v=7lw-xaRU0Bk][aran - 15.3k]]
+- [[https://www.youtube.com/watch?v=SdSpLp2F5zg][ark - 15.3k]]
+- [[https://www.youtube.com/watch?v=gWp9XExWK6A][cadena - full clear]]
+- [[https://www.youtube.com/watch?v=fc8Uc9F5cDQ][hoyoung - 15.4k]]
+** esfera
+[[https://seollal.tistory.com/1080?category=845748][mob counts (korean)]]
+*** radiant temple 3
+39 mobs. used to be the meta farming map. not anymore since we have sellas which is much easier to rotate
+
+aliases: 신전3
+
+full clear: 18.57k
+- [[https://www.youtube.com/watch?v=FoBQOll8ZYk][ark - 15k]]
+- [[https://www.youtube.com/watch?v=7wAk3zKy8no][bishop - 16.6k]]
+- [[https://www.youtube.com/watch?v=QIdBvRF22Zo][bowmaster - 15.6k]]
+- [[https://www.youtube.com/watch?v=Mml7L0lJhkM][shadower (pre-destiny) - full clear]]
+*** living spring 6
+38 mobs.
+
+full clear: 18.09k
+- [[https://www.youtube.com/watch?v=YH2gxOPYra8][corsair - 16.5k]]
+- [[https://www.youtube.com/watch?v=fIf83YWxXvc][hoyoung - 17k]]
+** sellas
+[[https://seollal.tistory.com/162][mob counts (korean)]]
+*** the final edge of light 6
+38 mobs
+
+aliases: 빛마닿6
+
+full clear: 18.09k
+- [[https://www.youtube.com/watch?v=3d528GelQ40][fire/poison - 17.7k]]
+- [[https://www.youtube.com/watch?v=QyA_t9O9Bhk][night lord - 18k]] 2shot mark
+- [[https://www.youtube.com/watch?v=lds4ZHOvn30][shadower - full clear]] 2shot meso explosion
+- [[https://www.youtube.com/watch?v=RFCkrtAJ98w][wind archer - 16.5k]]
+*** plunging depths 3
+38 mobs
+
+aliases: 끝추심3, pd3
+
+full clear: 18.09k
+- [[https://www.youtube.com/watch?v=NzP7WZNWUG0][corsair - 17k]]
+- [[https://www.youtube.com/watch?v=0EOFMqrBTxM][night lord - 17.5k]] 2shot mark
+- [[https://www.youtube.com/watch?v=vQz7YOf3lRc][paladin - 17.4k]]
+- [[https://www.youtube.com/watch?v=ZSOFk3a6778][shade - full clear]]
+*** star-swallowing sea 6
+39 mobs
+
+aliases: SSS6
+
+full clear: 18.57k
+- [[https://www.youtube.com/watch?v=GIWme_avlxc][dawn warrior - full clear]]
+- [[https://www.youtube.com/watch?v=_4WU98mPuRk][dual blade]] 2s hat
+- [[https://www.youtube.com/watch?v=gU9bvoO5Qlw][shadower - full clear]]
+*** star-swallowing sea 3
+38 mobs
+
+full clear: 18.09k
+- [[https://www.youtube.com/watch?v=joK7wRUIj98][hoyoung - 18k]]
+*** the final edge of light 3
+37 mobs
+
+aliases: 빛마닿3
+
+full clear: 17.61k
+- [[https://www.youtube.com/watch?v=txbPQkEMJtw][corsair - 17.5k]]
+- [[https://www.youtube.com/watch?v=8LXAKRrTfnM][night lord - 16.5k]] 2shot mark
+- [[https://www.youtube.com/watch?v=N_babEa9byA][shadower - 17.5k]]
+*** the final edge of light 9
+37 mobs
+
+aliases: 빛마닿9
+
+full clear: 17.61k
+- [[https://www.youtube.com/watch?v=fTgxmoSWE-4][phantom - 16k]] 1s cooldown reduction?
+- [[https://www.youtube.com/watch?v=j5NRYBdFyYI][shadower - 17.5k]]
+- [[https://www.youtube.com/watch?v=pFSXIflxNg0][wind archer - 16.68k]]
+** moonbridge
+[[https://seollal.tistory.com/1095?category=845748][mob counts (korean)]]
+*** last horizon 6
+38 mobs
+
+full clear: 18.09k
+- [[https://www.youtube.com/watch?v=xsJMVHqEbmA][adele - 18k]]
+- [[https://www.youtube.com/watch?v=WyqT71o4qoE][aran - full clear]]
+- [[https://www.youtube.com/watch?v=ngllt2fAVGE][bowmaster - full clear]]
+- [[https://www.youtube.com/watch?v=xGHCJBgyyhg][corsair - full clear]]
+- [[https://www.youtube.com/watch?v=hRP4ALBB5Xk][dual blade - 17.5k]]
+- [[https://www.youtube.com/watch?v=8arziLfhq14][kain - full clear]]
+- [[https://www.youtube.com/watch?v=CxOe0JmjfGk][marksman - full clear]]
+- [[https://www.youtube.com/watch?v=yCiKwf8D0oE][phantom - 16.5k]]
+- [[https://www.youtube.com/watch?v=P3ASqLSdI4k][wind archer - 17.1k]]
+*** mysterious fog 3
+37 mobs
+
+full clear: 17.61k
+- [[https://www.youtube.com/watch?v=7rVC0Ln0eWw][battle mage - 17.5k]]
+- [[https://www.youtube.com/watch?v=5iEaICYHivE][corsair - full clear]]
+- [[https://www.youtube.com/watch?v=Mau-5Ackwa8][corsair, lazy rotation using rapid fire - 15.5k]]
+- [[https://www.youtube.com/watch?v=sDBUgrWsXYg][marksman - 16.5k]]
+- [[https://www.youtube.com/watch?v=FgO_h6-pAIs][mercedes - 17.49k]]
+- [[https://www.youtube.com/watch?v=77k7s2TEzxI][pathfinder - 16.5k]]
+- [[https://www.youtube.com/watch?v=6ye9Dr1V_Ug][thunder breaker - 16.7k]]
+*** mysterious fog 5
+35 mobs
+
+full clear: 16.66k
+- [[https://www.youtube.com/watch?v=kKsUkDbOZGY][ice/lightning - 16.44k]]
+** labyrinth of suffering
+[[https://seollal.tistory.com/1096?category=845748][mob counts (korean)]]
+*** labyrinth of suffering core 6
+35 mobs
+
+full clear: 16.66k
+- [[https://www.youtube.com/watch?v=_4s7tQRcHDA][adele - full clear]]
+- [[https://www.youtube.com/watch?v=-gZsR_olDrE][aran - 16k]]
+- [[https://www.youtube.com/watch?v=D40948wTLkc][bowmaster - full clear]]
+- [[https://www.youtube.com/watch?v=4BjDemwY24c][corsair - full clear]]
+- [[https://www.youtube.com/watch?v=3T7b7_NRwO8][dawn warrior - 16k]]
+- [[https://www.youtube.com/watch?v=eMWyT1VOnV8][phantom - 16.4k]]
+- [[https://www.youtube.com/watch?v=pBDBt-OtPHI][shadower - full clear]]
+*** labyrinth of suffering core 4
+37 mobs. website is wrong, checked shadower video
+
+full clear: 17.61k
+- [[https://www.youtube.com/watch?v=Ew6uQX66PH8][bowmaster - 16.6k]]
+- [[https://www.youtube.com/watch?v=TGtFZyEPhbU][shadower - full clear]]
+- [[https://www.youtube.com/watch?v=XtnZivje6AQ][wind archer - 17.55k]]
+*** labyrinth of suffering core 5
+the korean site says 29 mobs but based on videos I believe this to be at least 32 mobs
+
+full clear: 15.2k?
+- [[https://www.youtube.com/watch?v=bpDoLDGjhig][blaster - full clear]]
+- [[https://www.youtube.com/watch?v=r9XvggGDCGk][corsair - 15k]] - lazy rotation
+- [[https://www.youtube.com/watch?v=HmA6H5HBFuc][dual blade - full clear]] pre-destiny
+- [[https://www.youtube.com/watch?v=55Y3EiQJCXw][zero - full clear]]
+*** labyrinth of suffering core 1
+34 mobs
+
+full clear: 16.19k
+- [[https://www.youtube.com/watch?v=fJ0RHpwkJQE][kinesis - 15.4k]]
+** limina
+[[https://seollal.tistory.com/1097?category=845748][mob counts (korean)]]
+*** end of the world 1-7
+34 mobs, website is wrong. high arcane force, high exp per mob
+
+full clear: 16.19k
+- [[https://www.youtube.com/watch?v=S5eS4Rrv-XE][adele - 15k]]
+- [[https://www.youtube.com/watch?v=SNPO_yQgb2M][ark - 15.99k]]
+- [[https://www.youtube.com/watch?v=F5H6sCVjlXo][dawn warrior - 15.5k]]
+- [[https://www.youtube.com/watch?v=rnHhjYDiKF0][kaiser - 15.3k]]
+- [[https://www.youtube.com/watch?v=RJXxzBnk5eE][night lord - full clear]]
+- [[https://www.youtube.com/watch?v=q-kLEEld5fs][paladin - full clear]]
+- [[https://www.youtube.com/watch?v=zpUzb0xgao4][phantom - 15k]]
+*** end of the world 1-6
+34 mobs
+
+full clear: 16.19k
+- [[https://www.youtube.com/watch?v=rbzxODB-iQo][ark - 16k]]
+- [[https://www.youtube.com/watch?v=PtjGTeXi0RY][buccaneer - 16k]]
+- [[https://www.youtube.com/watch?v=6WupD0wMGeM][pathfinder - 16.41k]]
+*** end of the world 2-5
+32 mobs, really easy to loot without a vac pet, really lazy full clear
+
+full clear: 15.23k
+- [[https://www.youtube.com/watch?v=hzZOWoplNKQ][adele - full clear]]
+- [[https://www.youtube.com/watch?v=zKNjxGBXDC8][bishop - 15k]]
+- [[https://www.youtube.com/watch?v=mn8VJNQSqug][thunder breaker - full clear]]
+*** end of the world 2-4
+32 mobs
+
+full clear: 15.23k
+- [[https://www.youtube.com/watch?v=GSK2jEYv-UM][ice/lightning - full clear]]
+*** end of the world 2-6
+31 mobs, high arcane force, high exp per mob. better if you care about exp over meso/nodes
+
+full clear: 14.7k
+- [[https://www.youtube.com/watch?v=YH8gg0a9gV0][phantom - 14k]]
+*** world sorrow's midpoint 1
+35 mobs
+
+full clear: 16.66k
+- [[https://www.youtube.com/watch?v=j3-728gVGMM][evan - 16.1k]] lazy rotation
+- [[https://www.youtube.com/watch?v=GkqiA2euzd0][fire/poison - 14.99k]] lazy rotation
+*** world sorrow's midpoint 2
+34 mobs
+
+full clear: 16.19k
+- [[https://www.youtube.com/watch?v=gvqsr66ZR-I][shadower - 15.7k]] lazy rotation
+*** world sorrow's midpoint 3
+34 mobs
+
+full clear: 16.19k
+- [[https://www.youtube.com/watch?v=SLMoao4I6Co][bishop - 16k]]
+*** world sorrow's midpoint 4
+34 mobs
+
+full clear: 16.19k
+- [[https://www.youtube.com/watch?v=7T6SGTIJKmw][zero - 14.2k]]
+** cernium
+[[https://seollal.tistory.com/1111?category=845748][mob counts (korean)]]
+*** cernium western city ramparts 3
+38 mobs
+
+full clear: 18.09k
+- [[https://www.youtube.com/watch?v=DEiJzuXY_Tg][bishop - 17k]]
+- [[https://www.youtube.com/watch?v=wMW7WJUmg0A][hoyoung - 16.7k]]
+- [[https://www.youtube.com/watch?v=i0t2p1pXqWw][illium - 17.7k]]
+- [[https://www.youtube.com/watch?v=LviiDDmSSN0][kaiser - 15.65k]]
+- [[https://www.youtube.com/watch?v=dl2Df-ctoDM][kinesis - 17.1k]]
+- [[https://www.youtube.com/watch?v=Jg2p8EdCefA][marksman - 16.9k]]
+*** cernium eastern city ramparts 3
+37 mobs. high potential but weird layout
+
+full clear: 17.61k
+- [[https://www.youtube.com/watch?v=Y_3PLwgg04g][adele - 15.6k]] slightly inflated because they stop BA late
+- [[https://www.youtube.com/watch?v=BZq9E_YpbHo][hero - 17k]]
+- [[https://www.youtube.com/watch?v=mP_b2HVASLU][night walker - 16.1k]] bats 3shotting
+- [[https://www.youtube.com/watch?v=9-qsT8OQNGc][phantom - 16.5k]]
+- [[https://www.youtube.com/watch?v=7QyKgEEHsN8][shadower - full clear]] 2shot meso explosion I think
+*** cernium easter city ramparts 2
+33 mobs. not amazing mob count but easy layout that works for most classes
+
+full clear: 15.7k
+- [[https://www.youtube.com/watch?v=3KgnVgxOwnQ][bishop - 15.3k]]
+- [[https://www.youtube.com/watch?v=v8AzkhWGlcY][dark knight - 15.2k]] 2s hat
+- [[https://clips.twitch.tv/ExuberantAnnoyingQueleaAMPEnergyCherry-aHvID4DnBDJWqeIZ][dark knight]] - 2s hat, pre-destiny, GMS, alternative rotation. also applies to post-destiny
+- [[https://www.youtube.com/watch?v=CnI1eGchF7s][night lord - 15.29k]] mark damage basically useless
+- [[https://www.youtube.com/watch?v=g2J3UMSi7AA][shadower - 15.3k]] low damage, dark flare not 1shotting, meso explosion basically useless
+- [[https://www.youtube.com/watch?v=vTy_6pnH2n0][shadower - 15.5k]] reboot, even lower damage than the above
+- [[https://www.youtube.com/watch?v=RlkmxDytv9Q][wind archer - 15.5k]]
+*** royal library section 3
+37 mobs
+
+full clear: 17.61k
+- [[https://www.youtube.com/watch?v=X9m2fAHOupM][mechanic - 15.4k]]
+*** royal library section 1
+33 mobs
+
+full clear: 15.7k
+- [[https://www.youtube.com/watch?v=7frw3gpcuMk][adele - 15.5k]]
+- [[https://www.youtube.com/watch?v=hFoU-Pfy8cs][hero - 15.58k]]
+*** royal library section 4
+33 mobs
+
+full clear: 15.7k
+- [[https://www.youtube.com/watch?v=UUkF98ZXYkc][battle mage - 15.5k]]
+- [[https://www.youtube.com/watch?v=K_fidakmGTY][night lord - full clear]] - dark flare 3shotting
+*** royal library section 6
+37 mobs
+
+full clear: 17.61k
+- [[https://www.youtube.com/watch?v=n37kbZlFtA0][kaiser - 16.22k]]
+- [[https://www.youtube.com/watch?v=qS4WeTbrOG0][night lord - 16k]] mark doing basically no damage
+*** rocky overlook 2
+33 mobs
+
+full clear: 15.7k
+- [[https://www.youtube.com/watch?v=5d3xigCfF14][ark - 15.2k]]
+- [[https://www.youtube.com/watch?v=o3l6__8_DsY][demon slayer - 15.5k]]
+- [[https://www.youtube.com/watch?v=Kg9RkqzkWBI][evan - 15k]]
+*** rocky overlook 3
+38 mobs
+
+full clear: 18.09k
+- [[https://www.youtube.com/watch?v=UuWejicZV2w][blaster - 15.9k]]
+- [[https://www.youtube.com/watch?v=lwf-x-xOj6w][lara - 16k]]
+- [[https://www.youtube.com/watch?v=qlrEnxREBqo][shade - 17.6k]]
+*** rocky overlook 4
+38 mobs
+
+full clear: 18.09k
+- [[https://www.youtube.com/watch?v=47cnS1fz7vo][thunder breaker - 15.7k]]
+* grandis
+** burning cernium
+[[https://seollal.tistory.com/943?category=845748][mob counts (korean)]]
+
+aliases: burnium
+*** burning royal library section 6
+38 mobs
+
+full clear: 18.09k
+- [[https://www.youtube.com/watch?v=CexMwZi1HM8][dual blade - 16.27k]] 4s hat, pre-destiny
+- [[https://www.youtube.com/watch?v=U3hByCBvPmc][hoyoung - 16k]]
+- [[https://www.youtube.com/watch?v=KNF7St-ylEo][kaiser - 15.8k]]
+- [[https://www.youtube.com/watch?v=aBbgLj5QKD4][phantom - 17.9k]] 3s hat
+*** burning royal library section 3
+38 mobs
+
+full clear: 18.09k
+- [[https://www.youtube.com/watch?v=NlPHYeaCOl4][adele - 16.78k]]
+- [[https://www.youtube.com/watch?v=OY5F-ixNMAo][blaster - 18k]]
+- [[https://www.youtube.com/watch?v=0ERM6o6Wn6g][buccaneer - 16.59k]] 1shot lord of the deep, pre-destiny
+- [[https://www.youtube.com/watch?v=Zt1S8jDHYek][phantom - 15.5k]] 5s hat
+- [[https://www.youtube.com/watch?v=3Tk7I9rSoN0][shadower - 16k]] meso explosion doing no damage
+*** western city ramparts in battle 3
+38 mobs
+
+full clear: 18.09k
+- [[https://www.youtube.com/watch?v=92k0mu7ML84][ark - 16.6k]]
+- [[https://www.youtube.com/watch?v=EZCqxHcGM7s][demon slayer - 15.7k]]
+- [[https://www.youtube.com/watch?v=4I--NWbZUcs][kaiser - 16.4k]]
+- [[https://www.youtube.com/watch?v=bkx1bCr-9os][kinesis - 16.8k]]
+- [[https://www.youtube.com/watch?v=EnJD3Dnv1Jg][marksman - 16.5k]]
+- [[https://www.youtube.com/watch?v=_UkfNUT47nc][wind archer - 17k]] pre-ignition but should apply to post-ignition
+*** eastern city ramparts in battle 3
+37 mobs
+
+full clear: 17.61k
+- [[https://www.youtube.com/watch?v=Xr7pnBU3IZw][shadower - 17.36k]] dark flare looks like it's 3-4 shotting. meso explosion damage probably worthless
+*** eastern city ramparts in battle 6
+37 mobs
+
+full clear: 17.61k
+- [[https://www.youtube.com/watch?v=Wb8kwXn3rqI][kinesis - 16.5k]]
+*** western city ramparts in battle 4
+37 mobs
+
+full clear: 17.61k
+- [[https://www.youtube.com/watch?v=zsYMRWsBpBM][kinesis - 16.5k]]
+- [[https://www.youtube.com/watch?v=b99sldzxBv4][luminous - 17.5k]] post-ignition with the better reflection
+- [[https://www.youtube.com/watch?v=MJrfJvlqITA][shadower - 16.3k]]  no damage on meso explosion, 4shot dark flare
+** hotel arcus
+[[https://seollal.tistory.com/549?category=845748][mob counts (korean)]]
+*** outlaw-infested wastes 4
+38 mobs
+
+full clear: 18.09k
+- [[https://www.youtube.com/watch?v=5ygBWIbuP9w][ark - 16.5k]]
+- [[https://www.youtube.com/watch?v=he82m19WSew][bishop - 17.8k]]
+- [[https://www.youtube.com/watch?v=6Y7CBFfWCXw][ice/lightning - 17.22k]]
+- [[https://www.youtube.com/watch?v=t0ZxVtAeX3g][kain - 17.5k]]
+- [[https://www.youtube.com/watch?v=y8nIJJvwtZI][kaiser - 15.6k]] - low damage, some skills not 1shotting
+- [[https://www.youtube.com/watch?v=LZY5eu4lg_c][lumi - 17.69k]] post-ignition (better reflection)
+- [[https://www.youtube.com/watch?v=mU9qf2uNIrg][marksman - 17.8k]]
+- [[https://www.youtube.com/watch?v=sIwniE4fHds][mechanic - 17k]]
+- [[https://www.youtube.com/watch?v=iBS3d08dWYQ][mercedes - 16.5k]]
+- [[https://www.youtube.com/watch?v=lF0-k-TQUu8][night walker - 16.37k]] 2shot bats
+- [[https://www.youtube.com/watch?v=4O8XjXkJ3Ak][shadower - full clear]]
+- [[https://www.youtube.com/watch?v=DPaEKIHBWIM][thunder breaker - 17k]]
+*** outlaw-infested wastes 3
+37 mobs
+
+full clear: 17.61k
+- [[https://www.youtube.com/watch?v=43d88Mcn9Qk][corsair - 17k]] 3shot ships
+- [[https://www.twitch.tv/videos/1642322728][dark knight - 16.7k]] GMS, 1 hour BA
+- [[https://www.youtube.com/watch?v=GTUbyY1_O8U][dark knight - 17.3k]] 6min perfect execution of the above rotation
+- [[https://www.youtube.com/watch?v=BjpifPVPL5s][fire/poison - 16.64k]]
+- [[https://www.youtube.com/watch?v=x-CZgT5twrY][fire/poison - 17.1k]]
+- [[https://www.youtube.com/watch?v=yYgQa9j7l6I][shadower - 16.5k]] reboot, very low damage: dark flare 5-6 shots
+*** nostalgic drive-in theater 6
+38 mobs
+
+full clear: 18.09k
+- [[https://www.youtube.com/watch?v=-EKVKkbYclM][adele - 15.5k]] swords 3-4 shotting
+- [[https://www.youtube.com/watch?v=wYWqytU5Qwk][blaster - 16.4k]] 30min BA
+- [[https://www.youtube.com/watch?v=tzMOlg5uMzo][blaster - 17.2k]]
+- [[https://www.youtube.com/watch?v=kj9EmK7m2QM][kain - 17.3k]]
+- [[https://www.youtube.com/watch?v=xQXyxp6Zi6M][mechanic - full clear]] 2shot turrets, lazy rotation
+- [[https://www.youtube.com/watch?v=cVZYGvfl_Vs][mercedes - 15.5k]]
+- [[https://www.youtube.com/watch?v=cVZYGvfl_Vs][mercedes - 15.5k]]
+- [[https://www.youtube.com/watch?v=t74HhUejcjg][mercedes - 16.5k]] only 1min BA so could be inaccurate
+- [[https://www.youtube.com/watch?v=Mp_VZbfBOEs][thunder breaker - 17.6k]]
+*** nostalgic drive-in theater 3
+37 mobs
+
+full clear: 17.61k
+- [[https://www.youtube.com/watch?v=BZ0bfyM9lxg][lara - 17.25k]]
+*** train with no destination 1
+33 mobs
+
+aliases: 열차1
+
+full clear: 15.7k
+- [[https://www.youtube.com/watch?v=GmhaRmzAkCU][bishop - full clear]]
+- [[https://www.youtube.com/watch?v=GMjf5tKs9k0][fire/poison - full clear]] lazy rotation
+- [[https://www.youtube.com/watch?v=WMDkKUroZOw][night lord - 15k]] very low damage - dark flare is basically useless, same for mark
+- [[https://www.youtube.com/watch?v=LEG0LeMNLig][zero - full clear]]
+*** train with no destination 3
+35 mobs
+
+aliases: 열차3
+
+full clear: 16.66k
+- [[https://www.youtube.com/watch?v=xfSNSyhzC40][ark - 15.7k]]
+- [[https://www.youtube.com/watch?v=A7kzU5WOj9U][bishop - 16.5k]]
+- [[https://www.youtube.com/watch?v=3olhCEUyUN8][dark knight - 15.4k]] 5s hat
+- [[https://www.youtube.com/watch?v=lj0-_FeSvww][hoyoung - 15.5k]]
+- [[https://www.youtube.com/watch?v=8Xmy15q-Ul0][luminous - 16.3k]]
+- [[https://www.youtube.com/watch?v=sH7LIL0okJo][phantom - 15.2k]] 5s hat
+- [[https://www.youtube.com/watch?v=EbxuK_qYOoc][phantom - 15k]] 5s hat
+*** train with no destination 4
+33 mobs
+
+aliases: 열차4
+
+full clear: 15.7k
+- [[https://www.youtube.com/watch?v=YBUPgB4gbMA][cadena - 15.5k]]
+- [[https://www.youtube.com/watch?v=lE_LG8hpFRg][dark knight - 15.53k]]
+- [[https://www.youtube.com/watch?v=1raAMxK4R5E][wild hunter - full clear]]
+*** nostalgic drive-in theater 1
+33 mobs
+
+full clear: 15.7k
+- [[https://www.youtube.com/watch?v=Yt4B6UnJDTg][bishop - 15.3k]]
+- [[https://www.youtube.com/watch?v=oNn_lzhUsTk][cannon master - 15.47k]]
+- [[https://www.youtube.com/watch?v=YywKEeoLxns][dual blade - 15.39k]] 4s hat
+- [[https://www.youtube.com/watch?v=n6nGxfbsRJc][hoyoung - 15.5k]]
+** odium
+[[https://seollal.tistory.com/726?category=845748][mob counts (korean)]]
+
+NOTE: map names are google/papago translated until we get official names
+
+*** The Way to the Gate 4
+KR: 성문으로 가는 길 4
+
+aliases: 성문4
+
+39 mobs, full clear: 18.57k
+
+feels like a higher mob count version of shadowdance hall 2 in terms of layout.
+
+teleporters go in a triangular shape: top left, bottom right, trop right
+
+- [[https://www.youtube.com/watch?v=ar14P1Wdg_8][adele - 17.42k]] flying swords appear to 3shot
+- [[https://www.youtube.com/watch?v=O4fVsXW-AhI][adele - 17.96k]]
+- [[https://www.youtube.com/watch?v=_DY4OgxLj4U][angelic buster - 17.8k]] not relying on soul seeker
+- [[https://www.youtube.com/watch?v=D2q5jTqIuEo][angelic buster - 17.93k]] not relying on soul seeker
+- [[https://www.youtube.com/watch?v=4NoSlk9-z34][angelic buster - 18.3k]] 4s hat, not relying on soul seeker
+- [[https://www.youtube.com/watch?v=8Cbk9BGo8qY][aran - 18.12k]]
+- [[https://www.youtube.com/watch?v=-dLGzqowrso][ark - 18k]]
+- [[https://www.youtube.com/watch?v=ybgr4TdpdkM][battle mage - 16.45k]]
+- [[https://www.youtube.com/watch?v=Dnh-FS_lh8U][bishop - 17.5k]]
+- [[https://www.youtube.com/watch?v=cwVm0ncyTTQ][blaster - 18k]]
+- [[https://www.youtube.com/watch?v=0yNl5weuO5Q][blaze wizard - 18.55k]]
+- [[https://www.youtube.com/watch?v=57Y7L3539yQ][bowmaster - 18.2k]]
+- [[https://www.youtube.com/watch?v=FwOjnKgF-dQ][buccaneer - 16.9k]] very low damage
+- [[https://www.youtube.com/watch?v=5FEpt0Q-oLE][cadena - 17.93k]]
+- [[https://www.youtube.com/watch?v=kgS2Ffuhnk4][cadena - 17k]]
+- [[https://www.youtube.com/watch?v=3XipfKsvPHw][cannon master - 17.4k]] 2shot erda fountain
+- [[https://www.youtube.com/watch?v=yE5LV4rmLPw][dark knight - 18k]] 4s hat
+- [[https://www.youtube.com/watch?v=PslZfmfWihM][dawn warrior - 17.7k]]
+- [[https://www.youtube.com/watch?v=7ZYqYT4SZZI][dual blade - full clear]] 5s hat
+- [[https://www.youtube.com/watch?v=gv6RHcx9eTc][fire/poison - 18.5k]] lazy rotation
+- [[https://www.youtube.com/watch?v=BBl-Bt_RvM8][hero - 18k]]
+- [[https://www.youtube.com/watch?v=DUTx10TueO4][hoyoung - 18.26k]]
+- [[https://www.youtube.com/watch?v=VW2p7ROw2vI][ice/lightning - 17.22k]]
+- [[https://www.youtube.com/watch?v=95zY4CAWytE][illium - 17.58k]]
+- [[https://www.youtube.com/watch?v=630rjuVOpII][kaiser - full clear]] 3s cooldown hat
+- [[https://www.youtube.com/watch?v=4Vc1MhFwaPc][kinesis - 18k]]
+- [[https://www.youtube.com/watch?v=AXxkHrSKDBU][lara - 17.7k]]
+- [[https://www.youtube.com/watch?v=wP7xhno3Peo][luminous - 17.89k]]
+- [[https://www.youtube.com/watch?v=HW8ikZmtdv4][marksman - full clear]]
+- [[https://www.youtube.com/watch?v=nY2sI0eQQNo][mechanic - 18.5k]] very strong
+- [[https://www.youtube.com/watch?v=KXvrrS3OWus][mechanic - 18k]] rockets appear to be 3shotting
+- [[https://www.youtube.com/watch?v=G7x6IO4i_SY][mercedes - 18.24k]]
+- [[https://www.youtube.com/watch?v=7n5KVt0I3ZI][mercedes - 18.38k]]
+- [[https://www.youtube.com/watch?v=CvebkYQUbqc][mihile - 17k]]
+- [[https://www.youtube.com/watch?v=cuiq6TWf_t4][night lord - 17k]] very low damage, dark flare and mark basically useless
+- [[https://www.youtube.com/watch?v=G-zAiQhlx7U][night walker - 18k]] bats 4-5 shotting
+- [[https://www.youtube.com/watch?v=KCJQtSsE754][paladin - 17.4k]]
+- [[https://www.youtube.com/watch?v=qqzdvPWNHLs][pathfinder - 18k]]
+- [[https://www.youtube.com/watch?v=TIEldiWjoW8][phantom - 16k]] 5s hat
+- [[https://www.youtube.com/watch?v=2MDuYnXVXG4][phantom - 18.2k]] 5s hat
+- [[https://www.youtube.com/watch?v=iqZzyDoODTU][phantom - 18k]] 5s hat
+- [[https://www.youtube.com/watch?v=NC5cUwlgZew][shade - full clear]]
+- [[https://www.youtube.com/watch?v=2pfry8wq3MQ][shadower - full clear]] not reliant on meso explosion
+- [[https://www.youtube.com/watch?v=AdWC-ap6uDM][thunder breaker - 18k]]
+- [[https://www.youtube.com/watch?v=RKyaPsCLdXE][wild hunter - full clear]]
+- [[https://www.youtube.com/watch?v=UGASJgvuN-E][wind archer - 17.4k]] 2s hat
+- [[https://www.youtube.com/watch?v=Tdp7-IMEi5Q][zero - 18k]]
+
+*** The Way to the Gate 3
+KR: 성문으로 가는 길 3
+
+aliases: 성문3
+
+36 mobs, full clear: 17.14k
+
+- [[https://www.youtube.com/watch?v=ZCj_tE6Fq9E][adele - 16.9k]]
+- [[https://www.youtube.com/watch?v=jBf3iaX3SOA][angelic buster - 16.81k]]
+- [[https://www.youtube.com/watch?v=SzZpuufVm64][bishop - 17.1k]]
+- [[https://www.youtube.com/watch?v=BraDg6ErpWA][dark knight - 16.6k]] 4s hat, 2shot erda fountain
+- [[https://www.youtube.com/watch?v=qr8ZQDcxQhw][dark knight 17.13k]] 5s hat
+- [[https://www.youtube.com/watch?v=h3OdfP25QPw][dark knight - 17k]] 5s hat
+- [[https://www.youtube.com/watch?v=l2rfc9nG8Ho][evan - 16.44k]] lazy rotation
+- [[https://www.youtube.com/watch?v=EYNwaJvCMe4][hoyoung - 17.11k]]
+- [[https://www.youtube.com/watch?v=udkCKwksBKM][kain - 16.4k]]
+- [[https://www.youtube.com/watch?v=8XLwUTQXJd0][mechanic - 17k]] lazy rotation
+- [[https://www.youtube.com/watch?v=5Ky0DvWt4W4][mercedes - 16.5k]]
+- [[https://www.youtube.com/watch?v=GcvloxBDzXM][night lord - 15.5k]]
+- [[https://www.youtube.com/watch?v=1XUnw4UQgS4][night lord - 15k]]
+- [[https://www.youtube.com/watch?v=p25N4_3e1ic][night walker - 16k]]
+- [[https://www.youtube.com/watch?v=XnsgYzryYQk][shadower - 16.6k]]
+*** The Way to the Gate 2
+KR: 성문으로 가는 길 2
+
+aliases: 성문2
+
+33 mobs, full clear: 15.7k
+
+low mob count alternative if nothing else works
+
+- [[https://www.youtube.com/watch?v=m_1nJPlDGOI][aran - full clear]]
+- [[https://www.youtube.com/watch?v=nIKh489j6oc][dark knight - 15k]] no cooldown hat
+- [[https://www.youtube.com/watch?v=CVyuS1EqcIk][hoyoung - full clear]]
+*** The Way to the Gate 1
+KR: 성문으로 가는 길 1
+
+aliases: 성문1
+
+32 mobs, full clear: 15.2k
+
+low mob count alternative if nothing else works
+
+- [[https://www.youtube.com/watch?v=Ic_LXF-W90c][cadena - 15k]] 4s hat
+- [[https://www.youtube.com/watch?v=MjSb8S4lrdY][dark knight - 14.8k]] no cooldown hat
+- [[https://www.youtube.com/watch?v=e0H8PieD5HM][dark knight - 15.5k]] 4s hat
+- [[https://www.youtube.com/watch?v=iKrNFU0-tdw][hero - 15k]]
+
+*** Occupied Alley 4
+KR: 점령당한 골목4
+
+aliases: 골목4
+
+38 mobs, full clear: 18.09k
+
+- [[https://www.youtube.com/watch?v=Bgut7fYlfVQ][adele - 17k]]
+- [[https://www.youtube.com/watch?v=quRVJzQC5ZY][angelic buster - 16k]]
+- [[https://www.youtube.com/watch?v=KL8_XJmTRrU][aran - 16.91k]]
+- [[https://www.youtube.com/watch?v=JKpk3GDhNEg][aran - 17.4k]] 12min BA
+- [[https://www.youtube.com/watch?v=VLmA4MNhadE][ark - 16.43k]]
+- [[https://www.youtube.com/watch?v=_QqjjScHnv8][bishop - 17.22k]]
+- [[https://www.youtube.com/watch?v=vZk1P1xzdEQ][blaster - full clear]]
+- [[https://www.youtube.com/watch?v=n5ZN3TyjCZY][cadena - 17.38k]]
+- [[https://www.youtube.com/watch?v=knQvGZC2DwY][cannon master - 18k]]
+- [[https://www.youtube.com/watch?v=dbtnGZC_27Q][dark knight - 17k]] 4s hat
+- [[https://www.youtube.com/watch?v=f75Vz9MsauQ][demon slayer - 15.5k]]
+- [[https://www.youtube.com/watch?v=59qWUvEDHVQ][dual blade - 15.49k]] 4s hat
+- [[https://www.youtube.com/watch?v=M4BZJMwx5co][dual blade - 17.74k]] 5s hat
+- [[https://www.youtube.com/watch?v=T8f5XpxBlsg][fire/poison - 18k]]
+- [[https://www.youtube.com/watch?v=XEQs1-fL_vk][hero - 16.4k]] 5s hat
+- [[https://www.youtube.com/watch?v=sSbU4WFJXN4][hoyoung - 16.45k]]
+- [[https://www.youtube.com/watch?v=Po5h_MiCSYI][ice/lightning - 16.9k]]
+- [[https://www.youtube.com/watch?v=S7EJrMaLd28][kain - 18k]]
+- [[https://www.youtube.com/watch?v=Wf1kXPrwkXo][kaiser - full clear]]
+- [[https://www.youtube.com/watch?v=Bujvujj-bqA][kinesis - 17.8k]]
+- [[https://www.youtube.com/watch?v=9jKIIE9Zko0][marksman - 17.8k]]
+- [[https://www.youtube.com/watch?v=UleUc1aqqHs][mechanic - 17.96k]] lazy rotation
+- [[https://www.youtube.com/watch?v=Jqvjq7qGyy4][night lord - 16.3k]]
+- [[https://www.youtube.com/watch?v=doPd7fLqhLE][night walker - 17.3k]]
+- [[https://www.youtube.com/watch?v=9IIvyh8_DCE][pathfinder - 16.54k]]
+- [[https://www.youtube.com/watch?v=nd8PtKDabfk][shade - 18k]]
+- [[https://www.youtube.com/watch?v=ceahkAo6lyc][shadower - 17.85k]] 1hr BA (2nd one)
+- [[https://www.youtube.com/watch?v=1ZFpmhc-E30][shadower - full clear]]
+- [[https://www.youtube.com/watch?v=2H-MBHLKjKc][thunder breaker - 17.7k]]
+*** Occupied Alley 3
+KR: 점령당한 골목3
+
+aliases: 골목3
+
+36 mobs, full clear: 17.14k
+
+- [[https://www.youtube.com/watch?v=8qA75ND7pS8][bishop - 17k]]
+- [[https://www.youtube.com/watch?v=U_UjHYC-Zq0][corsair - full clear]]
+- [[https://www.youtube.com/watch?v=1QCIpx4pum4][dark knight - 17k]] 4s hat
+- [[https://www.youtube.com/watch?v=bw7dcQd6M5k][hoyoung - full clear]]
+- [[https://www.youtube.com/watch?v=B-2xg-7EwhE][shadower - 16k]]
+- [[https://www.youtube.com/watch?v=HbZbDX5czyI][xenon - 16.2k]]
+*** Sunrise Laboratory 3
+KR: 볕 드는 실험실 3
+
+aliases: 볕드실3
+
+39 mobs, full clear: 18.57k
+
+very strange layout, but suprisingly good rates for some classes. the teleporters work in a cross shape kinda like mottled forest 2. any class that can hit all around them quickly enough can do a lazy rotation with the teleporters
+
+- [[https://www.youtube.com/watch?v=PyNCRTrNhLY][aran - 16k]] lazy rotation
+- [[https://www.youtube.com/watch?v=h2TYrfXpqSU][bishop - 16.47k]]
+- [[https://www.youtube.com/watch?v=Z2N9Q4LGzWU][bishop - 16.9k]]
+- [[https://www.youtube.com/watch?v=eTanVW0wdLo][bishop - 17k]]
+- [[https://www.youtube.com/watch?v=9tkab6IJaoU][cadena - 17k]]
+- [[https://www.youtube.com/watch?v=g75RV6mZuG8][dark knight - 17.3k]] 4s hat
+- [[https://www.youtube.com/watch?v=OiEYILWESBU][dual blade - 17.44k]] 5s hat, interesting use of the bossing skill
+- [[https://www.youtube.com/watch?v=ylVuZ86Lp-8][fire/poison - 16k]] lazy rotation (mostly standing in the middle)
+- [[https://www.youtube.com/watch?v=pzBicBcaqPw][ice/lightning - 16.5k]]
+- [[https://www.youtube.com/watch?v=rGaTSKsCtq8][kinesis - 17.5k]]
+- [[https://www.youtube.com/watch?v=mT6zTVRfz8s][luminous - 17.5k]] lazy rotation
+- [[https://www.youtube.com/watch?v=1FssztEUCTE][marksman - 15.6k]] lazy rotation
+- [[https://www.youtube.com/watch?v=TXFNgQ3-txc][mercedes - 17.26k]] lazy rotation
+- [[https://www.youtube.com/watch?v=jpSmgmw4nKQ][night lord - 16.7k]] L shaped rotation, very weak summon and mark damage
+- [[https://www.youtube.com/watch?v=Y0wBzw7Pyxg][paladin - 16.5k]]
+- [[https://www.youtube.com/watch?v=dfD4KcwTiHI][pathfinder - 16.5k]] lazy rotation
+- [[https://www.youtube.com/watch?v=satj7CaXOZY][phantom - 17.5k]] 5s hat
+- [[https://www.youtube.com/watch?v=j2GuSuxysWU][shade - 17.27k]]
+- [[https://www.youtube.com/watch?v=pO7N_w4g-RQ][shadower - 16.58k]] lazy rotation, 1hr BA
+- [[https://www.youtube.com/watch?v=V1u_HvWsQ2Y][wind archer - 17.4k]] 4s hat, lazy rotation
+*** Sunrise Laboratory 2
+KR: 볕 드는 실험실 2
+
+37 mobs, full clear: 17.61k
+
+another cross teleport pattern lazy drop down map. doesnt look as good as lab 3 but seems like a valid alternative
+
+- [[https://www.youtube.com/watch?v=XnTAqaz9sVk][dark knight - 16.6k]] 4s hat, U shape rotation. says 17k possible with a 5s hat
+- [[https://www.youtube.com/watch?v=htPTsaap8T8][demon slayer - 15.7k]] lazy rotation
+- [[https://www.youtube.com/watch?v=Q2GwvFNdoXU][zero - 16.21k]]
+*** Sunrise Laboratory 1
+KR: 볕 드는 실험실 1
+
+32 mobs, full clear: 15.2k
+
+low mob count alternative if nothing else works. seems to work ok for mages
+
+- [[https://www.youtube.com/watch?v=2IKOGzqzINU][cannon master - 15k]]
+- [[https://www.youtube.com/watch?v=IZWZD8vK-BI][evan - 15k]]
+- [[https://www.youtube.com/watch?v=3lGMfuypXmI][ice/lightning - 15k]]
+- [[https://www.youtube.com/watch?v=bGUg3jh2Ass][shadower - full clear]]
+- [[https://www.youtube.com/watch?v=dVfemZdObWE][xenon - 15k]]
+*** Laboratory Behind Closed Doors 3
+KR: 잠긴 문 뒤 실험실 3
+
+39 mobs, full clear: 18.57k
+
+high force requirement, high exp per mob, high mob count. probably the best exp. also has a cross shaped pattern of teleporters like sunrise lab
+
+- [[https://www.youtube.com/watch?v=6TIlq0tFrig][adele - 18.4k]]
+- [[https://www.youtube.com/watch?v=PZy0HCBa-Hs][bishop - 18k]] lazy rotation
+- [[https://www.youtube.com/watch?v=3mXu3UixFj8][blaze wizard - 15.6k]]
+- [[https://www.youtube.com/watch?v=heNfhx7vv9o][blaze wizard - 16.09k]]
+- [[https://www.youtube.com/watch?v=U5f-memm3qI][blaze wizard - 16.5k]] 12min BA
+- [[https://www.youtube.com/watch?v=E8Xih8c9-8c][cannon master - 15.7k]]
+- [[https://www.youtube.com/watch?v=5HroGbBnwf8][fire/poison - 18.4k]]
+- [[https://www.youtube.com/watch?v=SisE3MGid10][luminous - full clear]]
+- [[https://www.youtube.com/watch?v=1P26BkmpHfc][marksman - 16.27k]] lazy rotation
+- [[https://www.youtube.com/watch?v=lxhv-JpPATY][mercedes - 17k]] lazy rotation
+- [[https://www.youtube.com/watch?v=bZWabj5ppXM][night walker - 17k]]
+- [[https://www.youtube.com/watch?v=aH1XMFAQXXw][phantom - 16.7k]] 5s hat
+- [[https://www.youtube.com/watch?v=Mg8m-vlGztE][shade - 17k]] lazy rotation
+- [[https://www.youtube.com/watch?v=UFDdVlNYUXU][shadower - 17k]] lazy rotation
+- [[https://www.youtube.com/watch?v=YcMlSGX-xpc][wind archer - 17.3k]] 5s hat, lazy rotation
+*** Laboratory Behind Closed Doors 2
+KR: 잠긴 문 뒤 실험실 2
+
+36 mobs, full clear: 17.14k
+
+- [[https://www.youtube.com/watch?v=pA9XzL-4uMk][adele - 16.5k]] lazy rotation
+- [[https://www.youtube.com/watch?v=aVtnE_DseUM][angelic buster - 17k]]
+- [[https://www.youtube.com/watch?v=VeiJB_yvHvc'][cadena - 16k]]
+- [[https://www.youtube.com/watch?v=33jToC2yMoE][dark knight - 16.5k]] 4s hat
+- [[https://www.youtube.com/watch?v=9VbTahL3cpY][dual blade - 16.57k]] 5s hat
+- [[https://www.youtube.com/watch?v=PvQ5NBnG4aw][ice/lightning - 16k]] 30min BA, lazy rotation
+- [[https://www.youtube.com/watch?v=nE_Vcpe5fds][kaiser - 16.77k]]
+- [[https://www.youtube.com/watch?v=Ud6nmclg5O4][wind archer - 16.5k]] lazy rotation
+*** Laboratory Behind Closed Doors 1
+KR: 잠긴 문 뒤 실험실 1
+
+32 mobs, full clear: 15.2k
+
+low mob count alternative if nothing else works
+
+- [[https://www.youtube.com/watch?v=mXdzaKvRuUQ][dark knight - 15k]] 4s hat
