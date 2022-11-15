@@ -843,7 +843,7 @@ aliases: 성문3
 
 - [[https://www.youtube.com/watch?v=ZCj_tE6Fq9E][adele - 16.9k]]
 - [[https://www.youtube.com/watch?v=jBf3iaX3SOA][angelic buster - 16.81k]]
-- [[https://www.youtube.com/watch?v=SzZpuufVm64][bishop - 17.1k]]
+- [[https://www.youtube.com/watch?v=SzZpuufVm64][bishop - 17.1k]] 4s hat
 - [[https://www.youtube.com/watch?v=BraDg6ErpWA][dark knight - 16.6k]] 4s hat, 2shot erda fountain
 - [[https://www.youtube.com/watch?v=qr8ZQDcxQhw][dark knight 17.13k]] 5s hat
 - [[https://www.youtube.com/watch?v=h3OdfP25QPw][dark knight - 17k]] 5s hat
